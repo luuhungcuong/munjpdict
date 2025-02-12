@@ -1,0 +1,2054 @@
+{
+    "name": "Kanji look and learn",
+    "language": "ja-JP",
+    "data": [
+        {
+            "word": "一",
+            "title": "Nhất, one, one radical (no.1)\nON:イチ, イツ\nKUN:ひと-, ひと.つ"
+        },
+        {
+            "word": "二",
+            "title": "Nhị, two, two radical (no. 7)\nON:ニ, ジ\nKUN:ふた, ふた.つ, ふたたび"
+        },
+        {
+            "word": "三",
+            "title": "Tam, Tám, three\nON:サン, ゾウ\nKUN:み, み.つ, みっ.つ"
+        },
+        {
+            "word": "四",
+            "title": "Tứ, four\nON:シ\nKUN:よ, よ.つ, よっ.つ, よん"
+        },
+        {
+            "word": "五",
+            "title": "Ngũ, five\nON:ゴ\nKUN:いつ, いつ.つ"
+        },
+        {
+            "word": "六",
+            "title": "Lục, six\nON:ロク, リク\nKUN:む, む.つ, むっ.つ, むい"
+        },
+        {
+            "word": "七",
+            "title": "Thất, seven\nON:シチ\nKUN:なな, なな.つ, なの"
+        },
+        {
+            "word": "八",
+            "title": "Bát, eight, eight radical (no. 12)\nON:ハチ\nKUN:や, や.つ, やっ.つ, よう"
+        },
+        {
+            "word": "九",
+            "title": "Cửu, Cưu, nine\nON:キュウ, ク\nKUN:ここの, ここの.つ"
+        },
+        {
+            "word": "十",
+            "title": "Thập, ten\nON:ジュウ, ジッ, ジュッ\nKUN:とお, と, そ"
+        },
+        {
+            "word": "百",
+            "title": "Bách, Bá, Mạch, hundred\nON:ヒャク, ビャク\nKUN:もも"
+        },
+        {
+            "word": "千",
+            "title": "Thiên, thousand\nON:セン\nKUN:ち"
+        },
+        {
+            "word": "万",
+            "title": "Vạn, Mặc, ten thousand, 10,000\nON:マン, バン\nKUN:よろず"
+        },
+        {
+            "word": "円",
+            "title": "Viên, circle, yen, round\nON:エン\nKUN:まる.い, まる, まど, まど.か, まろ.やか"
+        },
+        {
+            "word": "口",
+            "title": "Khẩu, mouth\nON:コウ, ク\nKUN:くち"
+        },
+        {
+            "word": "目",
+            "title": "Mục, eye, class, look, insight, experience, care, favor\nON:モク, ボク\nKUN:め, -め, ま-"
+        },
+        {
+            "word": "日",
+            "title": "Nhật, day, sun, Japan, counter for days\nON:ニチ, ジツ\nKUN:ひ, -び, -か"
+        },
+        {
+            "word": "月",
+            "title": "Nguyệt, month, moon\nON:ゲツ, ガツ\nKUN:つき"
+        },
+        {
+            "word": "火",
+            "title": "Hỏa, fire\nON:カ\nKUN:ひ, -び, ほ-"
+        },
+        {
+            "word": "水",
+            "title": "Thủy, water\nON:スイ\nKUN:みず, みず-"
+        },
+        {
+            "word": "木",
+            "title": "Mộc, tree, wood\nON:ボク, モク\nKUN:き, こ-"
+        },
+        {
+            "word": "金",
+            "title": "Kim, gold\nON:キン, コン, ゴン\nKUN:かね, かな-, -がね"
+        },
+        {
+            "word": "土",
+            "title": "Thổ, Độ, Đỗ, soil, earth, ground, Turkey\nON:ド, ト\nKUN:つち"
+        },
+        {
+            "word": "曜",
+            "title": "Diệu, weekday\nON:ヨウ\nKUN:"
+        },
+        {
+            "word": "本",
+            "title": "Bổn, Bản, book, present, main, origin, true, real, counter for long cylindrical things\nON:ホン\nKUN:もと"
+        },
+        {
+            "word": "人",
+            "title": "Nhân, person\nON:ジン, ニン\nKUN:ひと, -り, -と"
+        },
+        {
+            "word": "今",
+            "title": "Kim, now\nON:コン, キン\nKUN:いま"
+        },
+        {
+            "word": "寺",
+            "title": "Tự, Buddhist temple\nON:ジ\nKUN:てら"
+        },
+        {
+            "word": "時",
+            "title": "Thì, Thời, time, hour\nON:ジ\nKUN:とき, -どき"
+        },
+        {
+            "word": "半",
+            "title": "Bán, half, middle, odd number, semi-, part-\nON:ハン\nKUN:なか.ば"
+        },
+        {
+            "word": "刀",
+            "title": "Đao, sword, saber, knife\nON:トウ\nKUN:かたな, そり"
+        },
+        {
+            "word": "分",
+            "title": "Phân, Phận, part, minute of time, segment, share, degree, one's lot, duty, understand, know, rate, 1%, chances, shaku/100\nON:ブン, フン, ブ\nKUN:わ.ける, わ.け, わ.かれる, わ.かる, わ.かつ"
+        },
+        {
+            "word": "上",
+            "title": "Thượng, Thướng, above, up\nON:ジョウ, ショウ, シャン\nKUN:うえ, -うえ, うわ-, かみ, あ.げる, -あ.げる, あ.がる, -あ.がる, あ.がり, -あ.がり, のぼ.る, のぼ.り, のぼ.せる, のぼ.す, たてまつ.る"
+        },
+        {
+            "word": "下",
+            "title": "Hạ, Há, below, down, descend, give, low, inferior\nON:カ, ゲ\nKUN:した, しも, もと, さ.げる, さ.がる, くだ.る, くだ.り, くだ.す, -くだ.す, くだ.さる, お.ろす, お.りる"
+        },
+        {
+            "word": "中",
+            "title": "Trung, Trúng, in, inside, middle, mean, center\nON:チュウ\nKUN:なか, うち, あた.る"
+        },
+        {
+            "word": "外",
+            "title": "Ngoại, outside\nON:ガイ, ゲ\nKUN:そと, ほか, はず.す, はず.れる, と-"
+        },
+        {
+            "word": "右",
+            "title": "Hữu, right\nON:ウ, ユウ\nKUN:みぎ"
+        },
+        {
+            "word": "工",
+            "title": "Công, craft, construction, katakana e radical (no. 48)\nON:コウ, ク, グ\nKUN:"
+        },
+        {
+            "word": "左",
+            "title": "Tả, Tá, left\nON:サ, シャ\nKUN:ひだり"
+        },
+        {
+            "word": "前",
+            "title": "Tiền, in front, before\nON:ゼン\nKUN:まえ, -まえ"
+        },
+        {
+            "word": "後",
+            "title": "Hậu, Hấu, behind, back, later\nON:ゴ, コウ\nKUN:のち, うし.ろ, うしろ, あと, おく.れる"
+        },
+        {
+            "word": "午",
+            "title": "Ngọ, noon, sign of the horse, 11AM-1PM, seventh sign of Chinese zodiac\nON:ゴ\nKUN:うま"
+        },
+        {
+            "word": "門",
+            "title": "Môn, gate, counter for cannons\nON:モン\nKUN:かど, と"
+        },
+        {
+            "word": "間",
+            "title": "Gian, interval, space\nON:カン, ケン\nKUN:あいだ, ま, あい"
+        },
+        {
+            "word": "東",
+            "title": "Đông, east\nON:トウ\nKUN:ひがし"
+        },
+        {
+            "word": "西",
+            "title": "Tây, Tê, west, Spain\nON:セイ, サイ, ス\nKUN:にし"
+        },
+        {
+            "word": "南",
+            "title": "Nam, south\nON:ナン, ナ\nKUN:みなみ"
+        },
+        {
+            "word": "北",
+            "title": "Bắc, north\nON:ホク\nKUN:きた"
+        },
+        {
+            "word": "田",
+            "title": "Điền, rice field, rice paddy\nON:デン\nKUN:た"
+        },
+        {
+            "word": "力",
+            "title": "Lực, power, strength, strong, strain, bear up, exert\nON:リョク, リキ, リイ\nKUN:ちから"
+        },
+        {
+            "word": "男",
+            "title": "Nam, male\nON:ダン, ナン\nKUN:おとこ, お"
+        },
+        {
+            "word": "女",
+            "title": "Nữ, Nứ, Nhữ, woman, female\nON:ジョ, ニョ, ニョウ\nKUN:おんな, め"
+        },
+        {
+            "word": "子",
+            "title": "Tử, Tý, child, sign of the rat, 11PM-1AM, first sign of Chinese zodiac\nON:シ, ス, ツ\nKUN:こ, -こ, ね"
+        },
+        {
+            "word": "学",
+            "title": "Học, study, learning, science\nON:ガク\nKUN:まな.ぶ"
+        },
+        {
+            "word": "生",
+            "title": "Sanh, Sinh, life, genuine, birth\nON:セイ, ショウ\nKUN:い.きる, い.かす, い.ける, う.まれる, うま.れる, う.まれ, うまれ, う.む, お.う, は.える, は.やす, き, なま, なま-, な.る, な.す, む.す, -う"
+        },
+        {
+            "word": "先",
+            "title": "Tiên, Tiến, before, ahead, previous, future, precedence\nON:セン\nKUN:さき, ま.ず"
+        },
+        {
+            "word": "何",
+            "title": "Hà, what\nON:カ\nKUN:なに, なん, なに-, なん-"
+        },
+        {
+            "word": "父",
+            "title": "Phụ, Phủ, father\nON:フ\nKUN:ちち"
+        },
+        {
+            "word": "母",
+            "title": "Mẫu, mother\nON:ボ\nKUN:はは, も"
+        },
+        {
+            "word": "年",
+            "title": "Niên, year, counter for years\nON:ネン\nKUN:とし"
+        },
+        {
+            "word": "去",
+            "title": "Khứ, Khu, gone, past, quit, leave, elapse, eliminate, divorce\nON:キョ, コ\nKUN:さ.る, -さ.る"
+        },
+        {
+            "word": "毎",
+            "title": "Mỗi, every\nON:マイ\nKUN:ごと, -ごと.に"
+        },
+        {
+            "word": "王",
+            "title": "Vương, Vượng, king, rule, magnate\nON:オウ, -ノウ\nKUN:"
+        },
+        {
+            "word": "国",
+            "title": "Quốc, Cuốc, country\nON:コク\nKUN:くに"
+        },
+        {
+            "word": "見",
+            "title": "Kiến, Hiện, see, hopes, chances, idea, opinion, look at, visible\nON:ケン\nKUN:み.る, み.える, み.せる"
+        },
+        {
+            "word": "行",
+            "title": "Hành, Hạnh, Hàng, Hạng, going, journey, carry out, conduct, act, line, row, bank\nON:コウ, ギョウ, アン\nKUN:い.く, ゆ.く, -ゆ.き, -ゆき, -い.き, -いき, おこな.う, おこ.なう"
+        },
+        {
+            "word": "米",
+            "title": "Mễ, rice, USA, metre\nON:ベイ, マイ, メエトル\nKUN:こめ, よね"
+        },
+        {
+            "word": "来",
+            "title": "Lai, Lãi, Lay, Lơi, Ray, Rơi, come, due, next, cause, become\nON:ライ, タイ\nKUN:く.る, きた.る, きた.す, き.たす, き.たる, き, こ"
+        },
+        {
+            "word": "良",
+            "title": "Lương, good, pleasing, skilled\nON:リョウ\nKUN:よ.い, -よ.い, い.い, -い.い"
+        },
+        {
+            "word": "食",
+            "title": "Thực, Tự, eat, food\nON:ショク, ジキ\nKUN:く.う, く.らう, た.べる, は.む"
+        },
+        {
+            "word": "飲",
+            "title": "Ấm, Ẩm, Hẩm, Ỡm, drink, smoke, take\nON:イン, オン\nKUN:の.む, -の.み"
+        },
+        {
+            "word": "会",
+            "title": "Cối, Hội, Hụi, meeting, meet, party, association, interview, join\nON:カイ, エ\nKUN:あ.う, あ.わせる, あつ.まる"
+        },
+        {
+            "word": "耳",
+            "title": "Nhĩ, ear\nON:ジ\nKUN:みみ"
+        },
+        {
+            "word": "聞",
+            "title": "Văn, Vấn, Vặn, hear, ask, listen\nON:ブン, モン\nKUN:き.く, き.こえる"
+        },
+        {
+            "word": "言",
+            "title": "Ngôn, Ngân, say, word\nON:ゲン, ゴン\nKUN:い.う, こと"
+        },
+        {
+            "word": "話",
+            "title": "Thoại, tale, talk\nON:ワ\nKUN:はな.す, はなし"
+        },
+        {
+            "word": "立",
+            "title": "Lập, stand up, rise, set up, erect\nON:リツ, リュウ, リットル\nKUN:た.つ, -た.つ, た.ち-, た.てる, -た.てる, た.て-, たて-, -た.て, -だ.て, -だ.てる"
+        },
+        {
+            "word": "待",
+            "title": "Đãi, wait, depend on\nON:タイ\nKUN:ま.つ, -ま.ち"
+        },
+        {
+            "word": "周",
+            "title": "Chu, circumference, circuit, lap\nON:シュウ\nKUN:まわ.り"
+        },
+        {
+            "word": "週",
+            "title": "Chu, week\nON:シュウ\nKUN:"
+        },
+        {
+            "word": "大",
+            "title": "Đại, Thái, large, big\nON:ダイ, タイ\nKUN:おお-, おお.きい, -おお.いに"
+        },
+        {
+            "word": "小",
+            "title": "Tiểu, little, small\nON:ショウ\nKUN:ちい.さい, こ-, お-, さ-"
+        },
+        {
+            "word": "高",
+            "title": "Cao, tall, high, expensive\nON:コウ\nKUN:たか.い, たか, -だか, たか.まる, たか.める"
+        },
+        {
+            "word": "安",
+            "title": "An, relax, cheap, low, quiet, rested, contented, peaceful\nON:アン\nKUN:やす.い, やす.まる, やす, やす.らか"
+        },
+        {
+            "word": "新",
+            "title": "Tân, new\nON:シン\nKUN:あたら.しい, あら.た, あら-, にい-"
+        },
+        {
+            "word": "古",
+            "title": "Cổ, old\nON:コ\nKUN:ふる.い, ふる-, -ふる.す"
+        },
+        {
+            "word": "元",
+            "title": "Nguyên, beginning, former time, origin\nON:ゲン, ガン\nKUN:もと"
+        },
+        {
+            "word": "気",
+            "title": "Khí, spirit, mind, air, atmosphere, mood\nON:キ, ケ\nKUN:き"
+        },
+        {
+            "word": "多",
+            "title": "Đa, many, frequent, much\nON:タ\nKUN:おお.い, まさ.に, まさ.る"
+        },
+        {
+            "word": "少",
+            "title": "Thiểu, Thiếu, few, little\nON:ショウ\nKUN:すく.ない, すこ.し"
+        },
+        {
+            "word": "広",
+            "title": "Quảng, wide, broad, spacious\nON:コウ\nKUN:ひろ.い, ひろ.まる, ひろ.める, ひろ.がる, ひろ.げる"
+        },
+        {
+            "word": "早",
+            "title": "Tảo, early, fast\nON:ソウ, サッ\nKUN:はや.い, はや, はや-, はや.まる, はや.める, さ-"
+        },
+        {
+            "word": "長",
+            "title": "Trường, Trưởng, Trướng, long, leader, superior, senior\nON:チョウ\nKUN:なが.い, おさ"
+        },
+        {
+            "word": "明",
+            "title": "Minh, bright, light\nON:メイ, ミョウ, ミン\nKUN:あ.かり, あか.るい, あか.るむ, あか.らむ, あき.らか, あ.ける, -あ.け, あ.く, あ.くる, あ.かす"
+        },
+        {
+            "word": "好",
+            "title": "Hảo, Hiếu, fond, pleasing, like something\nON:コウ\nKUN:この.む, す.く, よ.い, い.い"
+        },
+        {
+            "word": "友",
+            "title": "Hữu, friend\nON:ユウ\nKUN:とも"
+        },
+        {
+            "word": "入",
+            "title": "Nhập, enter, insert\nON:ニュウ, ジュ\nKUN:い.る, -い.る, -い.り, い.れる, -い.れ, はい.る"
+        },
+        {
+            "word": "出",
+            "title": "Xuất, Xúy, exit, leave, go out, come out, put out, protrude\nON:シュツ, スイ\nKUN:で.る, -で, だ.す, -だ.す, い.でる, い.だす"
+        },
+        {
+            "word": "市",
+            "title": "Thị, market, city, town\nON:シ\nKUN:いち"
+        },
+        {
+            "word": "町",
+            "title": "Đinh, town, village, block, street\nON:チョウ\nKUN:まち"
+        },
+        {
+            "word": "村",
+            "title": "Thôn, village, town\nON:ソン\nKUN:むら"
+        },
+        {
+            "word": "雨",
+            "title": "Vũ, Vú, rain\nON:ウ\nKUN:あめ, あま-, -さめ"
+        },
+        {
+            "word": "電",
+            "title": "Điện, electricity\nON:デン\nKUN:"
+        },
+        {
+            "word": "車",
+            "title": "Xa, car\nON:シャ\nKUN:くるま"
+        },
+        {
+            "word": "馬",
+            "title": "Mã, horse\nON:バ\nKUN:うま, うま-, ま"
+        },
+        {
+            "word": "駅",
+            "title": "Dịch, station\nON:エキ\nKUN:"
+        },
+        {
+            "word": "社",
+            "title": "Xã, company, firm, office, association, shrine\nON:シャ\nKUN:やしろ"
+        },
+        {
+            "word": "校",
+            "title": "Giáo, Hiệu, Hào, exam, school, printing, proof, correction\nON:コウ, キョウ\nKUN:"
+        },
+        {
+            "word": "店",
+            "title": "Điếm, store, shop\nON:テン\nKUN:みせ, たな"
+        },
+        {
+            "word": "銀",
+            "title": "Ngân, silver\nON:ギン\nKUN:しろがね"
+        },
+        {
+            "word": "病",
+            "title": "Bệnh, ill, sick\nON:ビョウ, ヘイ\nKUN:や.む, -や.み, やまい"
+        },
+        {
+            "word": "院",
+            "title": "Viện, Inst., institution, temple, mansion, school\nON:イン\nKUN:"
+        },
+        {
+            "word": "休",
+            "title": "Hưu, rest, day off, retire, sleep\nON:キュウ\nKUN:やす.む, やす.まる, やす.める"
+        },
+        {
+            "word": "走",
+            "title": "Tẩu, run\nON:ソウ\nKUN:はし.る"
+        },
+        {
+            "word": "起",
+            "title": "Khởi, rouse, wake up, get up\nON:キ\nKUN:お.きる, お.こる, お.こす, おこ.す, た.つ"
+        },
+        {
+            "word": "貝",
+            "title": "Bối, shellfish\nON:バイ\nKUN:かい"
+        },
+        {
+            "word": "買",
+            "title": "Mãi, buy\nON:バイ\nKUN:か.う"
+        },
+        {
+            "word": "売",
+            "title": "Mại, Xác, Xạc, sell\nON:バイ\nKUN:う.る, う.れる"
+        },
+        {
+            "word": "読",
+            "title": "Đậu, Độc, read\nON:ドク, トク, トウ\nKUN:よ.む, -よ.み"
+        },
+        {
+            "word": "書",
+            "title": "Thư, write\nON:ショ\nKUN:か.く, -が.き, -がき"
+        },
+        {
+            "word": "帰",
+            "title": "Quy, homecoming, arrive at, lead to, result in\nON:キ\nKUN:かえ.る, かえ.す, おく.る, とつ.ぐ"
+        },
+        {
+            "word": "勉",
+            "title": "Miễn, exertion, endeavour, encourage, strive, make effort, diligent\nON:ベン\nKUN:つと.める"
+        },
+        {
+            "word": "弓",
+            "title": "Cung, bow, bow (archery, violin)\nON:キュウ\nKUN:ゆみ"
+        },
+        {
+            "word": "虫",
+            "title": "Trùng, insect, bug, temper\nON:チュウ, キ\nKUN:むし"
+        },
+        {
+            "word": "強",
+            "title": "Cường, Cưỡng, Càng, Cướng, Cượng, Gàn, Gàng, Gắng, Gương, Gượng, Ngượng, strong\nON:キョウ, ゴウ\nKUN:つよ.い, つよ.まる, つよ.める, し.いる, こわ.い"
+        },
+        {
+            "word": "持",
+            "title": "Trì, hold, have\nON:ジ\nKUN:も.つ, -も.ち, も.てる"
+        },
+        {
+            "word": "名",
+            "title": "Danh, name, noted, distinguished, reputation\nON:メイ, ミョウ\nKUN:な, -な"
+        },
+        {
+            "word": "語",
+            "title": "Ngữ, Ngứ, word, speech, language\nON:ゴ\nKUN:かた.る, かた.らう"
+        },
+        {
+            "word": "春",
+            "title": "Xuân, springtime, spring (season)\nON:シュン\nKUN:はる"
+        },
+        {
+            "word": "夏",
+            "title": "Hạ, Giạ, Giá, summer\nON:カ, ガ, ゲ\nKUN:なつ"
+        },
+        {
+            "word": "秋",
+            "title": "Thu, autumn\nON:シュウ\nKUN:あき, とき"
+        },
+        {
+            "word": "冬",
+            "title": "Đông, winter\nON:トウ\nKUN:ふゆ"
+        },
+        {
+            "word": "朝",
+            "title": "Triêu, Triều, morning, dynasty, regime, epoch, period, (North) Korea\nON:チョウ\nKUN:あさ"
+        },
+        {
+            "word": "昼",
+            "title": "Trú, daytime, noon\nON:チュウ\nKUN:ひる"
+        },
+        {
+            "word": "夕",
+            "title": "Tịch, evening\nON:セキ\nKUN:ゆう"
+        },
+        {
+            "word": "方",
+            "title": "Phương, direction, person, alternative\nON:ホウ\nKUN:かた, -かた, -がた"
+        },
+        {
+            "word": "晩",
+            "title": "Hào, Mạn, Man, nightfall, night\nON:バン\nKUN:"
+        },
+        {
+            "word": "夜",
+            "title": "Dạ, night, evening\nON:ヤ\nKUN:よ, よる"
+        },
+        {
+            "word": "心",
+            "title": "Tâm, heart, mind, spirit, heart radical (no. 61)\nON:シン\nKUN:こころ, -ごころ"
+        },
+        {
+            "word": "手",
+            "title": "Thủ, hand\nON:シュ, ズ\nKUN:て, て-, -て, た-"
+        },
+        {
+            "word": "足",
+            "title": "Túc, leg, foot, be sufficient, counter for pairs of footwear\nON:ソク\nKUN:あし, た.りる, た.る, た.す"
+        },
+        {
+            "word": "体",
+            "title": "Thể, body, substance, object, reality, counter for images\nON:タイ, テイ\nKUN:からだ, かたち"
+        },
+        {
+            "word": "首",
+            "title": "Thủ, Thú, neck, counter for songs and poems\nON:シュ\nKUN:くび"
+        },
+        {
+            "word": "道",
+            "title": "Đạo, Đáo, road-way, street, district, journey, course, moral, teachings\nON:ドウ, トウ\nKUN:みち, いう"
+        },
+        {
+            "word": "山",
+            "title": "San, Sơn, mountain\nON:サン, セン\nKUN:やま"
+        },
+        {
+            "word": "川",
+            "title": "Xuyên, stream, river, river or three-stroke river radical (no. 47)\nON:セン\nKUN:かわ"
+        },
+        {
+            "word": "林",
+            "title": "Lâm, grove, forest\nON:リン\nKUN:はやし"
+        },
+        {
+            "word": "森",
+            "title": "Sâm, forest, woods\nON:シン\nKUN:もり"
+        },
+        {
+            "word": "空",
+            "title": "Không, Khống, Khổng, empty, sky, void, vacant, vacuum\nON:クウ\nKUN:そら, あ.く, あ.き, あ.ける, から, す.く, す.かす, むな.しい"
+        },
+        {
+            "word": "海",
+            "title": "Hải, sea, ocean\nON:カイ\nKUN:うみ"
+        },
+        {
+            "word": "化",
+            "title": "Hóa, change, take the form of, influence, enchant, delude, -ization\nON:カ, ケ\nKUN:ば.ける, ば.かす, ふ.ける, け.する"
+        },
+        {
+            "word": "花",
+            "title": "Hoa, flower\nON:カ, ケ\nKUN:はな"
+        },
+        {
+            "word": "天",
+            "title": "Thiên, heavens, sky, imperial\nON:テン\nKUN:あまつ, あめ, あま-"
+        },
+        {
+            "word": "赤",
+            "title": "Xích, Thích, red\nON:セキ, シャク\nKUN:あか, あか-, あか.い, あか.らむ, あか.らめる"
+        },
+        {
+            "word": "青",
+            "title": "Thanh, blue, green\nON:セイ, ショウ\nKUN:あお, あお-, あお.い"
+        },
+        {
+            "word": "白",
+            "title": "Bạch, white\nON:ハク, ビャク\nKUN:しろ, しら-, しろ.い"
+        },
+        {
+            "word": "黒",
+            "title": "Hắc, black\nON:コク\nKUN:くろ, くろ.ずむ, くろ.い"
+        },
+        {
+            "word": "色",
+            "title": "Sắc, color\nON:ショク, シキ\nKUN:いろ"
+        },
+        {
+            "word": "魚",
+            "title": "Ngư, fish\nON:ギョ\nKUN:うお, さかな, -ざかな"
+        },
+        {
+            "word": "犬",
+            "title": "Khuyển, dog\nON:ケン\nKUN:いぬ, いぬ-"
+        },
+        {
+            "word": "料",
+            "title": "Liêu, Liệu, fee, materials\nON:リョウ\nKUN:"
+        },
+        {
+            "word": "理",
+            "title": "Lý, logic, arrangement, reason, justice, truth\nON:リ\nKUN:ことわり"
+        },
+        {
+            "word": "反",
+            "title": "Phản, Phiên, anti-\nON:ハン, ホン, タン, ホ\nKUN:そ.る, そ.らす, かえ.す, かえ.る, -かえ.る"
+        },
+        {
+            "word": "飯",
+            "title": "Phạn, Phãn, meal, boiled rice\nON:ハン\nKUN:めし"
+        },
+        {
+            "word": "牛",
+            "title": "Ngưu, cow\nON:ギュウ\nKUN:うし"
+        },
+        {
+            "word": "豚",
+            "title": "Đồn, Độn, pork, pig\nON:トン\nKUN:ぶた"
+        },
+        {
+            "word": "鳥",
+            "title": "Điểu, bird, chicken\nON:チョウ\nKUN:とり"
+        },
+        {
+            "word": "肉",
+            "title": "Nhục, Nhụ, Nậu, meat\nON:ニク\nKUN:しし"
+        },
+        {
+            "word": "茶",
+            "title": "Trà, tea\nON:チャ, サ\nKUN:"
+        },
+        {
+            "word": "予",
+            "title": "Dư, Dữ, beforehand, previous, myself, I\nON:ヨ, シャ\nKUN:あらかじ.め"
+        },
+        {
+            "word": "野",
+            "title": "Dã, plains, field, rustic, civilian life\nON:ヤ, ショ\nKUN:の, の-"
+        },
+        {
+            "word": "菜",
+            "title": "Thái, vegetable, side dish, greens\nON:サイ\nKUN:な"
+        },
+        {
+            "word": "切",
+            "title": "Thiết, Thế, cut, cutoff, be sharp\nON:セツ, サイ\nKUN:き.る, -き.る, き.り, -き.り, -ぎ.り, き.れる, -き.れる, き.れ, -き.れ, -ぎ.れ"
+        },
+        {
+            "word": "作",
+            "title": "Tác, make, production, prepare, build\nON:サク, サ\nKUN:つく.る, つく.り, -づく.り"
+        },
+        {
+            "word": "未",
+            "title": "Vị, Mùi, un-, not yet, hitherto, still, even now, sign of the ram, 1-3PM, eighth sign of Chinese zodiac\nON:ミ, ビ\nKUN:いま.だ, ま.だ, ひつじ"
+        },
+        {
+            "word": "味",
+            "title": "Vị, flavor, taste\nON:ミ\nKUN:あじ, あじ.わう"
+        },
+        {
+            "word": "音",
+            "title": "Âm, sound, noise\nON:オン, イン, -ノン\nKUN:おと, ね"
+        },
+        {
+            "word": "楽",
+            "title": "Lạc, Nhạc, music, comfort, ease\nON:ガク, ラク, ゴウ\nKUN:たの.しい, たの.しむ, この.む"
+        },
+        {
+            "word": "歌",
+            "title": "Ca, song, sing\nON:カ\nKUN:うた, うた.う"
+        },
+        {
+            "word": "自",
+            "title": "Tự, oneself\nON:ジ, シ\nKUN:みずか.ら, おの.ずから, おの.ずと"
+        },
+        {
+            "word": "転",
+            "title": "Chuyển, revolve, turn around, change\nON:テン\nKUN:ころ.がる, ころ.げる, ころ.がす, ころ.ぶ, まろ.ぶ, うたた, うつ.る, くる.めく"
+        },
+        {
+            "word": "乗",
+            "title": "Thặng, Thừa, ride, power, multiplication, record, counter for vehicles, board, mount, join\nON:ジョウ, ショウ\nKUN:の.る, -の.り, の.せる"
+        },
+        {
+            "word": "写",
+            "title": "Tả, copy, be photographed, describe\nON:シャ, ジャ\nKUN:うつ.す, うつ.る, うつ-, うつ.し"
+        },
+        {
+            "word": "真",
+            "title": "Chân, true, reality, Buddhist sect\nON:シン\nKUN:ま, ま-, まこと"
+        },
+        {
+            "word": "台",
+            "title": "Thai, Đài, Di, pedestal, a stand, counter for machines and vehicles\nON:ダイ, タイ\nKUN:うてな, われ, つかさ"
+        },
+        {
+            "word": "央",
+            "title": "Ương, center, middle\nON:オウ\nKUN:"
+        },
+        {
+            "word": "映",
+            "title": "Ánh, reflect, reflection, projection\nON:エイ\nKUN:うつ.る, うつ.す, は.える, -ば.え"
+        },
+        {
+            "word": "画",
+            "title": "Hoạch, brush-stroke, picture\nON:ガ, カク, エ, カイ\nKUN:えが.く, かく.する, かぎ.る, はかりごと, はか.る"
+        },
+        {
+            "word": "羊",
+            "title": "Dương, sheep\nON:ヨウ\nKUN:ひつじ"
+        },
+        {
+            "word": "洋",
+            "title": "Dương, ocean, sea, foreign, Western style\nON:ヨウ\nKUN:"
+        },
+        {
+            "word": "服",
+            "title": "Phục, clothing, admit, obey, discharge\nON:フク\nKUN:"
+        },
+        {
+            "word": "着",
+            "title": "Khán, don, arrive, wear, counter for suits of clothing\nON:チャク, ジャク\nKUN:き.る, き.せる, つ.く, つ.ける"
+        },
+        {
+            "word": "家",
+            "title": "Gia, Cô, house, home, family, professional, expert, performer\nON:カ, ケ\nKUN:いえ, や, うち"
+        },
+        {
+            "word": "矢",
+            "title": "Thỉ, dart, arrow\nON:シ\nKUN:や"
+        },
+        {
+            "word": "族",
+            "title": "Tộc, tribe, family\nON:ゾク\nKUN:"
+        },
+        {
+            "word": "親",
+            "title": "Thân, Thấn, parent, intimacy, relative, familiarity, dealer (cards)\nON:シン\nKUN:おや, おや-, した.しい, した.しむ"
+        },
+        {
+            "word": "兄",
+            "title": "Huynh, elder brother, big brother\nON:ケイ, キョウ\nKUN:あに"
+        },
+        {
+            "word": "姉",
+            "title": "Tỉ, Tỷ, Chị, elder sister\nON:シ\nKUN:あね, はは"
+        },
+        {
+            "word": "弟",
+            "title": "Đệ, Đễ, younger brother, faithful service to elders\nON:テイ, ダイ, デ\nKUN:おとうと"
+        },
+        {
+            "word": "妹",
+            "title": "Muội, younger sister\nON:マイ\nKUN:いもうと"
+        },
+        {
+            "word": "私",
+            "title": "Tư, private, I, me\nON:シ\nKUN:わたくし, わたし"
+        },
+        {
+            "word": "夫",
+            "title": "Phu, Phù, husband, man\nON:フ, フウ, ブ\nKUN:おっと, それ"
+        },
+        {
+            "word": "妻",
+            "title": "Thê, Thế, wife, spouse\nON:サイ\nKUN:つま"
+        },
+        {
+            "word": "主",
+            "title": "Chủ, lord, chief, master, main thing, principal\nON:シュ, ス, シュウ\nKUN:ぬし, おも, あるじ"
+        },
+        {
+            "word": "住",
+            "title": "Trụ, dwell, reside, live, inhabit\nON:ジュウ, ヂュウ, チュウ\nKUN:す.む, す.まう, -ず.まい"
+        },
+        {
+            "word": "糸",
+            "title": "Mịch, thread\nON:シ\nKUN:いと"
+        },
+        {
+            "word": "氏",
+            "title": "Thị, Chi, family name, surname, clan\nON:シ\nKUN:うじ, -うじ"
+        },
+        {
+            "word": "紙",
+            "title": "Chỉ, paper\nON:シ\nKUN:かみ"
+        },
+        {
+            "word": "教",
+            "title": "Giáo, teach, faith, doctrine\nON:キョウ\nKUN:おし.える, おそ.わる"
+        },
+        {
+            "word": "室",
+            "title": "Thất, room, apartment, chamber, greenhouse, cellar\nON:シツ\nKUN:むろ"
+        },
+        {
+            "word": "羽",
+            "title": "Vũ, feathers, counter for birds, rabbits\nON:ウ\nKUN:は, わ, はね"
+        },
+        {
+            "word": "習",
+            "title": "Tập, learn\nON:シュウ, ジュ\nKUN:なら.う, なら.い"
+        },
+        {
+            "word": "漢",
+            "title": "Hán, Sino-, China\nON:カン\nKUN:"
+        },
+        {
+            "word": "字",
+            "title": "Tự, character, letter, word, section of village\nON:ジ\nKUN:あざ, あざな, -な"
+        },
+        {
+            "word": "式",
+            "title": "Thức, style, ceremony, rite, function, method, system, form, expression\nON:シキ\nKUN:"
+        },
+        {
+            "word": "試",
+            "title": "Thí, test, try, attempt, experiment, ordeal\nON:シ\nKUN:こころ.みる, ため.す"
+        },
+        {
+            "word": "験",
+            "title": "Nghiệm, verification, effect, testing\nON:ケン, ゲン\nKUN:あかし, しるし, ため.す, ためし"
+        },
+        {
+            "word": "宿",
+            "title": "Túc, Tú, inn, lodging, relay station, dwell, lodge, be pregnant, home, dwelling\nON:シュク\nKUN:やど, やど.る, やど.す"
+        },
+        {
+            "word": "題",
+            "title": "Đề, topic, subject\nON:ダイ\nKUN:"
+        },
+        {
+            "word": "文",
+            "title": "Văn, Vấn, sentence, literature, style, art, decoration, figures, plan, literary radical (no. 67)\nON:ブン, モン\nKUN:ふみ, あや"
+        },
+        {
+            "word": "英",
+            "title": "Anh, England, English, hero, outstanding, calyx\nON:エイ\nKUN:はなぶさ"
+        },
+        {
+            "word": "質",
+            "title": "Chất, Chí, substance, quality, matter, temperament\nON:シツ, シチ, チ\nKUN:たち, ただ.す, もと, わりふ"
+        },
+        {
+            "word": "問",
+            "title": "Vấn, question, ask, problem\nON:モン\nKUN:と.う, と.い, とん"
+        },
+        {
+            "word": "説",
+            "title": "Duyệt, Thoát, Thuế, Thuyết, Thót, Thốt, opinion, theory, explanation, rumor\nON:セツ, ゼイ\nKUN:と.く"
+        },
+        {
+            "word": "遠",
+            "title": "Viễn, Viển, distant, far\nON:エン, オン\nKUN:とお.い"
+        },
+        {
+            "word": "近",
+            "title": "Cận, Cấn, Ký, near, early, akin, tantamount\nON:キン, コン\nKUN:ちか.い"
+        },
+        {
+            "word": "者",
+            "title": "Giả, someone, person\nON:シャ\nKUN:もの"
+        },
+        {
+            "word": "暑",
+            "title": "Thử, sultry, hot, summer heat\nON:ショ\nKUN:あつ.い"
+        },
+        {
+            "word": "寒",
+            "title": "Hàn, cold\nON:カン\nKUN:さむ.い"
+        },
+        {
+            "word": "重",
+            "title": "Trọng, Trùng, heavy, important, esteem, respect, heap up, pile up, nest of boxes, -fold\nON:ジュウ, チョウ\nKUN:え, おも.い, おも.り, おも.なう, かさ.ねる, かさ.なる, おも"
+        },
+        {
+            "word": "軽",
+            "title": "Khinh, lightly, trifling, unimportant\nON:ケイ, キョウ, キン\nKUN:かる.い, かろ.やか, かろ.んじる"
+        },
+        {
+            "word": "低",
+            "title": "Đê, lower, short, humble\nON:テイ\nKUN:ひく.い, ひく.める, ひく.まる"
+        },
+        {
+            "word": "弱",
+            "title": "Nhược, weak, frail\nON:ジャク\nKUN:よわ.い, よわ.る, よわ.まる, よわ.める"
+        },
+        {
+            "word": "悪",
+            "title": "Ác, Ố, Óc, bad, vice, rascal, false, evil, wrong\nON:アク, オ\nKUN:わる.い, わる-, あ.し, にく.い, -にく.い, ああ, いずくに, いずくんぞ, にく.む"
+        },
+        {
+            "word": "暗",
+            "title": "Ám, darkness, disappear, shade, informal, grow dark, be blinded\nON:アン\nKUN:くら.い, くら.む, くれ.る"
+        },
+        {
+            "word": "太",
+            "title": "Thái, plump, thick, big around\nON:タイ, タ\nKUN:ふと.い, ふと.る"
+        },
+        {
+            "word": "豆",
+            "title": "Đậu, Dấu, beans, pea, midget\nON:トウ, ズ\nKUN:まめ, まめ-"
+        },
+        {
+            "word": "短",
+            "title": "Đoản, short, brevity, fault, defect, weak point\nON:タン\nKUN:みじか.い"
+        },
+        {
+            "word": "光",
+            "title": "Quang, ray, light\nON:コウ\nKUN:ひか.る, ひかり"
+        },
+        {
+            "word": "風",
+            "title": "Phong, wind, air, style, manner\nON:フウ, フ\nKUN:かぜ, かざ-"
+        },
+        {
+            "word": "運",
+            "title": "Vận, carry, luck, destiny, fate, lot, transport, progress, advance\nON:ウン\nKUN:はこ.ぶ"
+        },
+        {
+            "word": "動",
+            "title": "Động, move, motion, change, confusion, shift, shake\nON:ドウ\nKUN:うご.く, うご.かす"
+        },
+        {
+            "word": "止",
+            "title": "Chỉ, stop, halt\nON:シ\nKUN:と.まる, -ど.まり, と.める, -と.める, -ど.め, とど.める, とど.め, とど.まる, や.める, や.む, -や.む, よ.す, -さ.す, -さ.し"
+        },
+        {
+            "word": "歩",
+            "title": "Bộ, walk, counter for steps\nON:ホ, ブ, フ\nKUN:ある.く, あゆ.む"
+        },
+        {
+            "word": "使",
+            "title": "Sử, Sứ, use, send on a mission, order, messenger, envoy, ambassador, cause\nON:シ\nKUN:つか.う, つか.い, -つか.い, -づか.い"
+        },
+        {
+            "word": "送",
+            "title": "Tống, escort, send\nON:ソウ\nKUN:おく.る"
+        },
+        {
+            "word": "洗",
+            "title": "Tẩy, Tiển, wash, inquire into, probe\nON:セン\nKUN:あら.う"
+        },
+        {
+            "word": "急",
+            "title": "Cấp, hurry, emergency, sudden, steep\nON:キュウ\nKUN:いそ.ぐ, いそ.ぎ, せ.く"
+        },
+        {
+            "word": "開",
+            "title": "Khai, open, unfold, unseal\nON:カイ\nKUN:ひら.く, ひら.き, -びら.き, ひら.ける, あ.く, あ.ける"
+        },
+        {
+            "word": "閉",
+            "title": "Bế, closed, shut\nON:ヘイ\nKUN:と.じる, と.ざす, し.める, し.まる, た.てる"
+        },
+        {
+            "word": "押",
+            "title": "Áp, push, stop, check, subdue, attach, seize, weight, shove, press, seal, do in spite of\nON:オウ\nKUN:お.す, お.し-, お.っ-, お.さえる, おさ.える"
+        },
+        {
+            "word": "引",
+            "title": "Dẫn, Dấn, pull, tug, jerk, admit, install, quote, refer to\nON:イン\nKUN:ひ.く, ひ.ける"
+        },
+        {
+            "word": "思",
+            "title": "Tư, Tứ, Tai, think\nON:シ\nKUN:おも.う, おもえら.く, おぼ.す"
+        },
+        {
+            "word": "知",
+            "title": "Tri, know, wisdom\nON:チ\nKUN:し.る, し.らせる"
+        },
+        {
+            "word": "考",
+            "title": "Khảo, consider, think over\nON:コウ\nKUN:かんが.える, かんが.え"
+        },
+        {
+            "word": "死",
+            "title": "Tử, death, die\nON:シ\nKUN:し.ぬ, し.に-"
+        },
+        {
+            "word": "医",
+            "title": "Ế, Y, Ỷ, I, Ỉ, doctor, medicine\nON:イ\nKUN:い.やす, い.する, くすし"
+        },
+        {
+            "word": "始",
+            "title": "Thủy, Thí, commence, begin\nON:シ\nKUN:はじ.める, -はじ.める, はじ.まる"
+        },
+        {
+            "word": "終",
+            "title": "Chung, end, finish\nON:シュウ\nKUN:お.わる, -お.わる, おわ.る, お.える, つい, つい.に"
+        },
+        {
+            "word": "石",
+            "title": "Thạch, stone\nON:セキ, シャク, コク\nKUN:いし"
+        },
+        {
+            "word": "研",
+            "title": "Nghiên, Nghiễn, Nghiến, Nghiền, Nghiện, polish, study of, sharpen\nON:ケン\nKUN:と.ぐ"
+        },
+        {
+            "word": "究",
+            "title": "Cứu, research, study\nON:キュウ, ク\nKUN:きわ.める"
+        },
+        {
+            "word": "留",
+            "title": "Lưu, detain, fasten, halt, stop\nON:リュウ, ル\nKUN:と.める, と.まる, とど.める, とど.まる, るうぶる"
+        },
+        {
+            "word": "有",
+            "title": "Hữu, Dựu, possess, have, exist, happen, occur, approx\nON:ユウ, ウ\nKUN:あ.る"
+        },
+        {
+            "word": "産",
+            "title": "Sản, Sẵn, Sởn, products, bear, give birth, yield, childbirth, native, property\nON:サン\nKUN:う.む, う.まれる, うぶ-, む.す"
+        },
+        {
+            "word": "業",
+            "title": "Nghiệp, business, vocation, arts, performance\nON:ギョウ, ゴウ\nKUN:わざ"
+        },
+        {
+            "word": "薬",
+            "title": "Dược, Ước, medicine, chemical, enamel, gunpowder, benefit\nON:ヤク\nKUN:くすり"
+        },
+        {
+            "word": "働",
+            "title": "Động, work, (kokuji)\nON:ドウ\nKUN:はたら.く"
+        },
+        {
+            "word": "員",
+            "title": "Viên, Vân, employee, member, number, the one in charge\nON:イン\nKUN:"
+        },
+        {
+            "word": "士",
+            "title": "Sĩ, gentleman, scholar, samurai, samurai radical (no. 33)\nON:シ\nKUN:さむらい"
+        },
+        {
+            "word": "仕",
+            "title": "Sĩ, attend, doing, official, serve\nON:シ, ジ\nKUN:つか.える"
+        },
+        {
+            "word": "事",
+            "title": "Sự, matter, thing, fact, business, reason, possibly\nON:ジ, ズ\nKUN:こと, つか.う, つか.える"
+        },
+        {
+            "word": "図",
+            "title": "Đồ, Vi, map, drawing, plan, extraordinary, audacious\nON:ズ, ト\nKUN:え, はか.る"
+        },
+        {
+            "word": "官",
+            "title": "Quan, bureaucrat, the government, organ\nON:カン\nKUN:"
+        },
+        {
+            "word": "館",
+            "title": "Quán, building, mansion, large building, palace\nON:カン\nKUN:やかた, たて"
+        },
+        {
+            "word": "昔",
+            "title": "Tích, once upon a time, antiquity, old times\nON:セキ, シャク\nKUN:むかし"
+        },
+        {
+            "word": "借",
+            "title": "Tá, borrow, rent\nON:シャク\nKUN:か.りる"
+        },
+        {
+            "word": "代",
+            "title": "Đại, substitute, change, convert, replace, period, age, counter for decades of ages, eras, etc., generation, charge, rate, fee\nON:ダイ, タイ\nKUN:か.わる, かわ.る, かわ.り, か.わり, -がわ.り, -が.わり, か.える, よ, しろ"
+        },
+        {
+            "word": "貸",
+            "title": "Thải, Thắc, lend\nON:タイ\nKUN:か.す, か.し-, かし-"
+        },
+        {
+            "word": "地",
+            "title": "Địa, ground, earth\nON:チ, ジ\nKUN:"
+        },
+        {
+            "word": "世",
+            "title": "Thế, generation, world, society, public\nON:セイ, セ, ソウ\nKUN:よ"
+        },
+        {
+            "word": "界",
+            "title": "Giới, world, boundary\nON:カイ\nKUN:"
+        },
+        {
+            "word": "度",
+            "title": "Độ, Đạc, degrees, occurrence, time, counter for occurrences, consider, attitude\nON:ド, ト, タク\nKUN:たび, -た.い"
+        },
+        {
+            "word": "回",
+            "title": "Hồi, Hối, -times, round, game, revolve, counter for occurrences\nON:カイ, エ\nKUN:まわ.る, -まわ.る, -まわ.り, まわ.す, -まわ.す, まわ.し-, -まわ.し, もとお.る, か.える"
+        },
+        {
+            "word": "用",
+            "title": "Dụng, utilize, business, service, use, employ\nON:ヨウ\nKUN:もち.いる"
+        },
+        {
+            "word": "民",
+            "title": "Dân, people, nation, subjects\nON:ミン\nKUN:たみ"
+        },
+        {
+            "word": "注",
+            "title": "Chú, pour, irrigate, shed (tears), flow into, concentrate on, notes, comment, annotate\nON:チュウ\nKUN:そそ.ぐ, さ.す, つ.ぐ"
+        },
+        {
+            "word": "意",
+            "title": "Ý, idea, mind, heart, taste, thought, desire, care, liking\nON:イ\nKUN:"
+        },
+        {
+            "word": "頭",
+            "title": "Đầu, head, counter for large animals\nON:トウ, ズ, ト\nKUN:あたま, かしら, -がしら, かぶり"
+        },
+        {
+            "word": "顔",
+            "title": "Nhan, Nhăn, face, expression\nON:ガン\nKUN:かお"
+        },
+        {
+            "word": "声",
+            "title": "Thanh, voice\nON:セイ, ショウ\nKUN:こえ, こわ-"
+        },
+        {
+            "word": "特",
+            "title": "Đặc, special\nON:トク\nKUN:"
+        },
+        {
+            "word": "別",
+            "title": "Biệt, separate, branch off, diverge, fork, another, extra, specially\nON:ベツ\nKUN:わか.れる, わ.ける"
+        },
+        {
+            "word": "竹",
+            "title": "Trúc, bamboo\nON:チク\nKUN:たけ"
+        },
+        {
+            "word": "合",
+            "title": "Hợp, Cáp, fit, suit, join, 0.1\nON:ゴウ, ガッ, カッ\nKUN:あ.う, -あ.う, あ.い, あい-, -あ.い, -あい, あ.わす, あ.わせる, -あ.わせる"
+        },
+        {
+            "word": "答",
+            "title": "Đáp, solution, answer\nON:トウ\nKUN:こた.える, こた.え"
+        },
+        {
+            "word": "正",
+            "title": "Chánh, Chính, correct, justice, righteous, 10**40\nON:セイ, ショウ\nKUN:ただ.しい, ただ.す, まさ, まさ.に"
+        },
+        {
+            "word": "同",
+            "title": "Đồng, same, agree, equal\nON:ドウ\nKUN:おな.じ"
+        },
+        {
+            "word": "計",
+            "title": "Kế, Kê, plot, plan, scheme, measure\nON:ケイ\nKUN:はか.る, はか.らう"
+        },
+        {
+            "word": "京",
+            "title": "Kinh, capital, 10**16\nON:キョウ, ケイ, キン\nKUN:みやこ"
+        },
+        {
+            "word": "集",
+            "title": "Tập, gather, meet, congregate, swarm, flock\nON:シュウ\nKUN:あつ.まる, あつ.める, つど.う"
+        },
+        {
+            "word": "不",
+            "title": "Bất, Phầu, Phủ, Phi, negative, non-, bad, ugly, clumsy\nON:フ, ブ\nKUN:"
+        },
+        {
+            "word": "便",
+            "title": "Tiện, convenience, facility, excrement, feces, letter, chance\nON:ベン, ビン\nKUN:たよ.り"
+        },
+        {
+            "word": "以",
+            "title": "Dĩ, by means of, because, in view of, compared with\nON:イ\nKUN:もっ.て"
+        },
+        {
+            "word": "場",
+            "title": "Tràng, Trường, location, place\nON:ジョウ, チョウ\nKUN:ば"
+        },
+        {
+            "word": "戸",
+            "title": "Hộ, Họ, door, counter for houses, door radical (no. 63)\nON:コ\nKUN:と"
+        },
+        {
+            "word": "所",
+            "title": "Sở, place, extent\nON:ショ\nKUN:ところ, -ところ, どころ, とこ"
+        },
+        {
+            "word": "屋",
+            "title": "Ốc, roof, house, shop, dealer, seller\nON:オク\nKUN:や"
+        },
+        {
+            "word": "県",
+            "title": "Huyền, prefecture\nON:ケン\nKUN:か.ける"
+        },
+        {
+            "word": "区",
+            "title": "Âu, Khu, ward, district\nON:ク, オウ, コウ\nKUN:"
+        },
+        {
+            "word": "池",
+            "title": "Trì, pond, cistern, pool, reservoir\nON:チ\nKUN:いけ"
+        },
+        {
+            "word": "発",
+            "title": "Bát, Phát, departure, discharge, publish, emit, start from, disclose, counter for gunshots\nON:ハツ, ホツ\nKUN:た.つ, あば.く, おこ.る, つか.わす, はな.つ"
+        },
+        {
+            "word": "建",
+            "title": "Kiến, Kiển, build\nON:ケン, コン\nKUN:た.てる, た.て, -だ.て, た.つ"
+        },
+        {
+            "word": "物",
+            "title": "Vật, thing, object, matter\nON:ブツ, モツ\nKUN:もの, もの-"
+        },
+        {
+            "word": "堂",
+            "title": "Đường, public chamber, hall\nON:ドウ\nKUN:"
+        },
+        {
+            "word": "都",
+            "title": "Đô, metropolis, capital, all, everything\nON:ト, ツ\nKUN:みやこ"
+        },
+        {
+            "word": "品",
+            "title": "Phẩm, goods, refinement, dignity, article, counter for meal courses\nON:ヒン, ホン\nKUN:しな"
+        },
+        {
+            "word": "旅",
+            "title": "Lữ, trip, travel\nON:リョ\nKUN:たび"
+        },
+        {
+            "word": "通",
+            "title": "Thông, traffic, pass through, avenue, commute, counter for letters, notes, documents, etc.\nON:ツウ, ツ\nKUN:とお.る, とお.り, -とお.り, -どお.り, とお.す, とお.し, -どお.し, かよ.う"
+        },
+        {
+            "word": "進",
+            "title": "Tiến, advance, proceed, progress, promote\nON:シン\nKUN:すす.む, すす.める"
+        },
+        {
+            "word": "丸",
+            "title": "Hoàn, round, full (month), perfection, -ship, pills, make round, roll up, curl up, seduce, explain away\nON:ガン\nKUN:まる, まる.める, まる.い"
+        },
+        {
+            "word": "熱",
+            "title": "Nhiệt, heat, temperature, fever, mania, passion\nON:ネツ\nKUN:あつ.い"
+        },
+        {
+            "word": "冷",
+            "title": "Lãnh, cool, cold (beer, person), chill\nON:レイ\nKUN:つめ.たい, ひ.える, ひ.や, ひ.ややか, ひ.やす, ひ.やかす, さ.める, さ.ます"
+        },
+        {
+            "word": "甘",
+            "title": "Cam, sweet, coax, pamper, be content, sugary\nON:カン\nKUN:あま.い, あま.える, あま.やかす, うま.い"
+        },
+        {
+            "word": "汚",
+            "title": "Ô, Ố, Phiếm, dirty, pollute, disgrace, rape, defile\nON:オ\nKUN:けが.す, けが.れる, けが.らわしい, よご.す, よご.れる, きたな.い"
+        },
+        {
+            "word": "果",
+            "title": "Quả, fruit, reward, carry out, achieve, complete, end, finish, succeed\nON:カ\nKUN:は.たす, はた.す, -は.たす, は.てる, -は.てる, は.て"
+        },
+        {
+            "word": "卵",
+            "title": "Noãn, egg, ovum, spawn, roe\nON:ラン\nKUN:たまご"
+        },
+        {
+            "word": "皿",
+            "title": "Mãnh, dish, a helping, plate\nON:ベイ\nKUN:さら"
+        },
+        {
+            "word": "酒",
+            "title": "Tửu, sake, alcohol\nON:シュ\nKUN:さけ, さか-"
+        },
+        {
+            "word": "塩",
+            "title": "Diêm, salt\nON:エン\nKUN:しお"
+        },
+        {
+            "word": "付",
+            "title": "Phó, adhere, attach, refer to, append\nON:フ\nKUN:つ.ける, -つ.ける, -づ.ける, つ.け, つ.け-, -つ.け, -づ.け, -づけ, つ.く, -づ.く, つ.き, -つ.き, -つき, -づ.き, -づき"
+        },
+        {
+            "word": "片",
+            "title": "Phiến, one-sided, leaf, sheet, right-side kata radical (no. 91)\nON:ヘン\nKUN:かた-, かた"
+        },
+        {
+            "word": "焼",
+            "title": "Thiêu, bake, burning\nON:ショウ\nKUN:や.く, や.き, や.き-, -や.き, や.ける"
+        },
+        {
+            "word": "消",
+            "title": "Tiêu, extinguish, blow out, turn off, neutralize, cancel\nON:ショウ\nKUN:き.える, け.す"
+        },
+        {
+            "word": "固",
+            "title": "Cố, harden, set, clot, curdle\nON:コ\nKUN:かた.める, かた.まる, かた.まり, かた.い"
+        },
+        {
+            "word": "個",
+            "title": "Cá, individual, counter for articles\nON:コ, カ\nKUN:"
+        },
+        {
+            "word": "笑",
+            "title": "Tiếu, laugh\nON:ショウ\nKUN:わら.う, え.む"
+        },
+        {
+            "word": "泣",
+            "title": "Khấp, cry, weep, moan\nON:キュウ\nKUN:な.く"
+        },
+        {
+            "word": "怒",
+            "title": "Nộ, angry, be offended\nON:ド, ヌ\nKUN:いか.る, おこ.る"
+        },
+        {
+            "word": "幸",
+            "title": "Hạnh, happiness, blessing, fortune\nON:コウ\nKUN:さいわ.い, さち, しあわ.せ"
+        },
+        {
+            "word": "悲",
+            "title": "Bi, grieve, sad, deplore, regret\nON:ヒ\nKUN:かな.しい, かな.しむ"
+        },
+        {
+            "word": "苦",
+            "title": "Khổ, suffering, trial, worry, hardship, feel bitter, scowl\nON:ク\nKUN:くる.しい, -ぐる.しい, くる.しむ, くる.しめる, にが.い, にが.る"
+        },
+        {
+            "word": "痛",
+            "title": "Thống, pain, hurt, damage, bruise\nON:ツウ\nKUN:いた.い, いた.む, いた.ましい, いた.める"
+        },
+        {
+            "word": "恥",
+            "title": "Sỉ, shame, dishonor\nON:チ\nKUN:は.じる, はじ, は.じらう, は.ずかしい"
+        },
+        {
+            "word": "配",
+            "title": "Phối, distribute, spouse, exile, rationing\nON:ハイ\nKUN:くば.る"
+        },
+        {
+            "word": "困",
+            "title": "Khốn, quandary, become distressed, annoyed\nON:コン\nKUN:こま.る"
+        },
+        {
+            "word": "辛",
+            "title": "Tân, spicy, bitter, hot, acrid\nON:シン\nKUN:から.い, つら.い, -づら.い, かのと"
+        },
+        {
+            "word": "眠",
+            "title": "Miên, sleep, die, sleepy\nON:ミン\nKUN:ねむ.る, ねむ.い"
+        },
+        {
+            "word": "残",
+            "title": "Tàn, remainder, leftover, balance\nON:ザン, サン\nKUN:のこ.る, のこ.す, そこな.う, のこ.り"
+        },
+        {
+            "word": "念",
+            "title": "Niệm, wish, sense, idea, thought, feeling, desire, attention\nON:ネン\nKUN:"
+        },
+        {
+            "word": "感",
+            "title": "Cảm, emotion, feeling, sensation\nON:カン\nKUN:"
+        },
+        {
+            "word": "情",
+            "title": "Tình, feelings, emotion, passion, sympathy, circumstances, facts\nON:ジョウ, セイ\nKUN:なさ.け"
+        },
+        {
+            "word": "覚",
+            "title": "Giác, Giáo, Dác, memorize, learn, remember, awake, sober up\nON:カク\nKUN:おぼ.える, さ.ます, さ.める, さと.る"
+        },
+        {
+            "word": "忘",
+            "title": "Vong, forget\nON:ボウ\nKUN:わす.れる"
+        },
+        {
+            "word": "決",
+            "title": "Quyết, decide, fix, agree upon, appoint\nON:ケツ\nKUN:き.める, -ぎ.め, き.まる, さ.く"
+        },
+        {
+            "word": "定",
+            "title": "Định, Đính, determine, fix, establish, decide\nON:テイ, ジョウ\nKUN:さだ.める, さだ.まる, さだ.か"
+        },
+        {
+            "word": "比",
+            "title": "Bỉ, Bí, Bì, Tỉ, compare, race, ratio, Philippines\nON:ヒ\nKUN:くら.べる"
+        },
+        {
+            "word": "受",
+            "title": "Thụ, accept, undergo, answer (phone), take, get, catch, receive\nON:ジュ\nKUN:う.ける, -う.け, う.かる"
+        },
+        {
+            "word": "授",
+            "title": "Thụ, impart, instruct, grant, confer\nON:ジュ\nKUN:さず.ける, さず.かる"
+        },
+        {
+            "word": "徒",
+            "title": "Đồ, on foot, junior, emptiness, vanity, futility, uselessness, ephemeral thing, gang, set, party, people\nON:ト\nKUN:いたずら, あだ"
+        },
+        {
+            "word": "練",
+            "title": "Luyện, practice, gloss, train, drill, polish, refine\nON:レン\nKUN:ね.る, ね.り"
+        },
+        {
+            "word": "復",
+            "title": "Phục, Phúc, restore, return to, revert, resume\nON:フク\nKUN:また"
+        },
+        {
+            "word": "表",
+            "title": "Biểu, surface, table, chart, diagram\nON:ヒョウ\nKUN:おもて, -おもて, あらわ.す, あらわ.れる, あら.わす"
+        },
+        {
+            "word": "卒",
+            "title": "Tốt, Tuất, Thốt, graduate, soldier, private, die\nON:ソツ, シュツ\nKUN:そっ.する, お.える, お.わる, ついに, にわか"
+        },
+        {
+            "word": "違",
+            "title": "Vi, difference, differ\nON:イ\nKUN:ちが.う, ちが.い, ちが.える, -ちが.える, たが.う, たが.える"
+        },
+        {
+            "word": "役",
+            "title": "Dịch, duty, war, campaign, drafted labor, office, service, role\nON:ヤク, エキ\nKUN:"
+        },
+        {
+            "word": "皆",
+            "title": "Giai, all, everything\nON:カイ\nKUN:みな, みんな"
+        },
+        {
+            "word": "彼",
+            "title": "Bỉ, he, that, the\nON:ヒ\nKUN:かれ, かの, か.の"
+        },
+        {
+            "word": "全",
+            "title": "Toàn, whole, entire, all, complete, fulfill\nON:ゼン\nKUN:まった.く, すべ.て"
+        },
+        {
+            "word": "部",
+            "title": "Bộ, section, bureau, dept, class, copy, part, portion, counter for copies of a newspaper or magazine\nON:ブ\nKUN:べ"
+        },
+        {
+            "word": "必",
+            "title": "Tất, invariably, certain, inevitable\nON:ヒツ\nKUN:かなら.ず"
+        },
+        {
+            "word": "要",
+            "title": "Yếu, Yêu, need, main point, essence, pivot, key to\nON:ヨウ\nKUN:い.る, かなめ"
+        },
+        {
+            "word": "荷",
+            "title": "Hà, baggage, shoulder-pole load, bear (a burden), shoulder (a gun), load, cargo, freight\nON:カ\nKUN:に"
+        },
+        {
+            "word": "由",
+            "title": "Do, wherefore, a reason\nON:ユ, ユウ, ユイ\nKUN:よし, よ.る"
+        },
+        {
+            "word": "届",
+            "title": "Giới, deliver, reach, arrive, report, notify, forward\nON:カイ\nKUN:とど.ける, -とど.け, とど.く"
+        },
+        {
+            "word": "利",
+            "title": "Lợi, profit, advantage, benefit\nON:リ\nKUN:き.く"
+        },
+        {
+            "word": "払",
+            "title": "Chàng, pay, clear out, prune, banish, dispose of\nON:フツ, ヒツ, ホツ\nKUN:はら.う, -はら.い, -ばら.い"
+        },
+        {
+            "word": "濯",
+            "title": "Trạc, laundry, wash, pour on, rinse\nON:タク\nKUN:すす.ぐ, ゆす.ぐ"
+        },
+        {
+            "word": "寝",
+            "title": "Tẩm, lie down, sleep, rest, bed, remain unsold\nON:シン\nKUN:ね.る, ね.かす, い.ぬ, みたまや, や.める"
+        },
+        {
+            "word": "踊",
+            "title": "Dũng, jump, dance, leap, skip\nON:ヨウ\nKUN:おど.る"
+        },
+        {
+            "word": "活",
+            "title": "Hoạt, Quạt, lively, resuscitation, being helped, living\nON:カツ\nKUN:い.きる, い.かす, い.ける"
+        },
+        {
+            "word": "末",
+            "title": "Mạt, end, close, tip, powder, posterity\nON:マツ, バツ\nKUN:すえ, うら, うれ"
+        },
+        {
+            "word": "宅",
+            "title": "Trạch, home, house, residence, our house, my husband\nON:タク\nKUN:"
+        },
+        {
+            "word": "祭",
+            "title": "Tế, Sái, ritual, offer prayers, celebrate, deify, enshrine, worship\nON:サイ\nKUN:まつ.る, まつ.り, まつり"
+        },
+        {
+            "word": "平",
+            "title": "Bình, Biền, even, flat, peace\nON:ヘイ, ビョウ, ヒョウ\nKUN:たい.ら, たい.らげる, ひら"
+        },
+        {
+            "word": "和",
+            "title": "Hòa, Họa, harmony, Japanese style, peace, soften, Japan\nON:ワ, オ, カ\nKUN:やわ.らぐ, やわ.らげる, なご.む, なご.やか, あ.える"
+        },
+        {
+            "word": "戦",
+            "title": "Khuyết, war, battle, match\nON:セン\nKUN:いくさ, たたか.う, おのの.く, そよ.ぐ, わなな.く"
+        },
+        {
+            "word": "争",
+            "title": "Tranh, Tránh, Chanh, Danh, contend, dispute, argue\nON:ソウ\nKUN:あらそ.う, いか.でか"
+        },
+        {
+            "word": "政",
+            "title": "Chánh, politics, government\nON:セイ, ショウ\nKUN:まつりごと, まん"
+        },
+        {
+            "word": "治",
+            "title": "Trì, Trị, reign, be at peace, calm down, subdue, quell, govt, cure, heal, rule, conserve\nON:ジ, チ\nKUN:おさ.める, おさ.まる, なお.る, なお.す"
+        },
+        {
+            "word": "経",
+            "title": "Kinh, sutra, longitude, pass thru, expire, warp\nON:ケイ, キョウ, キン\nKUN:へ.る, た.つ, たていと, はか.る, のり"
+        },
+        {
+            "word": "済",
+            "title": "Tế, Tề, settle (debt, etc.), relieve (burden), finish, come to an end, excusable, need not\nON:サイ, セイ\nKUN:す.む, -ず.み, -ずみ, す.まない, す.ます, -す.ます, すく.う, な.す, わたし, わた.る"
+        },
+        {
+            "word": "法",
+            "title": "Pháp, method, law, rule, principle, model, system\nON:ホウ, ハッ, ホッ, フラン\nKUN:のり"
+        },
+        {
+            "word": "律",
+            "title": "Luật, rhythm, law, regulation, gauge, control\nON:リツ, リチ, レツ\nKUN:"
+        },
+        {
+            "word": "際",
+            "title": "Tế, occasion, side, edge, verge, dangerous, adventurous, indecent, time, when\nON:サイ\nKUN:きわ, -ぎわ"
+        },
+        {
+            "word": "関",
+            "title": "Quan, connection, barrier, gateway, involve, concerning\nON:カン\nKUN:せき, -ぜき, かか.わる, からくり, かんぬき"
+        },
+        {
+            "word": "係",
+            "title": "Hệ, person in charge, connection, duty, concern oneself\nON:ケイ\nKUN:かか.る, かかり, -がかり, かか.わる"
+        },
+        {
+            "word": "義",
+            "title": "Nghĩa, righteousness, justice, morality, honor, loyalty, meaning\nON:ギ\nKUN:"
+        },
+        {
+            "word": "議",
+            "title": "Nghị, deliberation, consultation, debate, consideration\nON:ギ\nKUN:"
+        },
+        {
+            "word": "党",
+            "title": "Đảng, party, faction, clique\nON:トウ\nKUN:なかま, むら"
+        },
+        {
+            "word": "遊",
+            "title": "Du, play\nON:ユウ, ユ\nKUN:あそ.ぶ, あそ.ばす"
+        },
+        {
+            "word": "泳",
+            "title": "Vịnh, swim\nON:エイ\nKUN:およ.ぐ"
+        },
+        {
+            "word": "疲",
+            "title": "Bì, exhausted, tire, weary\nON:ヒ\nKUN:つか.れる, -づか.れ, つか.らす"
+        },
+        {
+            "word": "暖",
+            "title": "Noãn, warmth\nON:ダン, ノン\nKUN:あたた.か, あたた.かい, あたた.まる, あたた.める"
+        },
+        {
+            "word": "涼",
+            "title": "Lương, Lượng, refreshing, nice and cool\nON:リョウ\nKUN:すず.しい, すず.む, すず.やか, うす.い, ひや.す, まことに"
+        },
+        {
+            "word": "静",
+            "title": "Tĩnh, Tịnh, quiet\nON:セイ, ジョウ\nKUN:しず-, しず.か, しず.まる, しず.める"
+        },
+        {
+            "word": "公",
+            "title": "Công, public, prince, official, governmental\nON:コウ, ク\nKUN:おおやけ"
+        },
+        {
+            "word": "園",
+            "title": "Viên, park, garden, yard, farm\nON:エン\nKUN:その"
+        },
+        {
+            "word": "込",
+            "title": "Liêu, crowded, mixture, in bulk, included, (kokuji)\nON:\nKUN:-こ.む, こ.む, こ.み, -こ.み, こ.める"
+        },
+        {
+            "word": "連",
+            "title": "Liên, take along, lead, join, connect, party, gang, clique\nON:レン\nKUN:つら.なる, つら.ねる, つ.れる, -づ.れ"
+        },
+        {
+            "word": "窓",
+            "title": "Song, window, pane\nON:ソウ, ス\nKUN:まど, てんまど, けむだし"
+        },
+        {
+            "word": "側",
+            "title": "Trắc, side, lean, oppose, regret\nON:ソク\nKUN:かわ, がわ, そば"
+        },
+        {
+            "word": "葉",
+            "title": "Diệp, leaf, plane, lobe, needle, blade, spear, counter for flat things, fragment, piece\nON:ヨウ\nKUN:は"
+        },
+        {
+            "word": "景",
+            "title": "Cảnh, scenery, view\nON:ケイ\nKUN:"
+        },
+        {
+            "word": "記",
+            "title": "Kí, scribe, account, narrative\nON:キ\nKUN:しる.す"
+        },
+        {
+            "word": "形",
+            "title": "Hình, shape, form, style\nON:ケイ, ギョウ\nKUN:かた, -がた, かたち, なり"
+        },
+        {
+            "word": "吉",
+            "title": "Cát, good luck, joy, congratulations\nON:キチ, キツ\nKUN:よし"
+        },
+        {
+            "word": "結",
+            "title": "Kết, tie, bind, contract, join, organize, do up hair, fasten\nON:ケツ, ケチ\nKUN:むす.ぶ, ゆ.う, ゆ.わえる"
+        },
+        {
+            "word": "婚",
+            "title": "Hôn, marriage\nON:コン\nKUN:"
+        },
+        {
+            "word": "共",
+            "title": "Cộng, Cung, together, both, neither, all, and, alike, with\nON:キョウ\nKUN:とも, とも.に, -ども"
+        },
+        {
+            "word": "供",
+            "title": "Cung, submit, offer, present, serve (meal), accompany\nON:キョウ, ク, クウ, グ\nKUN:そな.える, とも, -ども"
+        },
+        {
+            "word": "両",
+            "title": "Lạng, both, old Japanese coin, counter for carriages (e.g., in a train), two\nON:リョウ\nKUN:てる, ふたつ"
+        },
+        {
+            "word": "若",
+            "title": "Nhược, young, if, perhaps, possibly, low number, immature\nON:ジャク, ニャク, ニャ\nKUN:わか.い, わか-, も.しくわ, も.し, も.しくは, ごと.し"
+        },
+        {
+            "word": "老",
+            "title": "Lão, old man, old age, grow old\nON:ロウ\nKUN:お.いる, ふ.ける"
+        },
+        {
+            "word": "息",
+            "title": "Tức, breath, respiration, son, interest (on money)\nON:ソク\nKUN:いき"
+        },
+        {
+            "word": "娘",
+            "title": "Nương, daughter, girl\nON:ジョウ\nKUN:むすめ, こ"
+        },
+        {
+            "word": "奥",
+            "title": "Áo, Úc, heart, interior\nON:オウ\nKUN:おく, おく.まる, くま"
+        },
+        {
+            "word": "将",
+            "title": "Thương, Tương, Tướng, leader, commander, general, admiral, or, and again, soon, from now on, just about\nON:ショウ, ソウ\nKUN:まさ.に, はた, まさ, ひきい.る, もって"
+        },
+        {
+            "word": "祖",
+            "title": "Tổ, ancestor, pioneer, founder\nON:ソ\nKUN:"
+        },
+        {
+            "word": "育",
+            "title": "Dục, bring up, grow up, raise, rear\nON:イク\nKUN:そだ.つ, そだ.ち, そだ.てる, はぐく.む"
+        },
+        {
+            "word": "性",
+            "title": "Tính, sex, gender, nature\nON:セイ, ショウ\nKUN:さが"
+        },
+        {
+            "word": "招",
+            "title": "Chiêu, Thiêu, Thiều, beckon, invite, summon, engage\nON:ショウ\nKUN:まね.く"
+        },
+        {
+            "word": "取",
+            "title": "Thủ, take, fetch, take up\nON:シュ\nKUN:と.る, と.り, と.り-, とり, -ど.り"
+        },
+        {
+            "word": "最",
+            "title": "Tối, utmost, most, extreme\nON:サイ, シュ\nKUN:もっと.も, つま"
+        },
+        {
+            "word": "初",
+            "title": "Sơ, first time, beginning\nON:ショ\nKUN:はじ.め, はじ.めて, はつ, はつ-, うい-, -そ.める, -ぞ.め"
+        },
+        {
+            "word": "番",
+            "title": "Phiên, Phan, Ba, Bà, turn, number in a series\nON:バン\nKUN:つが.い"
+        },
+        {
+            "word": "歳",
+            "title": "Tuế, Tuổi, year-end, age, occasion, opportunity\nON:サイ, セイ\nKUN:とし, とせ, よわい"
+        },
+        {
+            "word": "枚",
+            "title": "Mai, sheet of..., counter for flat thin objects or sheets\nON:マイ, バイ\nKUN:"
+        },
+        {
+            "word": "冊",
+            "title": "Sách, Sạch, tome, counter for books, volume\nON:サツ, サク\nKUN:ふみ"
+        },
+        {
+            "word": "億",
+            "title": "Ức, hundred million, 10**8\nON:オク\nKUN:"
+        },
+        {
+            "word": "点",
+            "title": "Điểm, spot, point, mark, speck, decimal point\nON:テン\nKUN:つ.ける, つ.く, た.てる, さ.す, とぼ.す, とも.す, ぼち"
+        },
+        {
+            "word": "階",
+            "title": "Giai, storey, stair, counter for storeys of a building\nON:カイ\nKUN:きざはし"
+        },
+        {
+            "word": "段",
+            "title": "Đoạn, grade, steps, stairs\nON:ダン, タン\nKUN:"
+        },
+        {
+            "word": "号",
+            "title": "Hiệu, nickname, number, item, title, pseudonym, name, call\nON:ゴウ\nKUN:さけ.ぶ, よびな"
+        },
+        {
+            "word": "倍",
+            "title": "Bội, double, twice, times, fold\nON:バイ\nKUN:"
+        },
+        {
+            "word": "次",
+            "title": "Thứ, next, order, sequence\nON:ジ, シ\nKUN:つ.ぐ, つぎ"
+        },
+        {
+            "word": "々",
+            "title": "\nON:\nKUN:"
+        },
+        {
+            "word": "他",
+            "title": "Tha, other, another, the others\nON:タ\nKUN:ほか"
+        },
+        {
+            "word": "勝",
+            "title": "Thắng, Thăng, victory, win, prevail, excel\nON:ショウ\nKUN:か.つ, -が.ち, まさ.る, すぐ.れる, かつ"
+        },
+        {
+            "word": "負",
+            "title": "Phụ, defeat, negative, -, minus, bear, owe, assume a responsibility\nON:フ\nKUN:ま.ける, ま.かす, お.う"
+        },
+        {
+            "word": "賛",
+            "title": "Tán, approve, praise, title or inscription on picture, assist, agree with\nON:サン\nKUN:たす.ける, たた.える"
+        },
+        {
+            "word": "成",
+            "title": "Thành, turn into, become, get, grow, elapse, reach\nON:セイ, ジョウ\nKUN:な.る, な.す, -な.す"
+        },
+        {
+            "word": "絶",
+            "title": "Tuyệt, Tiệt, Tịt, Toẹt, discontinue, sever, cut off, abstain, interrupt, suppress, be beyond, without match, peerless, unparalleled\nON:ゼツ\nKUN:た.える, た.やす, た.つ"
+        },
+        {
+            "word": "対",
+            "title": "Đối, vis-a-vis, opposite, even, equal, versus, anti-, compare\nON:タイ, ツイ\nKUN:あいて, こた.える, そろ.い, つれあ.い, なら.ぶ, むか.う"
+        },
+        {
+            "word": "続",
+            "title": "Tục, continue, series, sequel\nON:ゾク, ショク, コウ, キョウ\nKUN:つづ.く, つづ.ける, つぐ.ない"
+        },
+        {
+            "word": "辞",
+            "title": "Từ, resign, word, term, expression\nON:ジ\nKUN:や.める, いな.む"
+        },
+        {
+            "word": "投",
+            "title": "Đầu, throw, discard, abandon, launch into, join, invest in, hurl, give up, sell at a loss\nON:トウ\nKUN:な.げる, -な.げ"
+        },
+        {
+            "word": "選",
+            "title": "Tuyển, Tuyến, elect, select, choose, prefer\nON:セン\nKUN:えら.ぶ, え.る, よ.る"
+        },
+        {
+            "word": "約",
+            "title": "Ước, promise, approximately, shrink\nON:ヤク\nKUN:つづ.まる, つづ.める, つづま.やか"
+        },
+        {
+            "word": "束",
+            "title": "Thúc, Thú, bundle, sheaf, ream, tie in bundles, govern, manage, control\nON:ソク\nKUN:たば, たば.ねる, つか, つか.ねる"
+        },
+        {
+            "word": "守",
+            "title": "Thủ, Thú, guard, protect, defend, obey\nON:シュ, ス\nKUN:まも.る, まも.り, もり, -もり, かみ"
+        },
+        {
+            "word": "過",
+            "title": "Quá, Qua, overdo, exceed, go beyond, error\nON:カ\nKUN:す.ぎる, す.ごす, あやま.ち, あやま.つ, よぎ.る, よ.ぎる"
+        },
+        {
+            "word": "夢",
+            "title": "Mộng, Mông, dream, vision, illusion\nON:ム, ボウ\nKUN:ゆめ, ゆめ.みる, くら.い"
+        },
+        {
+            "word": "的",
+            "title": "Đích, Để, bull's eye, mark, target, object, adjective ending\nON:テキ\nKUN:まと"
+        },
+        {
+            "word": "飛",
+            "title": "Phi, fly, skip (pages), scatter\nON:ヒ\nKUN:と.ぶ, と.ばす, -と.ばす"
+        },
+        {
+            "word": "機",
+            "title": "Ky, Cơ, loom, mechanism, machine, airplane, opportunity, potency, efficacy, occasion\nON:キ\nKUN:はた"
+        },
+        {
+            "word": "失",
+            "title": "Thất, lose, error, fault, disadvantage, loss\nON:シツ\nKUN:うしな.う, う.せる"
+        },
+        {
+            "word": "鉄",
+            "title": "Thiết, iron\nON:テツ\nKUN:くろがね"
+        },
+        {
+            "word": "速",
+            "title": "Tốc, quick, fast\nON:ソク\nKUN:はや.い, はや-, はや.める, すみ.やか"
+        },
+        {
+            "word": "遅",
+            "title": "Trì, slow, late, back, later\nON:チ\nKUN:おく.れる, おく.らす, おそ.い"
+        },
+        {
+            "word": "駐",
+            "title": "Trú, stop-over, reside in, resident\nON:チュウ\nKUN:"
+        },
+        {
+            "word": "泊",
+            "title": "Bạc, Phách, overnight stay, put up at, ride at anchor\nON:ハク\nKUN:と.まる, と.める"
+        },
+        {
+            "word": "船",
+            "title": "Thuyền, ship, boat\nON:セン\nKUN:ふね, ふな-"
+        },
+        {
+            "word": "座",
+            "title": "Tọa, squat, seat, cushion, gathering, sit\nON:ザ\nKUN:すわ.る"
+        },
+        {
+            "word": "席",
+            "title": "Tịch, seat, mat, occasion, place\nON:セキ\nKUN:むしろ"
+        },
+        {
+            "word": "島",
+            "title": "Đảo, island\nON:トウ\nKUN:しま"
+        },
+        {
+            "word": "陸",
+            "title": "Lục, land, six\nON:リク, ロク\nKUN:おか"
+        },
+        {
+            "word": "港",
+            "title": "Cảng, harbor\nON:コウ\nKUN:みなと"
+        },
+        {
+            "word": "橋",
+            "title": "Kiều, Khiêu, Cao, bridge\nON:キョウ\nKUN:はし"
+        },
+        {
+            "word": "交",
+            "title": "Giao, mingle, mixing, association, coming & going\nON:コウ\nKUN:まじ.わる, まじ.える, ま.じる, まじ.る, ま.ざる, ま.ぜる, -か.う, か.わす, かわ.す, こもごも"
+        },
+        {
+            "word": "申",
+            "title": "Thân, have the honor to, sign of the monkey, 3-5PM, ninth sign of Chinese zodiac\nON:シン\nKUN:もう.す, もう.し-, さる"
+        },
+        {
+            "word": "神",
+            "title": "Thần, gods, mind, soul\nON:シン, ジン\nKUN:かみ, かん-, こう-"
+        },
+        {
+            "word": "様",
+            "title": "Dạng, Esq., way, manner, situation, polite suffix\nON:ヨウ, ショウ\nKUN:さま, さん"
+        },
+        {
+            "word": "信",
+            "title": "Tín, faith, truth, fidelity, trust\nON:シン\nKUN:"
+        },
+        {
+            "word": "調",
+            "title": "Điều, Điệu, tune, tone, meter, key (music), writing style, prepare, exorcise, investigate, harmonize, mediate\nON:チョウ\nKUN:しら.べる, しら.べ, ととの.う, ととの.える"
+        },
+        {
+            "word": "査",
+            "title": "Tra, investigate\nON:サ\nKUN:"
+        },
+        {
+            "word": "相",
+            "title": "Tương, Tướng, inter-, mutual, together, each other, minister of state, councillor, aspect, phase, physiognomy\nON:ソウ, ショウ\nKUN:あい-"
+        },
+        {
+            "word": "談",
+            "title": "Đàm, discuss, talk\nON:ダン\nKUN:"
+        },
+        {
+            "word": "案",
+            "title": "Án, plan, suggestion, draft, ponder, fear, proposition, idea, expectation, worry, table, bench\nON:アン\nKUN:つくえ"
+        },
+        {
+            "word": "内",
+            "title": "Nạp, Nội, Nói, Nòi, Nồi, Nỗi, Nụi, inside, within, between, among, house, home\nON:ナイ, ダイ\nKUN:うち"
+        },
+        {
+            "word": "君",
+            "title": "Quân, mister, you, ruler, male name suffix\nON:クン\nKUN:きみ, -ぎみ"
+        },
+        {
+            "word": "達",
+            "title": "Đạt, accomplished, reach, arrive, attain\nON:タツ, ダ\nKUN:-たち"
+        },
+        {
+            "word": "星",
+            "title": "Tinh, star, spot, dot, mark\nON:セイ, ショウ\nKUN:ほし, -ぼし"
+        },
+        {
+            "word": "雪",
+            "title": "Tuyết, snow\nON:セツ\nKUN:ゆき"
+        },
+        {
+            "word": "降",
+            "title": "Hàng, Giáng, descend, precipitate, fall, surrender\nON:コウ, ゴ\nKUN:お.りる, お.ろす, ふ.る, ふ.り, くだ.る, くだ.す"
+        },
+        {
+            "word": "直",
+            "title": "Trực, straightaway, honesty, frankness, fix, repair\nON:チョク, ジキ, ジカ\nKUN:ただ.ちに, なお.す, -なお.す, なお.る, なお.き, す.ぐ"
+        },
+        {
+            "word": "危",
+            "title": "Nguy, dangerous, fear, uneasy\nON:キ\nKUN:あぶ.ない, あや.うい, あや.ぶむ"
+        },
+        {
+            "word": "険",
+            "title": "Hiểm, precipitous, inaccessible place, impregnable position, steep place, sharp eyes\nON:ケン\nKUN:けわ.しい"
+        },
+        {
+            "word": "拾",
+            "title": "Thập, Thiệp, Kiệp, pick up, gather, find, go on foot, ten\nON:シュウ, ジュウ\nKUN:ひろ.う"
+        },
+        {
+            "word": "捨",
+            "title": "Xả, discard, throw away, abandon, resign, reject, sacrifice\nON:シャ\nKUN:す.てる"
+        },
+        {
+            "word": "戻",
+            "title": "Lệ, re-, return, revert, resume, restore, go backwards\nON:レイ\nKUN:もど.す, もど.る"
+        },
+        {
+            "word": "吸",
+            "title": "Hấp, suck, imbibe, inhale, sip\nON:キュウ\nKUN:す.う"
+        },
+        {
+            "word": "放",
+            "title": "Phóng, Phỏng, set free, release, fire, shoot, emit, banish, liberate\nON:ホウ\nKUN:はな.す, -っぱな.し, はな.つ, はな.れる, こ.く, ほう.る"
+        },
+        {
+            "word": "変",
+            "title": "Biến, Bén, Biếng, unusual, change, strange\nON:ヘン\nKUN:か.わる, か.わり, か.える"
+        },
+        {
+            "word": "歯",
+            "title": "Xỉ, tooth, cog\nON:シ\nKUN:よわい, は, よわ.い, よわい.する"
+        },
+        {
+            "word": "髪",
+            "title": "Phát, hair of the head\nON:ハツ\nKUN:かみ"
+        },
+        {
+            "word": "絵",
+            "title": "Hội, Gói, Gối, picture, drawing, painting, sketch\nON:カイ, エ\nKUN:"
+        },
+        {
+            "word": "横",
+            "title": "Hoành, Hoạnh, Quáng, Vàng, sideways, side, horizontal, width, woof, unreasonable, perverse\nON:オウ\nKUN:よこ"
+        },
+        {
+            "word": "当",
+            "title": "Đang, Đáng, Đương, hit, right, appropriate, himself\nON:トウ\nKUN:あ.たる, あ.たり, あ.てる, あ.て, まさ.に, まさ.にべし"
+        },
+        {
+            "word": "伝",
+            "title": "Vân, transmit, go along, walk along, follow, report, communicate, legend, tradition\nON:デン, テン\nKUN:つた.わる, つた.える, つた.う, つだ.う, -づた.い, つて"
+        },
+        {
+            "word": "細",
+            "title": "Tế, dainty, get thin, taper, slender, narrow, detailed, precise\nON:サイ\nKUN:ほそ.い, ほそ.る, こま.か, こま.かい"
+        },
+        {
+            "word": "無",
+            "title": "Vô, Mô, nothingness, none, ain't, nothing, nil, not\nON:ム, ブ\nKUN:な.い"
+        }
+    ]
+}

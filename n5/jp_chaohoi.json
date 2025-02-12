@@ -1,0 +1,59 @@
+{
+    "name": "L2-Chao hoi",
+    "language": "ja-JP",
+    "data": [
+        {
+            "word":"わかりますか",
+            "title":"Bạn có hiểu không?"
+            },
+            {
+            "word":"にほんご、わかりますか",
+            "title":"Bạn có hiểu tiếng Nhật không?"
+            },
+            {
+            "word":"はい。わかります",
+            "title":"Vâng, tôi hiểu"
+            },
+            {
+            "word":"いいえ。わかりません",
+            "title":"Không, tôi không hiểu"
+            },
+            {
+            "word":"すみません、よく　わかりません",
+            "title":"Xin lỗi, tôi không hiểu rõ"
+            },
+            {
+            "word":"もう、いちど　おねがいします",
+            "title":"Làm ơn hãy (nhắc lại) 1 lần nữa"
+            },
+            {
+            "word":"できますか",
+            "title":"Có thể không?"
+            },
+            {
+            "word":"えいご、できますか",
+            "title":"Có thể ( nói) tiếng Anh không?"
+            },
+            {
+            "word":"はい、できます",
+            "title":"Vâng, tôi có thể"
+            },
+            {
+            "word":"はい、すこし　できます",
+            "title":"Vâng, tôi có thể 1 chút"
+            },
+            {
+            "word":"すみません、できません",
+            "title":"Xin lỗi, tôi không thể"
+            },
+            {
+            "word":"これはにほんごでなんですか",
+            "title":"Cái này bằng tiếng Nhật là gì?"
+            },
+            {
+            "word":"これはにほんごでなんといいますか",
+            "title":"Cái này bằng tiếng Nhật nói là gì?"
+            }
+            
+    ]
+}

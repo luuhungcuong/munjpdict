@@ -1,0 +1,286 @@
+{
+    "name": "L6-Idori",
+    "language": "ja-JP",
+    "data": [
+        {
+            "word":"食べます",
+            "title":"たべます  THỰC  Ăn"
+            },
+            {
+            "word":"飲みます",
+            "title":"のみます  ẨM  Uống"
+            },
+            {
+            "word":"[たばこを～]吸います",
+            "title":"[たばこを～]すいます  HẤP  Hút [thuốc lá]"
+            },
+            {
+            "word":"見ます",
+            "title":"みます  KIẾN  Xem, nhìn, trông"
+            },
+            {
+            "word":"聞きます",
+            "title":"ききます  VĂN  Nghe"
+            },
+            {
+            "word":"読みます",
+            "title":"よみます  ĐỘC  Đọc"
+            },
+            {
+            "word":"書きます",
+            "title":"かきます  THƯ  Viết, vẽ"
+            },
+            {
+            "word":"買います",
+            "title":"かいます  MÃI  Mua"
+            },
+            {
+            "word":"[写真を～]撮ります",
+            "title":"[しゃしんを～]とります  TẢ CHÂN TOÁT  Chụp [ảnh]"
+            },
+            {
+            "word":"します",
+            "title":"Làm"
+            },
+            {
+            "word":"[友達に～]会います",
+            "title":"[ともだちに～]あいます  HỮU ĐẠT HỘI  Gặp [bạn]"
+            },
+            {
+            "word":"ご飯",
+            "title":"ごはん  PHẠN  Cơm, bữa ăn"
+            },
+            {
+            "word":"朝ご飯",
+            "title":"あさごはん  TRIỀU PHẠN  Cơm sáng"
+            },
+            {
+            "word":"昼ご飯",
+            "title":"ひるごはん  TRÚ PHẠN  Cơm trưa"
+            },
+            {
+            "word":"晩ご飯",
+            "title":"ばんごはん  VÃN PHẠN  Cơm tối"
+            },
+            {
+            "word":"パン",
+            "title":"Bánh mì"
+            },
+            {
+            "word":"卵",
+            "title":"たまご  NOÃN  Trứng"
+            },
+            {
+            "word":"肉",
+            "title":"にく  NHỤC  Thịt"
+            },
+            {
+            "word":"魚",
+            "title":"さかな  NGƯ  Cá"
+            },
+            {
+            "word":"野菜",
+            "title":"やさい  DÃ THÁI  Rau"
+            },
+            {
+            "word":"果物",
+            "title":"くだもの  QUẢ VẬT  Hoa quả, trái cây"
+            },
+            {
+            "word":"水",
+            "title":"みず THỦY  Nước"
+            },
+            {
+            "word":"お茶",
+            "title":"おちゃ  TRÀ  Trà (nói chung)"
+            },
+            {
+            "word":"紅茶",
+            "title":"こうちゃ  HỒNG TRÀ  Trà đen"
+            },
+            {
+            "word":"牛乳",
+            "title":"ぎゅうにゅう(ミルク)  NGƯU NHŨ  Sữa bò (sữa)"
+            },
+            {
+            "word":"ジュース",
+            "title":"Nước hoa quả"
+            },
+            {
+            "word":"ビール",
+            "title":"Bia"
+            },
+            {
+            "word":"[お]酒",
+            "title":"[お]さけ  TỬU  Rượu, rượu sake"
+            },
+            {
+            "word":"たばこ",
+            "title":"Thuốc lá"
+            },
+            {
+            "word":"手紙",
+            "title":"てがみ  THỦ CHỈ  Thư"
+            },
+            {
+            "word":"レポート",
+            "title":"Báo cáo"
+            },
+            {
+            "word":"写真",
+            "title":"しゃしん  TẢ CHÂN  Ảnh"
+            },
+            {
+            "word":"ビデオ",
+            "title":"Video, băng video, đầu video"
+            },
+            {
+            "word":"店",
+            "title":"みせ  ĐIẾM  Cửa hàng, tiệm"
+            },
+            {
+            "word":"庭",
+            "title":"にわ  ĐÌNH  Vườn"
+            },
+            {
+            "word":"宿題",
+            "title":"しゅくだい  TÚC ĐỀ  Bài tập về nhà"
+            },
+            {
+            "word":"宿題をします",
+            "title":"しゅくだいをします  TÚC ĐỀ  Làm bài tập về nhà"
+            },
+            {
+            "word":"テニス",
+            "title":"Quần vợt"
+            },
+            {
+            "word":"テニスをします",
+            "title":"Đánh quần vợt"
+            },
+            {
+            "word":"サッカー",
+            "title":"Bóng đá"
+            },
+            {
+            "word":"サッカーをします",
+            "title":"Chơi bóng đá"
+            },
+            {
+            "word":"[お]花見",
+            "title":"[お]はなみ  HOA KIẾN  Việc ngắm hoa anh đào"
+            },
+            {
+            "word":"[お]花見をします",
+            "title":"[お]はなみをします  HOA KIẾN  Ngắm hoa anh đào"
+            },
+            {
+            "word":"何",
+            "title":"なに  HÀ  Cái gì, gì"
+            },
+            {
+            "word":"一緒に",
+            "title":"いっしょに  NHẤT TỰ Cùng nhau"
+            },
+            {
+            "word":"ちょっと",
+            "title":"Một chút"
+            },
+            {
+            "word":"いつも",
+            "title":"Luôn luôn, lúc nào cũng"
+            },
+            {
+            "word":"時々",
+            "title":"ときどき  THỜI  Thỉnh thoảng"
+            },
+            {
+            "word":"それから",
+            "title":"Sau đó, tiếp theo"
+            },
+            {
+            "word":"ええ",
+            "title":"Vâng, được ( =「はい」)"
+            },
+            {
+            "word":"いいですね。",
+            "title":"Được đấy nhỉ./ hay quá."
+            },
+            {
+            "word":"分かりました",
+            "title":"わかりました。 PHÂN Tôi hiểu rồi/ vâng ạ."
+            },
+            {
+            "word":"何ですか。",
+            "title":"なんですか。  HÀ  Có gì đấy ạ?/ cái gì vậy?"
+            },
+            {
+            "word":"じゃ、また [明日]。",
+            "title":"じゃ、また [あした]。  MINH NHẬT  Hẹn gặp lại [ngày mai]."
+            },
+            {
+            "word":"メキシコ",
+            "title":"Mexico"
+            },
+            {
+            "word":"コーヒー",
+            "title":"Cafe"
+            },
+            {
+            "word":"コーラ",
+            "title":"Cocacola"
+            },
+            {
+            "word":"トマトジュース",
+            "title":"Nước ép cà chua"
+            },
+            {
+            "word":"オレンジジュース",
+            "title":"Nước cam"
+            },
+            {
+            "word":"りんごジュース",
+            "title":"Nước táo"
+            },
+            {
+            "word":"職場",
+            "title":"しょくば  CHỨC TRƯỜNG  Nơi làm việc"
+            },
+            {
+            "word":"居酒屋",
+            "title":"いざかや  CƯ TỬU ỐC  Quán nhậu"
+            },
+            {
+            "word":"公園",
+            "title":"こうえん  CÔNG VIÊN  Công viên"
+            },
+            {
+            "word":"今日",
+            "title":"きょう  KIM NHẬT  Hôm nay"
+            },
+            {
+            "word":"いただきます",
+            "title":"Mời dùng bữa"
+            },
+            {
+            "word":"大丈夫ですか？",
+            "title":"だいじょうぶですか  ĐẠI TRƯỢNG PHU  Bạn có ổn không?"
+            },
+            {
+            "word":"～好きですか",
+            "title":"～すきですか  HẢO  Bạn có thích~ không?"
+            },
+            {
+            "word":"～はちょっと...",
+            "title":"～はちょっと...  ～ (Cái này thì..., Dùng khi muốn từ chối cái gì đó 1 cách lịch sự)"
+            },
+            {
+            "word":"はい、お願いします",
+            "title":"はい、おねがいします  NGUYỆN  Vâng, phiền anh / chị"
+            },
+            {
+            "word":"いえ、けっこうです",
+            "title":"Vâng, tôi đủ rồi"
+            }      
+    ]
+}

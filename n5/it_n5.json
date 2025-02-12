@@ -1,0 +1,1602 @@
+{
+    "name": "L2-IT",
+    "language": "ja-JP",
+    "data": [
+        {
+            "word":"インターネット",
+            "title":"Internet, mạng"
+            },
+            {
+            "word":"グループ",
+            "title":"Nhóm"
+            },
+            {
+            "word":"コーディング",
+            "title":"Coding, lập trình"
+            },
+            {
+            "word":"コミュニケーション",
+            "title":"Giao tiếp, communication"
+            },
+            {
+            "word":"コミュニケーター",
+            "title":"Communicator,Thông dịch viên quốc tế"
+            },
+            {
+            "word":"コミュニケーションプラン",
+            "title":"Cơ chế giao tiếp, communication plan"
+            },
+            {
+            "word":"コミュニケーションミス",
+            "title":"Communication mistake, lỗi trao đổi thông tin"
+            },
+            {
+            "word":"システム",
+            "title":"System, hệ thống"
+            },
+            {
+            "word":"ソフト",
+            "title":"Phần mềm"
+            },
+            {
+            "word":"ツール",
+            "title":"Tool, công cụ"
+            },
+            {
+            "word":"データ",
+            "title":"Data, dữ liệu"
+            },
+            {
+            "word":"テスター",
+            "title":"Tester, người kiểm thử"
+            },
+            {
+            "word":"テスト",
+            "title":"Test, kiểm thử"
+            },
+            {
+            "word":"システムテスト",
+            "title":"System test(ST), kiểm thử hệ thống "
+            },
+            {
+            "word":"テストケース",
+            "title":"Test case, trường hợp kiểm thử"
+            },
+            {
+            "word":"プログラム",
+            "title":"Chương trình, program"
+            },
+            {
+            "word":"プロジェクト",
+            "title":"Project, dự án"
+            },
+            {
+            "word":"プロジェクトマネージャー",
+            "title":"Project manager, (người) quản lí dự án"
+            },
+            {
+            "word":"プロジェクトリーダー",
+            "title":"Project leader, trưởng nhóm dự án"
+            },
+            {
+            "word":"プロジェクトチーム",
+            "title":"Project team, đội dự án"
+            },
+            {
+            "word":"メンバー",
+            "title":"Member, thành viên"
+            },
+            {
+            "word":"ポイント",
+            "title":"Point, điểm chính (giải thích/ nghĩa)"
+            },
+            {
+            "word":"メール",
+            "title":"Mail, thư điện tử"
+            },
+            {
+            "word":"モデル",
+            "title":"Mẫu"
+            },
+            {
+            "word":"ユーザ",
+            "title":"User, người dùng"
+            },
+            {
+            "word":"ターゲットユーザ",
+            "title":"Đối tượng người dùng, target user"
+            },
+            {
+            "word":"アクセス",
+            "title":"Quyền truy cập"
+            },
+            {
+            "word":"ウェブベース",
+            "title":"Web-based, nền (tảng) Web"
+            },
+            {
+            "word":"コスト",
+            "title":"Chi phí"
+            },
+            {
+            "word":"サービス",
+            "title":"Dịch vụ"
+            },
+            {
+            "word":"スマート",
+            "title":"Smart, thông minh"
+            },
+            {
+            "word":"ソリューションズ",
+            "title":"Solutions, giải pháp"
+            },
+            {
+            "word":"ドキュメント",
+            "title":"Quản lý tài liệu"
+            },
+            {
+            "word":"ニーズ",
+            "title":"Needs, nhu cầu"
+            },
+            {
+            "word":"フェーズ",
+            "title":"Giai đoạn, phase"
+            },
+            {
+            "word":"プロジェクト",
+            "title":"Project, dự án"
+            },
+            {
+            "word":"プロフェッショナル",
+            "title":"Professional, chuyên nghiệp"
+            },
+            {
+            "word":"プロセス",
+            "title":"Quy trình "
+            },
+            {
+            "word":"メモリ",
+            "title":"Bộ nhớ, mermory"
+            },
+            {
+            "word":"ユーザ",
+            "title":"Người dùng"
+            },
+            {
+            "word":"オフショア",
+            "title":"Offshore"
+            },
+            {
+            "word":"スピーディ",
+            "title":"Nhanh chóng, speed"
+            },
+            {
+            "word":"ダッシュボード",
+            "title":"Dashboard, bảng tổng hợp thông tin"
+            },
+            {
+            "word":"テクニカルリーダー",
+            "title":"Technical leader, trưởng nhóm kỹ thuật"
+            },
+            {
+            "word":"フリーランス",
+            "title":"(Nghề) làm tự do, freelance"
+            },
+            {
+            "word":"キックオフミーティング",
+            "title":"Họp khởi động dự án, kickoff meeting"
+            },
+            {
+            "word":"スケジュール",
+            "title":"Schedule, lịch"
+            },
+            {
+            "word":"マスタースケジュール",
+            "title":"Master schedule, kế hoạch tổng thể"
+            },
+            {
+            "word":"タイミング",
+            "title":"Timing, thời điểm, thời gian"
+            },
+            {
+            "word":"ルール",
+            "title":"Quy tắc"
+            },
+            {
+            "word":"デメリット",
+            "title":"Nhược điểm"
+            },
+            {
+            "word":"メリット",
+            "title":"Ưu điểm"
+            },
+            {
+            "word":"リスク",
+            "title":"Rủi ro, risk"
+            },
+            {
+            "word":"ステークホルダー",
+            "title":"Stakeholder"
+            },
+            {
+            "word":"ライセンス",
+            "title":"License, giấy phép"
+            },
+            {
+            "word":"エスカレーション",
+            "title":"Escalate, báo cáo lên cấp trên"
+            },
+            {
+            "word":"フィルター",
+            "title":"Filter, lọc "
+            },
+            {
+            "word":"フォーマット",
+            "title":"Format, định dạng "
+            },
+            {
+            "word":"ステップ",
+            "title":"Step, bước"
+            },
+            {
+            "word":"プロダクト",
+            "title":"Product, sản phẩm "
+            },
+            {
+            "word":"データ",
+            "title":"Dữ liệu"
+            },
+            {
+            "word":"ソフトウェア",
+            "title":"Phần mềm"
+            },
+            {
+            "word":"オンサイト",
+            "title":"Onsite"
+            },
+            {
+            "word":"テスト",
+            "title":"Test, kiểm thử"
+            },
+            {
+            "word":"ダミーデータ",
+            "title":"Dữ liệu giả, dữ liệu kiểm thử, dummy data"
+            },
+            {
+            "word":"パフォーマンス",
+            "title":"Tính năng, hiệu suất"
+            },
+            {
+            "word":"アーキテクチャ",
+            "title":"Kiến trúc, architecture"
+            },
+            {
+            "word":"アプリケーション",
+            "title":"Application, ứng dụng"
+            },
+            {
+            "word":"レイアウト",
+            "title":"Layout, bố cục"
+            },
+            {
+            "word":"コンポーネント",
+            "title":"Component, thành phần,linh kiện"
+            },
+            {
+            "word":"シーケンス",
+            "title":"Sequence, tuần tự"
+            },
+            {
+            "word":"ソフトウェアクラス",
+            "title":"Lớp phần mềm "
+            },
+            {
+            "word":"データベース",
+            "title":"Database, cơ sơ dữ liệu"
+            },
+            {
+            "word":"ハードウェア",
+            "title":"Hardware, phần cứng"
+            },
+            {
+            "word":"ユーザマニュアル",
+            "title":"Tài liệu hướng dẫn nguời dùng, user manual"
+            },
+            {
+            "word":"リソースファイル",
+            "title":"File tài nguyên, resource file"
+            },
+            {
+            "word":"スコープ",
+            "title":"Phạm vi, scope"
+            },
+            {
+            "word":"ヒアリングする",
+            "title":"Nghe (yêu cầu)"
+            },
+            {
+            "word":"フルライフサイクル",
+            "title":"Toàn bộ vòng đời, full life cycle"
+            },
+            {
+            "word":"マイルストーン",
+            "title":"Mốc dự án, milestone"
+            },
+            {
+            "word":"コレクション",
+            "title":"Collection, tập hợp"
+            },
+            {
+            "word":"ソフトウェアシステム",
+            "title":"Xây dựng hệ thống phần mềm"
+            },
+            {
+            "word":"ツールキット",
+            "title":"Toolkit, bộ công cụ"
+            },
+            {
+            "word":"テクノロジー",
+            "title":"Technology, công nghệ"
+            },
+            {
+            "word":"バージョン",
+            "title":"Phiên bản, version"
+            },
+            {
+            "word":"プログラミング",
+            "title":"Lập trình"
+            },
+            {
+            "word":"インストーラー",
+            "title":"Bộ cài, installer"
+            },
+            {
+            "word":"アンインストール",
+            "title":"Gỡ cài đặt"
+            },
+            {
+            "word":"ソースコード",
+            "title":"Source code, mã nguồn"
+            },
+            {
+            "word":"インフラ",
+            "title":"Infrastructure, hạ tầng"
+            },
+            {
+            "word":"クラウドコンピューティング",
+            "title":"Cloud computing, điện toán đám mây"
+            },
+            {
+            "word":"サーバ",
+            "title":"Máy chủ "
+            },
+            {
+            "word":"クラウドサーバ",
+            "title":"Cloud server, máy chủ đám mây"
+            },
+            {
+            "word":"インテグレーション",
+            "title":"Tích hợp "
+            },
+            {
+            "word":"デプロイ",
+            "title":"Triển khai, deploy"
+            },
+            {
+            "word":"ビルド",
+            "title":"Build"
+            },
+            {
+            "word":"フォルダ",
+            "title":"Cấu trúc thư mục"
+            },
+            {
+            "word":"リストアップ",
+            "title":"List up, liệt kê"
+            },
+            {
+            "word":"リポジトリ",
+            "title":"Kho lưu trữ, repository"
+            },
+            {
+            "word":"リリース",
+            "title":"Bàn giao, release"
+            },
+            {
+            "word":"ローカル",
+            "title":"Môi trường local"
+            },
+            {
+            "word":"エンジン",
+            "title":"Engine, máy"
+            },
+            {
+            "word":"エンドポイント",
+            "title":"Endpoint, điểm cuối"
+            },
+            {
+            "word":"タスク",
+            "title":"Task, công việc"
+            },
+            {
+            "word":"ディレクトリ",
+            "title":"Thư mục, directory"
+            },
+            {
+            "word":"バックエンド",
+            "title":"Backend"
+            },
+            {
+            "word":"プロジェクトインフラ",
+            "title":"Project infrastructure, hạ tầng dự án"
+            },
+            {
+            "word":"プロジェクトディレクトリ",
+            "title":"Project directory, thư mục dự án "
+            },
+            {
+            "word":"マージ",
+            "title":"Merge, hợp nhất"
+            },
+            {
+            "word":"メインディレクトリ",
+            "title":"Main directory, thư mục chính"
+            },
+            {
+            "word":"モデルトレーニング",
+            "title":"Model training, dạy cho máy (AI) học"
+            },
+            {
+            "word":"ローカル",
+            "title":"Local, cục bộ "
+            },
+            {
+            "word":"ロードバランサ",
+            "title":"Load balancer (LB), công cụ cân bằng tải "
+            },
+            {
+            "word":"プラスする",
+            "title":"Plus, thêm"
+            },
+            {
+            "word":"マシン",
+            "title":"Machine, máy"
+            },
+            {
+            "word":"バグ",
+            "title":"Lỗi, bug"
+            },
+            {
+            "word":"フィードバックする",
+            "title":"Feedback, phản hồi"
+            },
+            {
+            "word":"プライベートクラウド",
+            "title":"Private cloud"
+            },
+            {
+            "word":"パブリッククラウド",
+            "title":"Public cloud"
+            },
+            {
+            "word":"ハイブリッドクラウド",
+            "title":"Hybrid cloud"
+            },
+            {
+            "word":"プライバシーマーク",
+            "title":"Privacy mark"
+            },
+            {
+            "word":"ハードディスク",
+            "title":"Ổ cứng, đĩa cứng, hard disk"
+            },
+            {
+            "word":"テレビ",
+            "title":"TV"
+            },
+            {
+            "word":"インターフェース",
+            "title":"Interface, giao diện"
+            },
+            {
+            "word":"インビテーションレター",
+            "title":"Invitation letter, thư mời"
+            },
+            {
+            "word":"サンプル",
+            "title":"Sample, bản mẫu"
+            },
+            {
+            "word":"テンプレート",
+            "title":"Template, mẫu"
+            },
+            {
+            "word":"レビュー",
+            "title":"Kết quả review"
+            },
+            {
+            "word":"アクセスカード",
+            "title":"Thẻ ra vào, access card"
+            },
+            {
+            "word":"デジタル",
+            "title":"Kỹ thuật số, digital"
+            },
+            {
+            "word":"ビザ",
+            "title":"Thị thực"
+            },
+            {
+            "word":"セキュリティ",
+            "title":"Bảo mật"
+            },
+            {
+            "word":"セキュリティソフト",
+            "title":"Phần mềm bảo mật"
+            },
+            {
+            "word":"エビデンス",
+            "title":"Bằng chứng, evidence"
+            },
+            {
+            "word":"コントロールパネル",
+            "title":"Màn hình control panel"
+            },
+            {
+            "word":"パスポート",
+            "title":"Passport, hộ chiếu"
+            },
+            {
+            "word":"ユースケース",
+            "title":"Use case, trường hợp sử dụng"
+            },
+            {
+            "word":"サブ",
+            "title":"(Chức năng) Phụ, con"
+            },
+            {
+            "word":"テーブル",
+            "title":"Bảng (dữ liệu)"
+            },
+            {
+            "word":"フィールド",
+            "title":"field, trường"
+            },
+            {
+            "word":"スムーズ",
+            "title":"Trôi chảy, suôn sẻ"
+            },
+            {
+            "word":"キー",
+            "title":"key, khóa"
+            },
+            {
+            "word":"インターネットバンキング",
+            "title":"Internet banking, ngân hàng trực tuyến"
+            },
+            {
+            "word":"スマホ",
+            "title":"Smart phone, điện thoại thông minh"
+            },
+            {
+            "word":"レシート",
+            "title":"Receipt, hóa đơn"
+            },
+            {
+            "word":"キーワード",
+            "title":"Tìm kiếm từ khóa"
+            },
+            {
+            "word":"チェックボックス",
+            "title":"Checkbox, hộp kiểm"
+            },
+            {
+            "word":"ログファイル",
+            "title":"file log"
+            },
+            {
+            "word":"インターフェース",
+            "title":"Giao diện"
+            },
+            {
+            "word":"レイアウト",
+            "title":"Bố cục chung, common layout"
+            },
+            {
+            "word":"データベース",
+            "title":"Cơ sở dữ liệu, database"
+            },
+            {
+            "word":"データモデル",
+            "title":"Data model, mô hình dữ liệu"
+            },
+            {
+            "word":"ネットワーク",
+            "title":"Cấu trúc mạng"
+            },
+            {
+            "word":"バッチ",
+            "title":"Hàng loạt, Batch"
+            },
+            {
+            "word":"プッシュ",
+            "title":"Thông báo đẩy/push"
+            },
+            {
+            "word":"フッター",
+            "title":"Footer, chân trang"
+            },
+            {
+            "word":"フレームワーク",
+            "title":"Framework, nền tảng"
+            },
+            {
+            "word":"ヘッダー",
+            "title":"Header, đầu ngang, tiêu đề trang"
+            },
+            {
+            "word":"ミドルウェア",
+            "title":"Middleware, phần mềm trung gian"
+            },
+            {
+            "word":"ログアウト",
+            "title":"logout, đăng xuất"
+            },
+            {
+            "word":"ログイン",
+            "title":"login, đăng nhập"
+            },
+            {
+            "word":"タイプ",
+            "title":"Type, loại"
+            },
+            {
+            "word":"チェック",
+            "title":"Check, kiểm tra"
+            },
+            {
+            "word":"デフォルト",
+            "title":"Mặc định"
+            },
+            {
+            "word":"ハイパーリンク",
+            "title":"hyperlink, siêu liên kết"
+            },
+            {
+            "word":"ブラウザ",
+            "title":"Browser, trình duyệt"
+            },
+            {
+            "word":"イベント",
+            "title":"Sự kiện, event"
+            },
+            {
+            "word":"エラーメッセージ",
+            "title":"Thông báo lỗi"
+            },
+            {
+            "word":"ケース",
+            "title":"Case, trường hợp"
+            },
+            {
+            "word":"トリガー",
+            "title":"Trình kích hoạt, Trigger"
+            },
+            {
+            "word":"ロジック",
+            "title":"Logic"
+            },
+            {
+            "word":"エンドユーザ",
+            "title":"Người dùng cuối, end user"
+            },
+            {
+            "word":"セッション",
+            "title":"Section, vùng, mục, phần"
+            },
+            {
+            "word":"ペア",
+            "title":"Cặp "
+            },
+            {
+            "word":"ディレクトリツリー",
+            "title":"Cây thư mục"
+            },
+            {
+            "word":"カバー",
+            "title":"Bao phủ, cover"
+            },
+            {
+            "word":"リサーチ",
+            "title":"Điều tra, research"
+            },
+            {
+            "word":"タブレット",
+            "title":"Máy tính bảng, tablet"
+            },
+            {
+            "word":"デスクトップ",
+            "title":"Desktop, màn hình"
+            },
+            {
+            "word":"ベンダー",
+            "title":"vendor, nhà cung cấp"
+            },
+            {
+            "word":"アイコン",
+            "title":"Icon, biểu tượng"
+            },
+            {
+            "word":"コンボボックス",
+            "title":"Combobox, hộp tổ hợp"
+            },
+            {
+            "word":"テキストボックス",
+            "title":"Textbox, hộp văn bản"
+            },
+            {
+            "word":"ドロップダウンリスト",
+            "title":"Drop- down list, danh sách thả xuống"
+            },
+            {
+            "word":"ラジオボタン",
+            "title":"Radio button, nút radio, nút chọn một"
+            },
+            {
+            "word":"ラベル",
+            "title":"Label, nhãn"
+            },
+            {
+            "word":"ループ",
+            "title":"Lặp, loop"
+            },
+            {
+            "word":"オンスケジュール",
+            "title":"On schedule, đúng tiến độ"
+            },
+            {
+            "word":"ネイティブレビュー",
+            "title":"Native review, người bản ngữ kiểm tra"
+            },
+            {
+            "word":"プロトタイプ",
+            "title":"Prototype, bản mẫu thử nghiệm"
+            },
+            {
+            "word":"ボタン",
+            "title":"Button, nút"
+            },
+            {
+            "word":"デフォルト",
+            "title":"Mặc định"
+            },
+            {
+            "word":"ランダムレビュー",
+            "title":"Random review, kiểm tra ngẫu nhiên"
+            },
+            {
+            "word":"アクション",
+            "title":"Hành động, action"
+            },
+            {
+            "word":"キーマイルストーン",
+            "title":"Key milestone, cột mốc chính"
+            },
+            {
+            "word":"タイムリー",
+            "title":"Kịp thời, timely"
+            },
+            {
+            "word":"フォローアップ",
+            "title":"Follow-up, theo dõi tiếp"
+            },
+            {
+            "word":"ゴールデンウイーク",
+            "title":"Tuần lễ vàng của Nhật (đầu tháng 5)"
+            },
+            {
+            "word":"サポート",
+            "title":"Hộ trợ, support"
+            },
+            {
+            "word":"データマッピング",
+            "title":"Ánh xạ dữ liệu, data mapping"
+            },
+            {
+            "word":"アンチウイルスソフト",
+            "title":"Phần mềm diệt virus"
+            },
+            {
+            "word":"セキュリティマネジメント",
+            "title":"Quản lí bảo mật thông tin"
+            },
+            {
+            "word":"ウェブサイト",
+            "title":"Website"
+            },
+            {
+            "word":"オンプレミス",
+            "title":"On - premises/ tại chỗ"
+            },
+            {
+            "word":"セキュア（アプリケーション）",
+            "title":"(Ứng dụng) an toàn, secure (application)"
+            },
+            {
+            "word":"ぺネトレーションテスト",
+            "title":"Kiểm thử xâm nhập, pentest"
+            },
+            {
+            "word":"ユーザインタフェース",
+            "title":"User interface, giao diện người dùng"
+            },
+            {
+            "word":"リモートワーク",
+            "title":"Làm việc từ xa, remote work"
+            },
+            {
+            "word":"セキュリティプロセス",
+            "title":"Quy trình bảo mật, security process"
+            },
+            {
+            "word":"ドメイン",
+            "title":"Domain, miền"
+            },
+            {
+            "word":"ポート",
+            "title":"Port, cổng"
+            },
+            {
+            "word":"メンバー",
+            "title":"Thành viên"
+            },
+            {
+            "word":"インシデント",
+            "title":"Sự cố, incident"
+            },
+            {
+            "word":"セキュリティインシデント",
+            "title":"Sự cố bảo mật security incident"
+            },
+            {
+            "word":"インデックス",
+            "title":"Index, chỉ mục, chỉ số"
+            },
+            {
+            "word":"アドミン",
+            "title":"Người quản trị, admin"
+            },
+            {
+            "word":"アップロードする",
+            "title":"Upload, tải lên"
+            },
+            {
+            "word":"オンラインソースコード",
+            "title":"Mã nguồn trực tuyến"
+            },
+            {
+            "word":"コピー",
+            "title":" Copy, sao chép"
+            },
+            {
+            "word":"リポジトリ",
+            "title":"Kho lưu trữ, repository"
+            },
+            {
+            "word":"インデント",
+            "title":"Thụt lề, lùi đầu dòng"
+            },
+            {
+            "word":"オフショアチーム",
+            "title":"Offshore team, đội offshore"
+            },
+            {
+            "word":"クラス",
+            "title":"Lớp, class"
+            },
+            {
+            "word":"コメント",
+            "title":"Comment/ ghi chú"
+            },
+            {
+            "word":"ソースコードレビュー",
+            "title":"Review mã nguồn, soure code review"
+            },
+            {
+            "word":"パッケージ",
+            "title":"Gói, package"
+            },
+            {
+            "word":"ファイル",
+            "title":"Tệp / file"
+            },
+            {
+            "word":"ライフサイクルコスト",
+            "title":"Chi phí vòng đời (sản phẩm, phầm mềm)"
+            },
+            {
+            "word":"スペース",
+            "title":"Dấu cách "
+            },
+            {
+            "word":"ピックアップ",
+            "title":"Pick up, lấy ra"
+            },
+            {
+            "word":"コンパイラ",
+            "title":"Trình biên dịch, compiler"
+            },
+            {
+            "word":"デグレート",
+            "title":"(Lỗi) phát sinh, degrade (bug)"
+            },
+            {
+            "word":"オプティマイザ",
+            "title":"Bộ tối ưu hoá, optimizer"
+            },
+            {
+            "word":"テストタイプ",
+            "title":"Loại kiểm thử, loại test, test type"
+            },
+            {
+            "word":"ヒューマンエラー",
+            "title":"Lỗi bởi con người"
+            },
+            {
+            "word":"レポート",
+            "title":"Báo cáo"
+            },
+            {
+            "word":"ケアレスミス",
+            "title":"Lỗi bất cẩn, careless mistake"
+            },
+            {
+            "word":"システムテスト",
+            "title":"System test (ST), kiểm thử hệ thống"
+            },
+            {
+            "word":"シナリオテスト",
+            "title":"Kiểm thử theo kịch bản, scenario testing"
+            },
+            {
+            "word":"ストレステスト",
+            "title":"Stress testing"
+            },
+            {
+            "word":"セキュリティテスト",
+            "title":"Kiểm thử bảo mật, security testing"
+            },
+            {
+            "word":"ユーザビリティテスト",
+            "title":"Kiểm thử tính khả dụng, usability testing"
+            },
+            {
+            "word":"ユニットテスト",
+            "title":"Unit test (UT), kiểm thử đơn vị"
+            },
+            {
+            "word":"ロバストネステスト",
+            "title":"Kiểm thử biên mạnh, robustness testing"
+            },
+            {
+            "word":"モニタリング",
+            "title":"Monitoring, giám sát"
+            },
+            {
+            "word":"クライアント",
+            "title":"Máy khách, client"
+            },
+            {
+            "word":"マトリックス",
+            "title":"Ma trận, ,matrix"
+            },
+            {
+            "word":"オープンソース",
+            "title":"Mã nguồn mở, open source"
+            },
+            {
+            "word":"スクリプト",
+            "title":"Script, tập lệnh"
+            },
+            {
+            "word":"デモ",
+            "title":"Thử nghiệm, demo "
+            },
+            {
+            "word":"ゴーライブ",
+            "title":"Go -live, đi vào hoạt động chính thức, triên khai lên môi trường thật"
+            },
+            {
+            "word":"シミュレーター",
+            "title":"Simulator, thiết bị mô phỏng, máy giả lập"
+            },
+            {
+            "word":"テレワーク",
+            "title":"Làm việc từ xa"
+            },
+            {
+            "word":"カーソル",
+            "title":"Con trỏ"
+            },
+            {
+            "word":"テストパターン",
+            "title":"Test pattern, kiểu/ mẫu kiểm thử"
+            },
+            {
+            "word":"プログラムチェックリスト",
+            "title":"Program checklist, danh sách kiểm thử chương trình"
+            },
+            {
+            "word":"チャット",
+            "title":"Chat, tán gẫu"
+            },
+            {
+            "word":"デグレードバグ",
+            "title":"Lỗi phát sinh, degrade bug"
+            },
+            {
+            "word":"オンラインストレージ",
+            "title":"Lưu trữ trực tuyến, online storage"
+            },
+            {
+            "word":"チケット",
+            "title":"Ticket, đơn, phiếu (quản lý yêu cầu/lỗi)"
+            },
+            {
+            "word":"ユーザビリティ",
+            "title":"Tính khả dụng, usability"
+            },
+            {
+            "word":"ローカライゼーション",
+            "title":"Bản địa hoá, localization"
+            },
+            {
+            "word":"エクスポート",
+            "title":"Xuất ra"
+            },
+            {
+            "word":"エクスポートボタン",
+            "title":"Nút Export, nút Xuất (tên button)"
+            },
+            {
+            "word":"ディレクトリツリー",
+            "title":"Cây thư mục"
+            },
+            {
+            "word":"ファイルパス",
+            "title":"Đường dẫn tệp, file path"
+            },
+            {
+            "word":"インストールガイド",
+            "title":"Hướng dẫn cài đặt"
+            },
+            {
+            "word":"テクニカル",
+            "title":"Kỹ thuật"
+            },
+            {
+            "word":"プログラムビルド",
+            "title":"Build chương tình"
+            },
+            {
+            "word":"リリースノート",
+            "title":"Release note, ghi chú phát hành"
+            },
+            {
+            "word":"ローンチ",
+            "title":"Launch, phát hành, tung ra"
+            },
+            {
+            "word":"ウインドウ",
+            "title":"Window, cửa sổ"
+            },
+            {
+            "word":"モジュール",
+            "title":"Module, mô đun"
+            },
+            {
+            "word":"ユーザフレンドリ",
+            "title":"Thân thiện với người dùng, user friendly"
+            },
+            {
+            "word":"オンラインセミナー",
+            "title":"Online seminar, hội thảo trực tuyến"
+            },
+            {
+            "word":"スクリーンショット",
+            "title":"Ảnh chụp màn hình, screenshot"
+            },
+            {
+            "word":"デバイス",
+            "title":"Device, thiết bị"
+            },
+            {
+            "word":"ビデオ",
+            "title":"Video"
+            },
+            {
+            "word":"モバイル",
+            "title":"Thiết bị di động"
+            },
+            {
+            "word":"リアルタイム",
+            "title":"Thời gian thực, trực tiếp real-time"
+            },
+            {
+            "word":"スレッド",
+            "title":"Luồng, mạch, thread"
+            },
+            {
+            "word":"アンケート",
+            "title":"Khảo sát "
+            },
+            {
+            "word":"テクニカルスキル",
+            "title":"Technical skill, năng lực kĩ thuật"
+            },
+            {
+            "word":"ブリッジSE",
+            "title":"Brigde SE, Kỹ sư cầu nối"
+            },
+            {
+            "word":"プロジェクトサポート",
+            "title":"Hỗ trợ dự án"
+            },
+            {
+            "word":"フロントSE",
+            "title":"Front SE"
+            },
+            {
+            "word":"ランク",
+            "title":"Xếp loại"
+            },
+            {
+            "word":"ノウハウ",
+            "title":"Kiến thức tích luỹ, know - how"
+            },
+            {
+            "word":"スキーム",
+            "title":"Cơ chế/ phương án"
+            },
+            {
+            "word":"ディスカション",
+            "title":"Thảo luận, discussion"
+            },
+            {
+            "word":"インタビュー",
+            "title":"Phỏng vấn"
+            },
+            {
+            "word":"セッティング",
+            "title":"Sắp xếp"
+            },
+            {
+            "word":"ディープラーニング",
+            "title":"Học sâu, deep learning"
+            },
+            {
+            "word":"ビッグデータ",
+            "title":"Dữ liệu lớn, big data"
+            },
+            {
+            "word":"アプリケーションプログラミングインターフェース",
+            "title":"API, Application Programming Interface, Giao diện lập trình"
+            },
+            {
+            "word":"ブリッジシステムエンジニア、ブリッジSE",
+            "title":"Bridge System Engineer, Kỹ sư cầu nối"
+            },
+            {
+            "word":"データベース",
+            "title":"DB, Database, Cơ sở dữ liệu"
+            },
+            {
+            "word":"エンティティ",
+            "title":"Thực thể"
+            },
+            {
+            "word":"ハイパーテキストマークアップランゲージ",
+            "title":"HTML, Hypertext Markup Language, Ngôn ngữ đánh dấu siêu văn bản"
+            },
+            {
+            "word":"キロステップ、キロライン",
+            "title":"KLOC, Kilo (Thousand) Lines of Code"
+            },
+            {
+            "word":"ロードバランサー",
+            "title":"LB, Load Balancer, Công cụ cân bằng tải"
+            },
+            {
+            "word":"マイクロソフト",
+            "title":"MS, Microsoft, Microsoft"
+            },
+            {
+            "word":"オペレーティングシステム",
+            "title":"OS, Operating System, Hệ điều hành"
+            },
+            {
+            "word":"パーソナルコンピュータ",
+            "title":"PC, Personal Computer, Máy tính cá nhận"
+            },
+            {
+            "word":"プロセスケイパビリティベースライン",
+            "title":"PCB, Process Capability Baseline, Bộ dữ liệu thống kê đo nặng lực phát triển"
+            },
+            {
+            "word":"プログラムチェックリスト",
+            "title":"PCL, Program Check List, Danh sách kiểm tra chương trình"
+            },
+            {
+            "word":"プロジェクトマネージャー",
+            "title":"PM, Project Manager, Người quản lý dự án"
+            },
+            {
+            "word":"システムエンジニア／ソフトウェアインジニア",
+            "title":"SE, System Engineer/Software Engineer, Kỹ sư phần mềm, kỹ sư hệ thống"
+            },
+            {
+            "word":"サブバージョン",
+            "title":"SVN, Subversion, Hệ thống quản lý phiên bản"
+            },
+            {
+            "word":"ユーザエクスペリエンス",
+            "title":"UX, User Experience, Trải nghiệm người dùng"
+            },
+            {
+            "word":"アクセシビリティ",
+            "title":"Accesiblity, Tính tiện dụng, khả năng tiếp cận"
+            },
+            {
+            "word":"アジャイル",
+            "title":"(mô hình) Agile"
+            },
+            {
+            "word":"アドホック",
+            "title":"Đột xuất, ad-hoc"
+            },
+            {
+            "word":"アルゴリズム",
+            "title":"Algorithm, thuật toán, giải thuật"
+            },
+            {
+            "word":"イーサネット",
+            "title":"Mạng ethernet"
+            },
+            {
+            "word":"インタリック",
+            "title":"In nghiêng"
+            },
+            {
+            "word":"インスタンス",
+            "title":"Instance"
+            },
+            {
+            "word":"ウィジェット",
+            "title":"Widget, tiện ích"
+            },
+            {
+            "word":"ウイルス",
+            "title":"Virus"
+            },
+            {
+            "word":"ウォーターフォール",
+            "title":"(mô hình) Waterfall/thác nước"
+            },
+            {
+            "word":"エクスプロイト",
+            "title":"Khai thác, lợi dụng, exploit"
+            },
+            {
+            "word":"オブジェクト",
+            "title":"Object, đối tượng"
+            },
+            {
+            "word":"オンショア",
+            "title":"Onshore"
+            },
+            {
+            "word":"カウンター",
+            "title":"Bộ đếm, counter"
+            },
+            {
+            "word":"セットアップ",
+            "title":"Cài đặt "
+            },
+            {
+            "word":"キャスト",
+            "title":"Cast, ép kiểu"
+            },
+            {
+            "word":"キャッシュ",
+            "title":"Bộ nhớ đệm, cache"
+            },
+            {
+            "word":"クエリ",
+            "title":"Query, truy vấn"
+            },
+            {
+            "word":"グローバル",
+            "title":"Global, toàn cầu"
+            },
+            {
+            "word":"クロール",
+            "title":"Cào/crawl (dữ liệu)"
+            },
+            {
+            "word":"クロスレビュー",
+            "title":"Cross review, kiểm tra chéo"
+            },
+            {
+            "word":"ゲートウェイ",
+            "title":"Gateway"
+            },
+            {
+            "word":"コンソール",
+            "title":"Console, bảng điều khiển"
+            },
+            {
+            "word":"コンピュータビジョン",
+            "title":"Computer vision, thị giác máy tính"
+            },
+            {
+            "word":"サブスクリプション",
+            "title":"Đăng ký, thuê bao định kỳ, subscription"
+            },
+            {
+            "word":"シンクライアント",
+            "title":"Thin client"
+            },
+            {
+            "word":"スクラム",
+            "title":"(Mô hình) Scrum (một phương pháp phát triển theo mô hình Agile)"
+            },
+            {
+            "word":"スクラムマスター",
+            "title":"Scrum master, người quản trị (dự án) Scrum"
+            },
+            {
+            "word":"スタック",
+            "title":"Stack"
+            },
+            {
+            "word":"ストアドプロシージャ",
+            "title":"Stored procedure"
+            },
+            {
+            "word":"スパイウェア",
+            "title":"Phần mềm gián điệp, spyware"
+            },
+            {
+            "word":"スプラッシュスクリーン",
+            "title":"Màn hình khởi động ứng dụng, splash screen"
+            },
+            {
+            "word":"スプリント",
+            "title":"Sprint (đơn vị thời gian trong dự án Agile)"
+            },
+            {
+            "word":"スプリントレトロスペクティブ",
+            "title":"Sprint retrospective, cuộc họp kết thúc sprint"
+            },
+            {
+            "word":"ソート",
+            "title":"Sắp xếp theo thứ tự, sorting"
+            },
+            {
+            "word":"ソケット",
+            "title":"Socket"
+            },
+            {
+            "word":"ダイアログボックス",
+            "title":"Hộp thoại, dialog box"
+            },
+            {
+            "word":"タイムアウト",
+            "title":"Timeout, hết thời gian chờ"
+            },
+            {
+            "word":"ダウンロード",
+            "title":"Tải xuống, download"
+            },
+            {
+            "word":"デッドロック",
+            "title":"(Trạng thái) khoá chết, deadlock"
+            },
+            {
+            "word":"ドラッグアンドドロップ",
+            "title":"Drag and drop, kéo và thả"
+            },
+            {
+            "word":"トランザクション",
+            "title":"Transaction"
+            },
+            {
+            "word":"ニアショア",
+            "title":"Nearshore"
+            },
+            {
+            "word":"パーサー",
+            "title":"Parser, Trình phân tích cú pháp"
+            },
+            {
+            "word":"バージョンアップ",
+            "title":"Version up, nâng cấp phiên bản"
+            },
+            {
+            "word":"ハードコード",
+            "title":"Hard code, code cứng"
+            },
+            {
+            "word":"パイロット",
+            "title":"Pilot, thử nghiệm"
+            },
+            {
+            "word":"ハッシュ",
+            "title":"Hash "
+            },
+            {
+            "word":"パッチ",
+            "title":"Bản vá (lỗi), patch"
+            },
+            {
+            "word":"パラメータ",
+            "title":"Parameter, tham số"
+            },
+            {
+            "word":"バリデーション",
+            "title":"Validation, kiểm tra tính hợp lệ"
+            },
+            {
+            "word":"ファイバー",
+            "title":"Sợi fiber"
+            },
+            {
+            "word":"ファームウェア",
+            "title":"Firmware"
+            },
+            {
+            "word":"フィッシング",
+            "title":"Phishing, giả mạo"
+            },
+            {
+            "word":"フィンテック",
+            "title":"Fintech, Công nghệ tài chính"
+            },
+            {
+            "word":"フラグ",
+            "title":"flag, cờ"
+            },
+            {
+            "word":"プラットフォーム",
+            "title":"Platform, nền tảng"
+            },
+            {
+            "word":"プレースホルダ",
+            "title":"Placeholder, giữ chỗ"
+            },
+            {
+            "word":"プローチャート",
+            "title":"Flow chart, lưu đồ"
+            },
+            {
+            "word":"プロキシ",
+            "title":"Proxy"
+            },
+            {
+            "word":"プロダクトオーナー",
+            "title":"Product owner (chủ sở hữu sản phẩm)"
+            },
+            {
+            "word":"プロダクトバックログ",
+            "title":"Product backlog (danh sách tính năng mong muốn)"
+            },
+            {
+            "word":"プロックチェーン",
+            "title":"Blockchain, chuỗi khối"
+            },
+            {
+            "word":"プロパティ",
+            "title":"Thuộc tính, property"
+            },
+            {
+            "word":"ペイン",
+            "title":"Pane, ô (cửa sổ)"
+            },
+            {
+            "word":"ページング",
+            "title":"Phân trang, paging"
+            },
+            {
+            "word":"ベクトル",
+            "title":"Vec-tơ, vector"
+            },
+            {
+            "word":"ポインター",
+            "title":"Con trỏ, pointer"
+            },
+            {
+            "word":"ボールド",
+            "title":"In đậm"
+            },
+            {
+            "word":"ポップアップ",
+            "title":"Pop-up"
+            },
+            {
+            "word":"マネージドサービス",
+            "title":"managed service, dịch vụ (được) quản lý"
+            },
+            {
+            "word":"マルウェア",
+            "title":"Mã độc, malware, phần mềm độc hại"
+            },
+            {
+            "word":"マルチタッチ",
+            "title":"(Cảm ứng) đa điểm multi-touch"
+            },
+            {
+            "word":"メモリリーク",
+            "title":"Rò rỉ bộ nhớ, memory leak"
+            },
+            {
+            "word":"モーダルウィンドウ",
+            "title":"Cửa sổ dạng modal"
+            },
+            {
+            "word":"モンキーテスト",
+            "title":"Test ngẫu nhiên, monkey testing"
+            },
+            {
+            "word":"ユーザストーリー",
+            "title":"User story (nội dung mô tả yêu cầu của người dùng)"
+            },
+            {
+            "word":"ランサムウェア",
+            "title":"ransomware, mã độc tống tiền"
+            },
+            {
+            "word":"リスケ",
+            "title":"Thay đổi kế hoạch/lịch trình, reschedule"
+            },
+            {
+            "word":"リスナー",
+            "title":"Listener, trình nghe"
+            },
+            {
+            "word":"コンピュータ",
+            "title":"Máy tính computer"
+            },
+            {
+            "word":"ルータ",
+            "title":"Router, bộ định tuyến"
+            },
+            {
+            "word":"レイヤー",
+            "title":"Layer, tầng"
+            },
+            {
+            "word":"レガシーシステム",
+            "title":"Hệ thống kế thừa, legacy system"
+            },
+            {
+            "word":"ロードテスト",
+            "title":"Kiểm thử tải, load testing"
+            },
+            {
+            "word":"ローミング",
+            "title":"Chuyển vùng, roaming"
+            },
+            {
+            "word":"ロールバック",
+            "title":"Roll back, quay về, phục hồi, quay lại"
+            },
+            {
+            "word":"ワーム",
+            "title":"Worm, sâu (máy tính)"
+            },
+            {
+            "word":"ワンアイムパスワード",
+            "title":"Mật khẩu dùng một lần, one-time password (OTP)"
+            }
+    ]
+}

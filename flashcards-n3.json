@@ -1,0 +1,123 @@
+[
+      {
+    "name": "Hán tự bộ cơ bản",
+    "avatarUr": "https://static.independent.co.uk/2022/08/24/12/iStock-1146262403.jpg?quality=75&width=400&crop=3%3A2%2Csmart&auto=webp",
+     "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/gplx/main/nihon/am_han_bo_co_ban.json",
+    "title": "Hán tự bộ cơ bản"
+  },
+      {
+    "name": "Hán tự N5",
+    "avatarUr": "https://static.independent.co.uk/2022/08/24/12/iStock-1146262403.jpg?quality=75&width=400&crop=3%3A2%2Csmart&auto=webp",
+     "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/gplx/main/nihon/tu_han_n5.json",
+    "title": "Hán tự bộ cơ bản"
+  }, 
+  {
+    "name": "Từ mina-indori N5",
+    "avatarUr": "https://static.independent.co.uk/2022/08/24/12/iStock-1146262403.jpg?quality=75&width=400&crop=3%3A2%2Csmart&auto=webp",
+     "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/gplx/refs/heads/main/nihon/N5_Idori",
+    "title": "Từ mina-indori N5"
+  },
+        {
+    "name": "Kanji look and learn",
+    "avatarUr": "https://cdn0.fahasa.com/media/catalog/product/i/m/image_195509_1_19329.jpg",
+     "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/gplx/main/nihon/kanju_look_learn.json",
+    "title": "Kanji look and learn"
+  },
+      
+    {
+    "name": "Từ vựng N5",
+    "avatarUr": "https://static.independent.co.uk/2022/08/24/12/iStock-1146262403.jpg?quality=75&width=400&crop=3%3A2%2Csmart&auto=webp",
+     "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/gplx/main/nihon/N5.json",
+    "title": "Từ vựng N5"
+  },
+         {
+    "name": "Từ mina-indori L13",
+    "avatarUr": "https://static.independent.co.uk/2022/08/24/12/iStock-1146262403.jpg?quality=75&width=400&crop=3%3A2%2Csmart&auto=webp",
+     "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/gplx/refs/heads/main/nihon/L13.json",
+    "title": "MINA+IRODORI L13"
+  },
+        {
+    "name": "Từ mina-indori L12",
+    "avatarUr": "https://static.independent.co.uk/2022/08/24/12/iStock-1146262403.jpg?quality=75&width=400&crop=3%3A2%2Csmart&auto=webp",
+     "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/gplx/refs/heads/main/nihon/L12.json",
+    "title": "MINA+IRODORI L12"
+  },
+        {
+    "name": "Từ mina-indori L11",
+    "avatarUr": "https://static.independent.co.uk/2022/08/24/12/iStock-1146262403.jpg?quality=75&width=400&crop=3%3A2%2Csmart&auto=webp",
+     "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/gplx/refs/heads/main/nihon/L11.json",
+    "title": "MINA+IRODORI L11"
+  },
+         {
+    "name": "Từ mina-indori L10",
+    "avatarUr": "https://static.independent.co.uk/2022/08/24/12/iStock-1146262403.jpg?quality=75&width=400&crop=3%3A2%2Csmart&auto=webp",
+     "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/gplx/refs/heads/main/nihon/L10.json",
+    "title": "MINA+IRODORI L10"
+  },
+        {
+    "name": "Từ mina-indori L9",
+    "avatarUr": "https://static.independent.co.uk/2022/08/24/12/iStock-1146262403.jpg?quality=75&width=400&crop=3%3A2%2Csmart&auto=webp",
+     "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/gplx/refs/heads/main/nihon/L9.json",
+    "title": "MINA+IRODORI L9"
+  },
+        {
+    "name": "Từ mina-indori L8",
+    "avatarUr": "https://static.independent.co.uk/2022/08/24/12/iStock-1146262403.jpg?quality=75&width=400&crop=3%3A2%2Csmart&auto=webp",
+     "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/gplx/refs/heads/main/nihon/L8.json",
+    "title": "MINA+IRODORI L8"
+  },
+      {
+    "name": "Từ mina-indori L7",
+    "avatarUr": "https://static.independent.co.uk/2022/08/24/12/iStock-1146262403.jpg?quality=75&width=400&crop=3%3A2%2Csmart&auto=webp",
+     "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/gplx/refs/heads/main/nihon/L7.json",
+    "title": "MINA+IRODORI L7"
+  },
+         {
+    "name": "Từ mina-indori L6",
+    "avatarUr": "https://static.independent.co.uk/2022/08/24/12/iStock-1146262403.jpg?quality=75&width=400&crop=3%3A2%2Csmart&auto=webp",
+     "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/gplx/refs/heads/main/nihon/L6.json",
+    "title": "MINA+IRODORI L6"
+  },
+         {
+    "name": "Từ mina-indori L5",
+    "avatarUr": "https://static.independent.co.uk/2022/08/24/12/iStock-1146262403.jpg?quality=75&width=400&crop=3%3A2%2Csmart&auto=webp",
+     "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/gplx/refs/heads/main/nihon/L5.json",
+    "title": "MINA+IRODORI L5"
+  },
+  {
+    "name": "Từ mina-indori L4",
+    "avatarUr": "https://static.independent.co.uk/2022/08/24/12/iStock-1146262403.jpg?quality=75&width=400&crop=3%3A2%2Csmart&auto=webp",
+     "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/gplx/refs/heads/main/nihon/L4.json",
+    "title": "MINA+IRODORI L4"
+  },
+        {
+    "name": "Từ mina-indori L3 không hán tự",
+    "avatarUr": "https://static.independent.co.uk/2022/08/24/12/iStock-1146262403.jpg?quality=75&width=400&crop=3%3A2%2Csmart&auto=webp",
+     "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/gplx/refs/heads/main/nihon/L3.json",
+    "title": "MINA+IRODORI không hán tự L3"
+  },
+    {
+    "name": "Từ mina-indori L2 không hán tự",
+    "avatarUr": "https://static.independent.co.uk/2022/08/24/12/iStock-1146262403.jpg?quality=75&width=400&crop=3%3A2%2Csmart&auto=webp",
+     "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/gplx/main/ja_minaidori_L2.json",
+    "title": "MINA+IRODORI không hán tự L2 "
+  },
+       {
+    "name": "Từ vựng L1",
+    "avatarUr": "https://static.independent.co.uk/2022/08/24/12/iStock-1146262403.jpg?quality=75&width=400&crop=3%3A2%2Csmart&auto=webp",
+     "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/gplx/main/ja_minaidori.json",
+    "title": "MINA+IRODORI L1 không hán tự"
+  },
+    {
+    "name": "Từ vựng IT-N5",
+    "avatarUr": "https://static.independent.co.uk/2022/08/24/12/iStock-1146262403.jpg?quality=75&width=400&crop=3%3A2%2Csmart&auto=webp",
+     "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/gplx/main/it_n5.json",
+    "title": "Từ vựng IT "
+  },
+     {
+    "name": "Từ chào hỏi",
+    "avatarUr": "https://static.independent.co.uk/2022/08/24/12/iStock-1146262403.jpg?quality=75&width=400&crop=3%3A2%2Csmart&auto=webp",
+     "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/gplx/main/jp_chaohoi.json",
+    "title": "MINA+IRODORI từ vựng chào hỏi L2"
+  }   
+]

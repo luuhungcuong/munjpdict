@@ -1,0 +1,262 @@
+{
+    "name": "L9-Idori",
+    "language": "ja-JP",
+    "data": [
+        {
+            "word": "あります",
+            "title": "Có (tồn tại, dùng cho đồ vật)"
+        },
+        {
+            "word": "います",
+            "title": "Có, ở (tồn tại, dùng cho người và động vật)"
+        },
+        {
+            "word": "いろいろ[な]",
+            "title": "Nhiều, đa dạng"
+        },
+        {
+            "word": "男の人",
+            "title": "おとこのひと  NAM NHÂN  Người đàn ông"
+        },
+        {
+            "word": "女の人",
+            "title": "おんなのひと  NỮ NHÂN  Người đàn bà"
+        },
+        {
+            "word": "男の子",
+            "title": "おとこのこ  NAM TỬ  Cậu con trai"
+        },
+        {
+            "word": "女の子",
+            "title": "おんなのこ  NỮ TỬ  Cô con gái"
+        },
+        {
+            "word": "犬",
+            "title": "いぬ  KHUYỂN  Chó"
+        },
+        {
+            "word": "猫",
+            "title": "ねこ  MIÊU  Mèo"
+        },
+        {
+            "word": "パンダ",
+            "title": "Gấu trúc"
+        },
+        {
+            "word": "象",
+            "title": "ぞう  TƯỢNG  Con voi"
+        },
+        {
+            "word": "木",
+            "title": "き  MỘC  Cây, gỗ"
+        },
+        {
+            "word": "物",
+            "title": "もの  VẬT  Vật, đồ vật"
+        },
+        {
+            "word": "電池",
+            "title": "でんち  ĐIỆN TRÌ  Pin"
+        },
+        {
+            "word": "箱",
+            "title": "はこ  TƯƠNG  Hộp"
+        },
+        {
+            "word": "スイッチ",
+            "title": "Công tắc"
+        },
+        {
+            "word": "冷蔵庫",
+            "title": "れいぞうこ  LÃNH TÀNG KHỐ  Tủ lạnh"
+        },
+        {
+            "word": "テーブル",
+            "title": "Bàn"
+        },
+        {
+            "word": "ベッド",
+            "title": "Giường"
+        },
+        {
+            "word": "棚",
+            "title": "たな  BẰNG  Giá sách"
+        },
+        {
+            "word": "ドア",
+            "title": "cửa"
+        },
+        {
+            "word": "窓",
+            "title": "まど SONG cửa sổ"
+        },
+        {
+            "word": "ポスト",
+            "title": "Hộp thư, hòm thư"
+        },
+        {
+            "word": "ビル",
+            "title": "Toà nhà"
+        },
+        {
+            "word": "ATM",
+            "title": "Máy rút tiền"
+        },
+        {
+            "word": "コンビニ",
+            "title": "Cửa hàng tiện lợi"
+        },
+        {
+            "word": "公園",
+            "title": "こうえん  CÔNG VIÊN  Công viên"
+        },
+        {
+            "word": "喫茶店",
+            "title": "きっさてん  KHIẾT TRÀ ĐIẾM  Quán giải khát, quán cà-phê"
+        },
+        {
+            "word": "～屋",
+            "title": "～や ỐC  Hiệu ~, cửa hàng ~"
+        },
+        {
+            "word": "乗り場",
+            "title": "のりば  THỪA TRƯỜNG  Bến xe, điểm lên xuống xe"
+        },
+        {
+            "word": "県",
+            "title": "けん  HUYỆN  Tỉnh"
+        },
+        {
+            "word": "上",
+            "title": "うえ  THƯỢNG  Trên"
+        },
+        {
+            "word": "下",
+            "title": "した  HẠ  Dưới"
+        },
+        {
+            "word": "前",
+            "title": "まえ  TIỀN  Trước"
+        },
+        {
+            "word": "後ろ",
+            "title": "うしろ  HẬU  Sau"
+        },
+        {
+            "word": "右",
+            "title": "みぎ  HỮU  Phải"
+        },
+        {
+            "word": "左",
+            "title": "ひだり  TẢ  Trái"
+        },
+        {
+            "word": "中",
+            "title": "なか  TRUNG  Trong, giữa"
+        },
+        {
+            "word": "外",
+            "title": "そと  NGOẠI  Ngoài"
+        },
+        {
+            "word": "隣",
+            "title": "となり  LÂN  Bên cạnh"
+        },
+        {
+            "word": "近く",
+            "title": "ちかく  CẬN  Gần"
+        },
+        {
+            "word": "間",
+            "title": "あいだ  GIAN  Giữa"
+        },
+        {
+            "word": "～や～[など]",
+            "title": "~và ~, [v.v.]"
+        },
+        {
+            "word": "[どうも]すみません。",
+            "title": "Cám ơn"
+        },
+        {
+            "word": "ナンプラー/ヌクマム",
+            "title": "Nước mắm"
+        },
+        {
+            "word": "コーナー",
+            "title": "Góc, khu vực"
+        },
+        {
+            "word": "一番下",
+            "title": "いちばんした  NHẤT PHIÊN HẠ  Ở dưới cùng"
+        },
+        {
+            "word": "ビル",
+            "title": "Tòa nhà"
+        },
+        {
+            "word": "建物",
+            "title": "たてもの  KIẾN VẬT  Tòa nhà"
+        },
+        {
+            "word": "コインロッカー",
+            "title": "Tủ đựng đồ ở ga, sân bay"
+        },
+        {
+            "word": "エーティーエム",
+            "title": "ATM"
+        },
+        {
+            "word": "喫煙所",
+            "title": "きつえんじょ  KHIẾT YÊN SỞ  Nơi hút thuốc"
+        },
+        {
+            "word": "自動販売機",
+            "title": "じどうはんばいき  TỰ ĐỘNG PHÁN MẠI CƠ  Máy bán hàng tự động"
+        },
+        {
+            "word": "のみもののじどうはんばいき",
+            "title": "のみもののじどうはんばいき  ẨM VẬT TỰ ĐỘNG PHÁN MẠI CƠ  Máy bán đồ uống"
+        },
+        {
+            "word": "場所を聞いています",
+            "title": "ばしょをきいています  TRƯỜNG SỞ VĂN  Đang hỏi địa điểm"
+        },
+        {
+            "word": "こっち",
+            "title": "Chỗ này (cách nói ngắn của ここ・こちら）"
+        },
+        {
+            "word": "そっち",
+            "title": "Chỗ đó (cách nói ngắn của そこ・そちら）"
+        },
+        {
+            "word": "あっち",
+            "title": "Chỗ kia (cách nói ngắn của あそこ・ あちら）"
+        },
+        {
+            "word": "位置",
+            "title": "いち  VỊ TRÍ  Vị trí"
+        },
+        {
+            "word": "奥",
+            "title": "おく  ÁO  Bên trong"
+        },
+        {
+            "word": "エレベーター",
+            "title": "Thang máy"
+        },
+        {
+            "word": "エスカレーター",
+            "title": "Thang cuốn"
+        },
+        {
+            "word": "改札",
+            "title": "かいさつ  CẢI TRÁT  Cửa soát vé"
+        },
+        {
+            "word": "インフォメーション",
+            "title": "Thông tin"
+        }
+    ]
+}

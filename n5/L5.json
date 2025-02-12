@@ -1,0 +1,250 @@
+{
+    "name": "L5-Idori",
+    "language": "ja-JP",
+    "data": [
+        {
+            "word": "行きます",
+            "title": "いきます HÀNH Đi"
+        },
+        {
+            "word": "来ます",
+            "title": "きます LAI Đến"
+        },
+        {
+            "word": "帰ります",
+            "title": "かえります QUY Về"
+        },
+        {
+            "word": "学校",
+            "title": "がっこう HỌC HIỆU Trường học"
+        },
+        {
+            "word": "スーパー",
+            "title": "スーパー Siêu thị"
+        },
+        {
+            "word": "駅",
+            "title": "えき DỊCH Ga, nhà ga"
+        },
+        {
+            "word": "飛行機",
+            "title": "ひこうき PHI HÀNH CƠ Máy bay"
+        },
+        {
+            "word": "船",
+            "title": "ふね  THUYỀN  Thuyền, tàu thủy"
+        },
+        {
+            "word": "電車",
+            "title": "でんしゃ  ĐIỆN XA  Tàu điện"
+        },
+        {
+            "word": "地下鉄",
+            "title": "ちかてつ  ĐỊA HẠ THIẾT  Tàu điện ngầm"
+        },
+        {
+            "word": "新幹線",
+            "title": "しんかんせん  TÂN CÁN TUYẾN  Tàu Shinkansen"
+        },
+        {
+            "word": "バス",
+            "title": "Xe buýt"
+        },
+        {
+            "word": "タクシー",
+            "title": "Tắc-xi"
+        },
+        {
+            "word": "自転車",
+            "title": "じてんしゃ  TỰ CHUYỂN XA  Xe đạp"
+        },
+        {
+            "word": "歩いて",
+            "title": "あるいて  BỘ  Đi bộ"
+        },
+        {
+            "word": "人",
+            "title": "ひと  NHÂN  Người"
+        },
+        {
+            "word": "友達",
+            "title": "ともだち  HỮU ĐẠT  Bạn, bạn bè"
+        },
+        {
+            "word": "彼",
+            "title": "かれ  BỈ  Anh ấy, bạn trai"
+        },
+        {
+            "word": "彼女",
+            "title": "かのじょ  BỈ NỮ  Chị ấy, bạn gái"
+        },
+        {
+            "word": "家族",
+            "title": "かぞく  GIA TỘC  Gia đình"
+        },
+        {
+            "word": "一人で",
+            "title": "ひとりで  NHẤT NHÂN  Một mình"
+        },
+        {
+            "word": "先週",
+            "title": "せんしゅう  TIÊN CHU  Tuần trước"
+        },
+        {
+            "word": "今週",
+            "title": "こんしゅう  Kim Chu  tuần này"
+        },
+        {
+            "word": "来週",
+            "title": "らいしゅう  Lai Chu  tuần sau"
+        },
+        {
+            "word": "先月",
+            "title": "せんげつ  TIÊN NGUYỆT  Tháng trước"
+        },
+        {
+            "word": "今月",
+            "title": "こんげつ  KIM NGUYỆT  Tháng này"
+        },
+        {
+            "word": "来月",
+            "title": "らいげつ  LAI NGUYỆT  Tháng sau"
+        },
+        {
+            "word": "去年",
+            "title": "きょねん  KHỨ NIÊN  Năm ngoái"
+        },
+        {
+            "word": "今年",
+            "title": "ことし  KIM NIÊN  Năm nay"
+        },
+        {
+            "word": "来年",
+            "title": "らいねん  LAI NIÊN  Năm sau"
+        },
+        {
+            "word": "～年",
+            "title": "～ねん  NIÊN  Năm ~"
+        },
+        {
+            "word": "何年",
+            "title": "なんねん  HÀ NIÊN  Mấy năm"
+        },
+        {
+            "word": "～月",
+            "title": "～がつ  NGUYỆT  Tháng ~"
+        },
+        {
+            "word": "何月",
+            "title": "なんがつ（ですか）  HÀ NGUYỆT  Tháng mấy"
+        },
+        {
+            "word": "１日",
+            "title": "ついたち  NHẬT  Ngày mồng 1"
+        },
+        {
+            "word": "２日",
+            "title": "ふつか  NHẬT  Ngày mồng 2, 2 ngày"
+        },
+        {
+            "word": "３日",
+            "title": "みっか  NHẬT  Ngày mồng 3, 3 ngày"
+        },
+        {
+            "word": "４日",
+            "title": "よっか  NHẬT  Ngày mồng 4, 4 ngày"
+        },
+        {
+            "word": "５日",
+            "title": "いつか  NHẬT  Ngày mồng 5, 5 ngày"
+        },
+        {
+            "word": "６日",
+            "title": "むいか  NHẬT  Ngày mồng 6, 6 ngày"
+        },
+        {
+            "word": "７日",
+            "title": "なのか  NHẬT  Ngày mồng 7, 7 ngày"
+        },
+        {
+            "word": "８日",
+            "title": "ようか  NHẬT  Ngày mồng 8, 8 ngày"
+        },
+        {
+            "word": "９日",
+            "title": "ここのか  NHẬT  Ngày mồng 9, 9 ngày"
+        },
+        {
+            "word": "１０日",
+            "title": "とおか  NHẬT  Ngày mồng 10, 10 ngày"
+        },
+        {
+            "word": "１４日",
+            "title": "じゅうよっか  NHẬT  Ngày 14, 14 ngày"
+        },
+        {
+            "word": "２０日",
+            "title": "はつか  NHẬT  Ngày 20, 20 ngày"
+        },
+        {
+            "word": "２４日",
+            "title": "にじゅうよっか  NHẬT  Ngày 24, 24 ngày"
+        },
+        {
+            "word": "～日",
+            "title": "～にち  NHẬT  Ngày ~, ~ ngày"
+        },
+        {
+            "word": "何日",
+            "title": "なんにち（ですか）  HÀ NHẬT  Ngày mấy, mấy ngày"
+        },
+        {
+            "word": "いつ（ですか）",
+            "title": "Bao giờ, khi nào"
+        },
+        {
+            "word": "誕生日",
+            "title": "たんじょうび  ĐẢN SINH NHẬT  Sinh nhật"
+        },
+        {
+            "word": "そうですね",
+            "title": "Ừ, nhỉ."
+        },
+        {
+            "word": "[どうも]ありがとうございました",
+            "title": "Xin cám ơn anh/chị rất nhiều."
+        },
+        {
+            "word": "どういたしまして",
+            "title": "Không có gì."
+        },
+        {
+            "word": "～番線",
+            "title": "～ばんせん  PHIÊN TUYẾN  Sân ga số ~"
+        },
+        {
+            "word": "次の",
+            "title": "つぎの  THỨ  Tiếp theo"
+        },
+        {
+            "word": "普通",
+            "title": "ふつう  PHỔ THÔNG  Tàu thường"
+        },
+        {
+            "word": "急行",
+            "title": "きゅうこう  CẤP HÀNH  Tàu tốc hành"
+        },
+        {
+            "word": "特急",
+            "title": "とっきゅう  ĐẶC CẤP  Tàu tốc hành đặc biệt"
+        },
+        {
+            "word": "プール",
+            "title": "Bể bơi"
+        },
+        {
+            "word": "ご飯(食事)",
+            "title": "ごはん(しょくじ)  PHẠN (THỰC SỰ)  Cơm, bữa cơm"
+        }
+    ]
+}

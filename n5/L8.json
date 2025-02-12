@@ -1,0 +1,282 @@
+{
+    "name": "L8-Idori",
+    "language": "ja-JP",
+    "data": [
+        {
+            "word":"ハンサム[な]",
+            "title":"Đẹp trai"
+            },
+            {
+            "word":"きれい[な]",
+            "title":"Đẹp, sạch"
+            },
+            {
+            "word":"静か",
+            "title":"しずか[な]  TĨNH  Yên tĩnh"
+            },
+            {
+            "word":"にぎやか[な]",
+            "title":"Náo nhiệt"
+            },
+            {
+            "word":"有名",
+            "title":"ゆうめい[な]  HỮU DANH  Nổi tiếng"
+            },
+            {
+            "word":"親切",
+            "title":"しんせつ[な]  THÂN THIẾT  Tốt bụng, thân thiện"
+            },
+            {
+            "word":"元気",
+            "title":"げんき[な]  NGUYÊN KHÍ  Khỏe"
+            },
+            {
+            "word":"暇",
+            "title":"ひま[な]  HẠ  Rảnh rỗi"
+            },
+            {
+            "word":"便利",
+            "title":"べんり[な]  TIỆN LỢI  Tiện lợi"
+            },
+            {
+            "word":"すてき[な]",
+            "title":"Đẹp, hay"
+            },
+            {
+            "word":"大きい",
+            "title":"おおきい  ĐẠI  Lớn, to"
+            },
+            {
+            "word":"小さい",
+            "title":"ちいさい  TIỂU  Bé, nhỏ"
+            },
+            {
+            "word":"新しい",
+            "title":"あたらしい  TÂN  Mới"
+            },
+            {
+            "word":"古い",
+            "title":"ふるい  CỔ  Cũ"
+            },
+            {
+            "word":"いい（よい）",
+            "title":"Tốt"
+            },
+            {
+            "word":"悪い",
+            "title":"わるい  ÁC  Xấu"
+            },
+            {
+            "word":"暑い,熱い",
+            "title":"あつい  THỬ, NHIỆT  Nóng"
+            },
+            {
+            "word":"寒い",
+            "title":"さむい  HÀN  Lạnh, rét (dùng cho thời tiết)"
+            },
+            {
+            "word":"冷たい",
+            "title":"つめたい  LÃNH  Lạnh, buốt (dùng cho cảm giác)"
+            },
+            {
+            "word":"難しい",
+            "title":"むずかしい  NAN  Khó"
+            },
+            {
+            "word":"易しい",
+            "title":"やさしい  DỊCH  Dễ"
+            },
+            {
+            "word":"高い",
+            "title":"たかい  CAO  Đắt, cao"
+            },
+            {
+            "word":"安い",
+            "title":"やすい  AN rẻ"
+            },
+            {
+            "word":"低い",
+            "title":"ひくい  ĐÊ  Thấp"
+            },
+            {
+            "word":"おもしろい",
+            "title":"Thú vị, hay"
+            },
+            {
+            "word":"おいしい",
+            "title":"Ngon"
+            },
+            {
+            "word":"忙しい",
+            "title":"いそがしい  MANG bận"
+            },
+            {
+            "word":"楽しい",
+            "title":"たのしい  LẠC  Vui"
+            },
+            {
+            "word":"白い",
+            "title":"しろい BẠCH Trắng"
+            },
+            {
+            "word":"黒い",
+            "title":"くろい  HẮC  Đen"
+            },
+            {
+            "word":"赤い",
+            "title":"あかい  XÍCH  Đỏ"
+            },
+            {
+            "word":"青い",
+            "title":"あおい THANH xanh da trời"
+            },
+            {
+            "word":"桜",
+            "title":"さくら  ANH  Anh đào (hoa, cây)"
+            },
+            {
+            "word":"山",
+            "title":"やま  SƠN  Núi"
+            },
+            {
+            "word":"町",
+            "title":"まち  ĐINH  Thị trấn, thị xã, thành phố"
+            },
+            {
+            "word":"食べ物",
+            "title":"たべもの  THỰC VẬT  Đồ ăn"
+            },
+            {
+            "word":"所",
+            "title":"ところ  SỞ  Nơi, chỗ"
+            },
+            {
+            "word":"寮",
+            "title":"りょう  LIÊU  Kí túc xá"
+            },
+            {
+            "word":"レストラン",
+            "title":"Nhà hàng"
+            },
+            {
+            "word":"生活",
+            "title":"せいかつ  SINH HOẠT  Cuộc sống, sinh hoạt"
+            },
+            {
+            "word":"[お]仕事",
+            "title":"[お]しごと  SĨ SỰ  Công việc (～をします：làm việc)"
+            },
+            {
+            "word":"[お]仕事をします",
+            "title":"[お]しごとをします  SĨ SỰ  Làm việc"
+            },
+            {
+            "word":"どう（ですか）",
+            "title":"Thế nào"
+            },
+            {
+            "word":"どんなN（ですか）",
+            "title":"~ như thế nào"
+            },
+            {
+            "word":"とても",
+            "title":"Rất, lắm"
+            },
+            {
+            "word":"あまり",
+            "title":"Không ~ lắm"
+            },
+            {
+            "word":"そして",
+            "title":"Và, thêm nữa (dùng để nối 2 câu)"
+            },
+            {
+            "word":"～が、～",
+            "title":"~, nhưng ~"
+            },
+            {
+            "word":"お元気ですか。",
+            "title":"おげんきですか。  NGUYÊN KHÍ  Anh/chị có khỏe không?"
+            },
+            {
+            "word":"そうですね。",
+            "title":"Thế à. Như vậy nhỉ"
+            },
+            {
+            "word":"～、もう一杯 いかがですか。",
+            "title":"～、もういっぱいいかがですか NHẤT BÔI  Anh/ chị dùng thêm một chén/ly [~] nữa được không ạ?"
+            },
+            {
+            "word":"いいえ、けっこうです。",
+            "title":"Không, đủ rồi ạ."
+            },
+            {
+            "word":"もう～です[ね]。",
+            "title":"Đã ~ rồi nhỉ.?"
+            },
+            {
+            "word":"そろそろ失礼します",
+            "title":"そろそろしつれいします  THẤT LỄ  Sắp đến lúc tôi phải xin phép rồi"
+            },
+            {
+            "word":"いいえ",
+            "title":"Không có gì./ Không sao cả."
+            },
+            {
+            "word":"また いらっしゃってください。",
+            "title":"Lần sau anh/ chị lại đến chơi nhé."
+            },
+            {
+            "word":"上海",
+            "title":"しゃんはい  THƯỢNG HẢI  Thượng Hải"
+            },
+            {
+            "word":"金閣寺",
+            "title":"きんかくじ  KIM CÁC TỰ  Chùa Kinkaku-ji (chùa vàng)"
+            },
+            {
+            "word":"奈良公園",
+            "title":"ならこうえん  NẠI LƯƠNG CÔNG VIÊN Công viên Nara"
+            },
+            {
+            "word":"富士山",
+            "title":"ふじさん  PHÚ SĨ SƠN  Núi Phú Sĩ"
+            },
+            {
+            "word":"七人の侍",
+            "title":"しちにんのさむらい  THẤT NHÂN THỊ  Bảy chàng võ sĩ Samurai (tên phim)"
+            },
+            {
+            "word":"広い",
+            "title":"ひろい  QUẢNG  Rộng"
+            },
+            {
+            "word":"狭い",
+            "title":"せまい  HIỆP  Hẹp"
+            },
+            {
+            "word":"うるさい",
+            "title":"Ồn ào"
+            },
+            {
+            "word":"汚い",
+            "title":"きたない  Ô  Bẩn"
+            },
+            {
+            "word":"いいですね",
+            "title":"Tốt nhỉ"
+            },
+            {
+            "word":"すごいですね",
+            "title":"Giỏi nhỉ, tuyệt nhỉ"
+            },
+            {
+            "word":"ちょっと",
+            "title":"Một chút"
+            },
+            {
+            "word":"でも",
+            "title":"Nhưng"
+            }
+    ]
+}

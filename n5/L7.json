@@ -1,0 +1,274 @@
+{
+    "name": "L7-Idori",
+    "language": "ja-JP",
+    "data": [
+        {
+            "word": "兄(あに)",
+            "title": "Anh trai"
+        },
+        {
+            "word": "お兄(にい)さん",
+            "title": "Anh trai người khác"
+        },
+        {
+            "word": "姉(あね)",
+            "title": "Chị gái"
+        },
+        {
+            "word": "お姉(ねえ)さん",
+            "title": "Chị gái người khác"
+        },
+        {
+            "word": "弟(おとうと)",
+            "title": "Em trai"
+        },
+        {
+            "word": "弟(おとうと)さん",
+            "title": "Em trai người khác"
+        },
+        {
+            "word": "妹(いもうと)",
+            "title": "Em gái"
+        },
+        {
+            "word": "妹(いもうと)さん",
+            "title": "Em gái người khác"
+        },
+        {
+            "word": "夫(おっと)",
+            "title": "Chồng"
+        }, 
+        {
+            "word": "ご主人(しゅじん)",
+            "title": "Chồng người khác"
+        },
+        {
+            "word": "妻(つま)",
+            "title": "Vợ"
+        },
+        {
+            "word": "奥(おく)さん",
+            "title": "Vợ người khác"
+        },
+        {
+            "word": "息子(むすこ)",
+            "title": "Con trai"
+        },
+        {
+            "word": "息子(むすこ)さん",
+            "title": "Con trai người khác"
+        },
+        {
+            "word": "娘(むすめ)",
+            "title": "Con gái"
+        },
+        {
+            "word": "娘(むすめ)さん",
+            "title": "Con gái người khác"
+        },
+        {
+            "word": "子供(こども)",
+            "title": "Trẻ con"
+        },
+        {
+            "word": "男(おとこ)の",
+            "title": "Người đàn ông"
+        },
+        {
+            "word": "女(おんな)の",
+            "title": "Người con gái"
+        },
+        {
+            "word": "男(おとこ)の子(こ)",
+            "title": "Bé trai"
+        },
+        {
+            "word": "子供(こども)",
+            "title": "bé gái"
+        },
+        {
+            "word": "切ります",
+            "title": "きります  THIẾT  Cắt"
+        },
+        {
+            "word": "送ります",
+            "title": "おくります  TỐNG  Gửi"
+        },
+        {
+            "word": "あげます",
+            "title": "Cho, tặng"
+        },
+        {
+            "word": "もらいます",
+            "title": "Nhận"
+        },
+        {
+            "word": "貸します",
+            "title": "かします  THẢI  Cho mượn, cho vay"
+        },
+        {
+            "word": "借ります",
+            "title": "かります  TÁ  Mượn, vay"
+        },
+        {
+            "word": "教えます",
+            "title": "おしえます  GIÁO  Dạy"
+        },
+        {
+            "word": "習います",
+            "title": "ならいます  TẬP  Học, tập"
+        },
+        {
+            "word": "[電話を～]かけます",
+            "title": "[でんわを～]かけます  ĐIỆN THOẠI  Gọi [điện thoại]"
+        },
+        {
+            "word": "手",
+            "title": "て  THỦ  Tay"
+        },
+        {
+            "word": "はし",
+            "title": "Đũa"
+        },
+        {
+            "word": "スプーン",
+            "title": "Thìa"
+        },
+        {
+            "word": "ナイフ",
+            "title": "Dao"
+        },
+        {
+            "word": "フォーク",
+            "title": "Nĩa"
+        },
+        {
+            "word": "はさみ",
+            "title": "Kéo"
+        },
+        {
+            "word": "パソコン",
+            "title": "Máy vi tính cá nhân"
+        },
+        {
+            "word": "ケータイ",
+            "title": "Điện thoại di động"
+        },
+        {
+            "word": "メール",
+            "title": "Thư điện tử, email"
+        },
+        {
+            "word": "年賀状",
+            "title": "ねんがじょう  NIÊN HẠ TRẠNG  Thiệp mừng năm mới"
+        },
+        {
+            "word": "パンチ",
+            "title": "Cái đục lỗ"
+        },
+        {
+            "word": "ホッチキス",
+            "title": "Cái dập ghim"
+        },
+        {
+            "word": "セロテープ",
+            "title": "Băng dính"
+        },
+        {
+            "word": "消しゴム",
+            "title": "けしゴム  TIÊU  Cái tẩy"
+        },
+        {
+            "word": "紙",
+            "title": "かみ  CHỈ  Giấy"
+        },
+        {
+            "word": "花",
+            "title": "はな  HOA  Hoa"
+        },
+        {
+            "word": "シャツ",
+            "title": "Áo sơ mi"
+        },
+        {
+            "word": "プレゼント",
+            "title": "Quà tặng, tặng phẩm"
+        },
+        {
+            "word": "荷物",
+            "title": "にもつ  HÀ VẬT  Đồ đạc, hành lý"
+        },
+        {
+            "word": "お金",
+            "title": "(お)かね  Kim  tiền"
+        },
+        {
+            "word": "切符",
+            "title": "きっぷ  THIẾT PHÙ  Vé"
+        },
+        {
+            "word": "クリスマス",
+            "title": "Giáng sinh"
+        },
+        {
+            "word": "父",
+            "title": "ちち  PHỤ  Bố ( bố của mình)"
+        },
+        {
+            "word": "母",
+            "title": "はは  MẪU  Mẹ ( mẹ của mình)"
+        },
+        {
+            "word": "お父さん",
+            "title": "おとうさん  PHỤ  Bố ( bố người khác và dùng khi xưng hô với bố mình)"
+        },
+        {
+            "word": "お母さん",
+            "title": "おかあさん  MẪU  Mẹ ( mẹ người khác và dùng khi xưng hô với mẹ mình)"
+        },
+        {
+            "word": "もう",
+            "title": "Đã, rồi"
+        },
+        {
+            "word": "まだ",
+            "title": "Chưa"
+        },
+        {
+            "word": "これから",
+            "title": "Từ bây giờ, sau đây"
+        },
+        {
+            "word": "[～、]すてきですね。",
+            "title": "[~] hay nhỉ./ đẹp nhỉ."
+        },
+        {
+            "word": "いらっしゃい。",
+            "title": "Chào mừng anh/chị đã đến chơi."
+        },
+        {
+            "word": "どうぞお上がりください",
+            "title": "どうぞ おあがりください。  THƯỢNG  Mời anh/chị vào."
+        },
+        {
+            "word": "失礼します",
+            "title": "しつれいします  THẤT LỄ  Xin thất lễ"
+        },
+        {
+            "word": "[～は]いかがですか。",
+            "title": "Anh/chị dùng [~] có được không?"
+        },
+        {
+            "word": "いただきます。",
+            "title": "Xin nhận ~."
+        },
+        {
+            "word": "ごちそうさま［でした］",
+            "title": "Xin cám ơn anh/chị đã đãi tôi bữa ăn ngon"
+        },
+        {
+            "word": "スペイン",
+            "title": "Tây Ban Nha"
+        }
+    ]
+}

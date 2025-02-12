@@ -1,0 +1,234 @@
+{
+    "name": "L3-Idori",
+    "language": "ja-JP",
+    "data": [
+        {
+            "word": "ここ",
+            "title": "Chỗ này, đây"
+        },
+        {
+            "word": "そこ",
+            "title": "Chỗ đó, đó"
+        },
+        {
+            "word": "あそこ",
+            "title": "Chỗ kia, kia"
+        },
+        {
+            "word": "どこ",
+            "title": "Chỗ nào, đâu"
+        },
+        {
+            "word": "こちら",
+            "title": "Phía này, đằng này, chỗ này, đây"
+        },
+        {
+            "word": "そちら",
+            "title": "Phía đó, đằng đó, chỗ đó, đó"
+        },
+        {
+            "word": "あちら",
+            "title": "Phía kia, đằng kia, chỗ kia, kia"
+        },
+        {
+            "word": "どちら",
+            "title": "Phía nào, đằng nào, chỗ nào, đâu"
+        },
+        {
+            "word": "きょうしつ",
+            "title": "Lớp học, phòng học"
+        },
+        {
+            "word": "しょくどう",
+            "title": "Nhà ăn"
+        },
+        {
+            "word": "じむしょ",
+            "title": "Văn phòng"
+        },
+        {
+            "word": "かいぎしつ",
+            "title": "Phòng họp"
+        },
+        {
+            "word": "うけつけ",
+            "title": "Bộ phận tiếp tân"
+        },
+        {
+            "word": "ロビー",
+            "title": "Hành lang, đại sảnh"
+        },
+        {
+            "word": "へや",
+            "title": "Căn phòng"
+        },
+        {
+            "word": "トイレ（おてあらい）",
+            "title": "Nhà vệ sinh"
+        },
+        {
+            "word": "かいだん",
+            "title": "Cầu thang"
+        },
+        {
+            "word": "エレベーター",
+            "title": "Thang máy"
+        },
+        {
+            "word": "エスカレーター",
+            "title": "Thang cuốn"
+        },
+        {
+            "word": "じどうはんばいき",
+            "title": "Máy bán hàng tự động"
+        },
+        {
+            "word": "でんわ",
+            "title": "Máy điện thoại, điện thoại"
+        },
+        {
+            "word": "[お]くに",
+            "title": "Đất nước (của anh/chị)"
+        },
+        {
+            "word": "かいしゃ",
+            "title": "Công ty"
+        },
+        {
+            "word": "うち",
+            "title": "Nhà"
+        },
+        {
+            "word": "くつ",
+            "title": "Giầy"
+        },
+        {
+            "word": "ネクタイ",
+            "title": "Cà vạt"
+        },
+        {
+            "word": "ワイン",
+            "title": "Rượu vang"
+        },
+        {
+            "word": "うりば",
+            "title": "Quầy bán"
+        },
+        {
+            "word": "ちか",
+            "title": "Tầng hầm, dưới mặt đất"
+        },
+        {
+            "word": "～かい（～がい）",
+            "title": "Tầng thứ ～"
+        },
+        {
+            "word": "なんがい",
+            "title": "Tầng mấy"
+        },
+        {
+            "word": "～えん",
+            "title": "～yên"
+        },
+        {
+            "word": "いくら",
+            "title": "Bao nhiêu tiền"
+        },
+        {
+            "word": "ひゃく",
+            "title": "Trăm"
+        },
+        {
+            "word": "せん",
+            "title": "Nghìn"
+        },
+        {
+            "word": "まん",
+            "title": "Mười nghìn, vạn"
+        },
+        {
+            "word": "すみません",
+            "title": "Xin lỗi"
+        },
+        {
+            "word": "～どうも。",
+            "title": "Cám ơn"
+        },
+        {
+            "word": "いらっしゃいませ。",
+            "title": "Xin chào quý khách, mời quý khách vào."
+        },
+        {
+            "word": "～をみせてください",
+            "title": "Cho tôi xem [~]"
+        },
+        {
+            "word": "じゃ",
+            "title": "Thế thì, vậy thì"
+        },
+        {
+            "word": "[～を]ください",
+            "title": "Cho tôi [~]"
+        },
+        {
+            "word": "イタリア",
+            "title": "Ý"
+        },
+        {
+            "word": "スイス",
+            "title": "Thụy Sĩ"
+        },
+        {
+            "word": "フランス",
+            "title": "Pháp"
+        },
+        {
+            "word": "ジャカルタ",
+            "title": "Gia-các-ta"
+        },
+        {
+            "word": "バンコク",
+            "title": "Băng-cốc"
+        },
+        {
+            "word": "ベルリン",
+            "title": "Béc-lin"
+        },
+        {
+            "word": "やたい",
+            "title": "Quầy bán hàng rong"
+        },
+        {
+            "word": "やさいちょくばいじょ",
+            "title": "Chỗ bán rau trực tiếp"
+        },
+        {
+            "word": "フリーマーケット",
+            "title": "Chợ trời, hội chợ"
+        },
+        {
+            "word": "リサイクルショップ",
+            "title": "Cửa hàng bán đồ tái chế"
+        },
+        {
+            "word": "しょうひん",
+            "title": "Sản phẩm"
+        },
+        {
+            "word": "ねだん",
+            "title": "Giá cả"
+        },
+        {
+            "word": "しょうひんのねだん",
+            "title": "Giá của sản phẩm"
+        },
+        {
+            "word": "いくらですか",
+            "title": "Bao nhiêu tiền vậy?"
+        },
+        {
+            "word": "これ、いくらですか",
+            "title": "Cái này, bao nhiêu tiền ạ?"
+        }
+    ]
+}

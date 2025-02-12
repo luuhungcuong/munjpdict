@@ -1,0 +1,366 @@
+{
+    "name": "N5-Âm hán bộ cơ bản",
+    "language": "ja-JP",
+    "data": [
+        {
+            "word": "丶",
+            "title": "CHẤM CHỦ"
+        },
+        {
+            "word": "ノ",
+            "title": "NÉT PHIỆT"
+        },
+        {
+            "word": "丨",
+            "title": "NÉT CỔN"
+        },
+        {
+            "word": "亅",
+            "title": "NÉT QUYẾT\nNét móc"
+        },
+        {
+            "word": "刂",
+            "title": "BỘ ĐAO\nĐao kiếm"
+        },
+        {
+            "word": "乚",
+            "title": "NÉT ẤT"
+        },
+        {
+            "word": "亠",
+            "title": "BỘ ĐẦU"
+        },
+        {
+            "word": "冖",
+            "title": "BỘ MỊCH\nMái nhà"
+        },
+        {
+            "word": "宀",
+            "title": "BỘ MIÊN\nMái nhà"
+        },
+        {
+            "word": "イ",
+            "title": "NHÂN ĐỨNG"
+        },
+        {
+            "word": "𠂉",
+            "title": "NHÂN NẰM"
+        },
+        {
+            "word": "𠆢",
+            "title": "NHÂN NÓN"
+        },
+        {
+            "word": "儿",
+            "title": "NHÂN ĐI"
+        },
+        {
+            "word": "彡",
+            "title": "BỘ SAM"
+        },
+        {
+            "word": "彳",
+            "title": "BỘ SÁCH"
+        },
+        {
+            "word": "忄",
+            "title": "BỘ TÂM"
+        },
+        {
+            "word": "阝～",
+            "title": "BỘ PHỤ"
+        },
+        {
+            "word": "～阝",
+            "title": "BỘ ẤP"
+        },
+        {
+            "word": "卩",
+            "title": "BỘ TIẾT\nĐốt tre"
+        },
+        {
+            "word": "冫",
+            "title": "HAI CHẤM BĂNG\nBăng giá"
+        },
+        {
+            "word": "氵",
+            "title": "BA CHẤM THỦY\nNước"
+        },
+        {
+            "word": "灬",
+            "title": "BỐN CHẤM HỎA\nLửa\n"
+        },
+        {
+            "word": "厂",
+            "title": "BỘ HÁN\nSườn núi"
+        },
+        {
+            "word": "广",
+            "title": "BỘ NGHIỄM\nMái nhà"
+        },
+        {
+            "word": "疒",
+            "title": "BỘ NẠCH\nBệnh tật"
+        },
+        {
+            "word": "爫",
+            "title": "BỘ TRẢO\nMóng tay"
+        },
+        {
+            "word": "⺮",
+            "title": "BỘ TRÚC\nCây trúc\n"
+        },
+        {
+            "word": "ム",
+            "title": "BỘ KHƯ\nRiêng tư"
+        },
+        {
+            "word": "幺",
+            "title": "BỘ YÊU\nNhỏ"
+        },
+        {
+            "word": "糸",
+            "title": "BỘ TY\nSợi tơ"
+        },
+        {
+            "word": "又",
+            "title": "BỘ HỰU\nLại nữa"
+        },
+        {
+            "word": "夂",
+            "title": "BỘ TRUY\nPhía sau"
+        },
+        {
+            "word": "攵",
+            "title": "BỘ PHỘC\nĐánh khẽ"
+        },
+        {
+            "word": "支",
+            "title": "CHI"
+        },
+        {
+            "word": "口",
+            "title": "BỘ KHẨU\nCái miệng"
+        },
+        {
+            "word": "囗",
+            "title": "BỘ VI\nVây quanh"
+        },
+        {
+            "word": "冂",
+            "title": "BỘ QUYNH"
+        },
+        {
+            "word": "ヨ",
+            "title": "BỘ KÝ"
+        },
+        {
+            "word": "木",
+            "title": "BỘ MỘC\nCây"
+        },
+        {
+            "word": "禾",
+            "title": "BỘ HÒA\nCây lúa"
+        },
+        {
+            "word": "寸",
+            "title": "BỘ THỐN\nĐơn vị đo"
+        },
+        {
+            "word": "扌",
+            "title": "BỘ THỦ\nTay"
+        },
+        {
+            "word": "牜",
+            "title": "BỘ NGƯU\nCon trâu, bò"
+        },
+        {
+            "word": "犭",
+            "title": "BỘ KHUYỂN"
+        },
+        {
+            "word": "斗",
+            "title": "BỘ ĐẤU\nCái đấu"
+        },
+        {
+            "word": "頁",
+            "title": "BỘ HIỆT\nTờ giấy"
+        },
+        {
+            "word": "弋",
+            "title": "BỘ DẶC\nChiếm lấy"
+        },
+        {
+            "word": "戈",
+            "title": "BỘ QUA"
+        },
+        {
+            "word": "ネ",
+            "title": "BỘ THỊ"
+        },
+        {
+            "word": "衤",
+            "title": "BỘ Y"
+        },
+        {
+            "word": "廴",
+            "title": "BỘ DẪN\nBước dài"
+        },
+        {
+            "word": "辶",
+            "title": "BỘ SƯỚC\nBước đi"
+        },
+        {
+            "word": "尸",
+            "title": "BỘ THI\nThây ma"
+        },
+        {
+            "word": "戸",
+            "title": "BỘ HỘ\nCánh cửa"
+        },
+        {
+            "word": "タ",
+            "title": "BỘ TỊCH\nChiều tối"
+        },
+        {
+            "word": "歹",
+            "title": "BỘ NGẠT\nXấu xa"
+        },
+        {
+            "word": "日",
+            "title": "BỘ NHẬT\nNgày, mặt trời"
+        },
+        {
+            "word": "曰",
+            "title": "BỘ VIẾT"
+        },
+        {
+            "word": "巾",
+            "title": "BỘ CÂN\nCái khăn"
+        },
+        {
+            "word": "斤",
+            "title": "BỘ CÂN\nCái búa"
+        },
+        {
+            "word": "艹",
+            "title": "BỘ THẢO\nCỏ"
+        },
+        {
+            "word": "耂",
+            "title": "BỘ LÃO"
+        },
+        {
+            "word": "矢",
+            "title": "BỘ THỈ\nMũi tên"
+        },
+        {
+            "word": "豕",
+            "title": "BỘ THỈ\nCon lợn"
+        },
+        {
+            "word": "欠",
+            "title": "BỘ KHIẾM\nThiếu"
+        },
+        {
+            "word": "几",
+            "title": "BỘ KỶ\nĐồng kị"
+        },
+        {
+            "word": "殳",
+            "title": "BỘ THÙ"
+        },
+        {
+            "word": "匕",
+            "title": "BỘ CHỦY\nCái thìa"
+        },
+        {
+            "word": "弓",
+            "title": "BỘ CUNG\nCung tên"
+        },
+        {
+            "word": "勹",
+            "title": "BỘ BAO\nBao bọc"
+        },
+        {
+            "word": "罒",
+            "title": "BỘ VÕNG"
+        },
+        {
+            "word": "皿",
+            "title": "BỘ MÃNH\nCái đĩa"
+        },
+        {
+            "word": "覀",
+            "title": "BỘ TÂY"
+        },
+        {
+            "word": "酉",
+            "title": "BỘ DẬU"
+        },
+        {
+            "word": "隹",
+            "title": "BỘ CHUY\nCon chim"
+        },
+        {
+            "word": "月",
+            "title": "BỘ \nNGUYỆT/ NHỤC"
+        },
+        {
+            "word": "金",
+            "title": "BỘ KIM\nVàng"
+        },
+        {
+            "word": "廾",
+            "title": "BỘ CỦNG"
+        },
+        {
+            "word": "艮",
+            "title": "BỘ CẤN"
+        },
+        {
+            "word": "聿",
+            "title": "BỘ DUẬT\nBút"
+        },
+        {
+            "word": "立",
+            "title": "LẬP\nĐứng"
+        },
+        {
+            "word": "虫",
+            "title": "TRÙNG\nCôn trùng"
+        },
+        {
+            "word": "言",
+            "title": "BỘ NGÔN\nLời nói"
+        },
+        {
+            "word": "豆",
+            "title": "ĐẬU\nHạt đậu"
+        },
+        {
+            "word": "谷",
+            "title": "CỐC\nThung lũng"
+        },
+        {
+            "word": "ト",
+            "title": "BỘ BỐC\nXem bói"
+        },
+        {
+            "word": "帚",
+            "title": "BỘ TRỬU\nCái chổi"
+        },
+        {
+            "word": "巛",
+            "title": "BỘ XUYÊN\nSông\n"
+        },
+        {
+            "word": "癶",
+            "title": "BỘ BÁT"
+        },
+        {
+            "word": "貝",
+            "title": "BỘ BỐI\nCon sò"
+        }
+    ]
+}

@@ -1,0 +1,510 @@
+{
+    "name": "L11-Idori",
+    "language": "ja-JP",
+    "data": [
+        {
+            "word":"[子どもが～] います",
+            "title":"[こどもが～] います  TỬ  Có [con]"
+            },
+            {
+            "word":"[日本に～]います",
+            "title":"[にほんに～] います  NHẬT BẢN  Ở [Nhật]"
+            },
+            {
+            "word":"かかります",
+            "title":"かかります  Mất, tốn (thời gian, tiền bạc)"
+            },
+            {
+            "word":"[会社を～]を休みます",
+            "title":"[かいしゃを～]やすみます  HỘI XÃ HƯU  Nghỉ [làm việc]"
+            },
+            {
+            "word":"１つ",
+            "title":"ひとつ  Một cái (dùng để đếm đồ vật)"
+            },
+            {
+            "word":"２つ",
+            "title":"ふたつ  Hai cái"
+            },
+            {
+            "word":"３つ",
+            "title":"みっつ  Ba cái"
+            },
+            {
+            "word":"４つ",
+            "title":"よっつ  Bốn cái"
+            },
+            {
+            "word":"５つ",
+            "title":"いつつ  Năm cái"
+            },
+            {
+            "word":"６つ",
+            "title":"むっつ  Sáu cái"
+            },
+            {
+            "word":"７つ",
+            "title":"ななつ  Bảy cái"
+            },
+            {
+            "word":"８つ",
+            "title":"やっつ  Tám cái"
+            },
+            {
+            "word":"９つ",
+            "title":"ここのつ  Chín cái"
+            },
+            {
+            "word":"10",
+            "title":"とお  Mười cái"
+            },
+            {
+            "word":"いくつ（ですか）",
+            "title":"いくつ（ですか）  Mấy cái, bao nhiêu cái"
+            },
+            {
+            "word":"１人",
+            "title":"ひとり  NHÂN  Một người"
+            },
+            {
+            "word":"２人",
+            "title":"ふたり  NHÂN  Hai người"
+            },
+            {
+            "word":"４人",
+            "title":"よにん  NHÂN  Bốn người"
+            },
+            {
+            "word":"～人",
+            "title":"～にん  NHÂN  ～ người"
+            },
+            {
+            "word":"～台",
+            "title":"～だい  ĐÀI  ～cái (dùng để đếm máy móc, xe cộ...)"
+            },
+            {
+            "word":"～枚",
+            "title":"～まい MAI tờ, tấm ~"
+            },
+            {
+            "word":"～回",
+            "title":"～かい  HỒI  ～lần"
+            },
+            {
+            "word":"りんご",
+            "title":"りんご  Táo"
+            },
+            {
+            "word":"みかん",
+            "title":"みかん  Quýt"
+            },
+            {
+            "word":"サンドイッチ",
+            "title":"サンドイッチ  Bánh sandwich"
+            },
+            {
+            "word":"カレー[ライス]",
+            "title":"カレー[ライス]  [Cơm] ca-ri"
+            },
+            {
+            "word":"アイスクリーム",
+            "title":"アイスクリーム  Kem"
+            },
+            {
+            "word":"切手",
+            "title":"きって  THIẾT THỦ  Tem"
+            },
+            {
+            "word":"はがき",
+            "title":"はがき  Bưu thiếp"
+            },
+            {
+            "word":"封筒",
+            "title":"ふうとう  PHONG ĐỒNG  Phong bì"
+            },
+            {
+            "word":"両親",
+            "title":"りょうしん  LƯỠNG THÂN  Bố mẹ"
+            },
+            {
+            "word":"兄弟",
+            "title":"きょうだい  HUYNH ĐỆ  Anh chị em"
+            },
+            {
+            "word":"兄",
+            "title":"あに HUYNH anh trai"
+            },
+            {
+            "word":"お兄さん",
+            "title":"おにいさん HUYNH anh trai (dùng cho người khác)"
+            },
+            {
+            "word":"姉",
+            "title":"あね  TỶ  Chị gái"
+            },
+            {
+            "word":"お姉さん",
+            "title":"おねえさん  TỶ  Chị gái (dùng cho người khác)"
+            },
+            {
+            "word":"弟",
+            "title":"おとうと  ĐỆ  Em trai"
+            },
+            {
+            "word":"弟さん",
+            "title":"おとうとさん  ĐỆ  Em trai (dùng cho người khác)"
+            },
+            {
+            "word":"妹",
+            "title":"いもうと  MUỘI  Em gái"
+            },
+            {
+            "word":"妹さん",
+            "title":"いもうとさん  MUỘI  Em gái (dùng cho người khác)"
+            },
+            {
+            "word":"外国",
+            "title":"がいこく  NGOẠI QUỐC  Nước ngoài"
+            },
+            {
+            "word":"留学生",
+            "title":"りゅうがくせい  LƯU HỌC SINH  Lưu học sinh, sinh viên nước ngoài"
+            },
+            {
+            "word":"クラス",
+            "title":"クラス  Lớp học"
+            },
+            {
+            "word":"～時間",
+            "title":"～じかん  THỜI GIAN   ~ tiếng"
+            },
+            {
+            "word":"～週間",
+            "title":"～しゅうかん  CHU GIAN  ~ tuần"
+            },
+            {
+            "word":"～か月",
+            "title":"～かげつ  NGUYỆT  ~tháng"
+            },
+            {
+            "word":"～年",
+            "title":"～ねん  NIÊN  ~năm"
+            },
+            {
+            "word":"～ぐらい",
+            "title":"～ぐらい  Khoảng ~"
+            },
+            {
+            "word":"どのくらい",
+            "title":"どのくらい  Bao lâu"
+            },
+            {
+            "word":"全部で",
+            "title":"ぜんぶで  TOÀN BỘ  Tổng cộng"
+            },
+            {
+            "word":"みんな",
+            "title":"みんな  Tất cả"
+            },
+            {
+            "word":"～だけ",
+            "title":"～だけ  Chỉ ~"
+            },
+            {
+            "word":"かしこまりました。",
+            "title":"かしこまりました。  Tôi đã rõ rồi ạ (thưa ông/bà)"
+            },
+            {
+            "word":"いい天気ですね。",
+            "title":"いいてんきですね。  THIÊN KHÍ  Trời đẹp nhỉ."
+            },
+            {
+            "word":"お出かけですか。",
+            "title":"おでかけですか。  XUẤT  Anh/ chị đi ra ngoài đấy à?"
+            },
+            {
+            "word":"ちょっと～まで。",
+            "title":"ちょっと～まで。  Tôi đi ~ một chút."
+            },
+            {
+            "word":"行ってらっしゃい。",
+            "title":"いってらっしゃい。  HÀNH  Anh/chị đi nhé."
+            },
+            {
+            "word":"行ってきます。",
+            "title":"いってきます。  HÀNH  Tôi đi đây."
+            },
+            {
+            "word":"船便",
+            "title":"ふなびん  THUYỀN TIỆN  Gửi bằng đường biển"
+            },
+            {
+            "word":"航空便",
+            "title":"こうくうびん (エアメール) HÀNG KHÔNG TIỆN  Gửi bằng đường hàng không"
+            },
+            {
+            "word":"お願いします。",
+            "title":"おねがいします。  NGUYỆN  Nhờ anh/chị."
+            },
+            {
+            "word":"オーストラリア",
+            "title":"オーストラリア  Úc"
+            },
+            {
+            "word":"唐揚げ",
+            "title":"からあげ  ĐƯỜNG DƯƠNG  Đồ chiên, rán"
+            },
+            {
+            "word":"焼き鳥",
+            "title":"やきとり  THIÊU ĐIỂU  Gà nướng"
+            },
+            {
+            "word":"枝豆",
+            "title":"えだまめ  CHI ĐẬU  Đậu xanh"
+            },
+            {
+            "word":"生ビール",
+            "title":"なまビール  SINH  Bia tươi"
+            },
+            {
+            "word":"おつまみ",
+            "title":"おつまみ  Đồ nhắm rượu"
+            },
+            {
+            "word":"マヨネーズ",
+            "title":"マヨネーズ  Sốt Mayone"
+            },
+            {
+            "word":"家",
+            "title":"いえ  GIA  Nhà"
+            },
+            {
+            "word":"どんな家に住んでいますか",
+            "title":"どんないえにすんでいますか  GIA TRÚ  Bạn đang sống ở ngôi nhà như thế nào?"
+            },
+            {
+            "word":"～に住んでいます",
+            "title":"～にすんでいます  TRÚ  Tôi đang sống ở~"
+            },
+            {
+            "word":"日本の家",
+            "title":"にほんのいえ  NHẬT BẢN GIA  Nhà ở Nhật"
+            },
+            {
+            "word":"どんな家ですか",
+            "title":"どんないえですか GIA Là ngôi nhà như thế nào?"
+            },
+            {
+            "word":"住んでいる家",
+            "title":"すんでいるいえ  TRÚ GIA  Ngôi nhà đang sống"
+            },
+            {
+            "word":"自分の住んでいる家",
+            "title":"じぶんのすんでいるいえ  TỰ PHÂN TRÚ GIA  Ngôi nhà mình đang sống"
+            },
+            {
+            "word":"部屋",
+            "title":"へや  BỘ ỐC  Phòng"
+            },
+            {
+            "word":"玄関",
+            "title":"げんかん  HUYỀN QUAN  Cửa vào, tiền sảnh"
+            },
+            {
+            "word":"お風呂",
+            "title":"おふろ  PHONG LỮ  Bồn tắm"
+            },
+            {
+            "word":"居間",
+            "title":"いま  CƯ GIAN  Phòng khách"
+            },
+            {
+            "word":"リビング",
+            "title":"リビング  Phòng khách"
+            },
+            {
+            "word":"庭",
+            "title":"にわ  ĐÌNH  Vườn"
+            },
+            {
+            "word":"台所",
+            "title":"だいどころ  ĐÀI SỞ  Bếp"
+            },
+            {
+            "word":"キッチン",
+            "title":"キッチン  Bếp"
+            },
+            {
+            "word":"バルコニー",
+            "title":"バルコニー  Ban công không có mái che"
+            },
+            {
+            "word":"ベランダ",
+            "title":"ベランダ  Ban công có mái che"
+            },
+            {
+            "word":"階段",
+            "title":"かいだん  GIAI ĐOẠN  Cầu thang"
+            },
+            {
+            "word":"～階",
+            "title":"～かい GIAI tầng ~"
+            },
+            {
+            "word":"寮",
+            "title":"りょう  LIÊU  Ký túc xá"
+            },
+            {
+            "word":"管理人室",
+            "title":"かんりにんしつ  QUẢN LÍ NHÂN THẤT  Phòng quản lí"
+            },
+            {
+            "word":"食堂",
+            "title":"しょくどう  THỰC ĐƯỜNG  Nhà ăn"
+            },
+            {
+            "word":"靴",
+            "title":"くつ (NGOA - giày)"
+            },
+            {
+            "word":"脱いでください",
+            "title":"ぬいでください  THOÁT  Hãy cởi"
+            },
+            {
+            "word":"靴を脱いでください",
+            "title":"くつをぬいでください  NGOA THOÁT  Hãy cởi giày"
+            },
+            {
+            "word":"家具",
+            "title":"かぐ  GIA CỤ  Đồ nội thất"
+            },
+            {
+            "word":"ベッド",
+            "title":"Giường"
+            },
+            {
+            "word":"布団",
+            "title":"ふとん  BỐ ĐOÀN  Chăn"
+            },
+            {
+            "word":"テーブル",
+            "title":"Bàn"
+            },
+            {
+            "word":"椅子",
+            "title":"いす  Y TỬ  Ghế"
+            },
+            {
+            "word":"家電",
+            "title":"かでん  GIA ĐIỆN  Đồ điện gia dụng"
+            },
+            {
+            "word":"～屋",
+            "title":"～や  ỐC  Tiệm,..."
+            },
+            {
+            "word":"たい焼き屋",
+            "title":"たいやきや  THIÊU ỐC  Cửa hàng bán bánh cá chép chiên"
+            },
+            {
+            "word":"惣菜屋",
+            "title":"そうざいや  VẬT THÁI ỐC  Cửa hàng bán đồ nấu sẵn"
+            },
+            {
+            "word":"肉屋",
+            "title":"にくや  NHỤC ỐC  Cửa hàng thịt"
+            },
+            {
+            "word":"ひき肉",
+            "title":"ひきにく  NHỤC  Thịt xay nhỏ"
+            },
+            {
+            "word":"ケーキ屋",
+            "title":"ケーキや  ỐC  Tiệm bánh"
+            },
+            {
+            "word":"チョコレートケーキ",
+            "title":"チョコレートケーキ  Bánh sô cô la"
+            },
+            {
+            "word":"チーズケーキ",
+            "title":"チーズケーキ  Bánh phô mai"
+            },
+            {
+            "word":"おにぎり屋",
+            "title":"おにぎりや  ỐC  Tiệm cơm nắm"
+            },
+            {
+            "word":"昆布",
+            "title":"こんぶ  CÔN BỐ  1 loại tảo biển"
+            },
+            {
+            "word":"たらこ",
+            "title":"たらこ  Trứng cá tuyết"
+            },
+            {
+            "word":"梅",
+            "title":"うめ  MAI  Mơ"
+            },
+            {
+            "word":"必要（な）",
+            "title":"ひつよう（な）  TẤT YẾU  Cần thiết"
+            },
+            {
+            "word":"量",
+            "title":"りょう  LƯỢNG  Lượng"
+            },
+            {
+            "word":"必要な量",
+            "title":"ひつようなりょう  TẤT YẾU LƯỢNG  Số lượng cần thiết"
+            },
+            {
+            "word":"～ずつ",
+            "title":"～ずつ  Từng, mỗi loại ~"
+            },
+            {
+            "word":"～個",
+            "title":"～こ  CÁ  Đơn vị đếm vật nhỏ"
+            },
+            {
+            "word":"～グラム",
+            "title":"～グラム  Gram"
+            },
+            {
+            "word":"自転車",
+            "title":"じてんしゃ  TỰ CHUYỂN XA  Xe đạp"
+            },
+            {
+            "word":"バイク（オートバイ）",
+            "title":"バイク（オートバイ）  Xe máy"
+            },
+            {
+            "word":"車",
+            "title":"くるま  XA  Ô tô"
+            },
+            {
+            "word":"歩いて",
+            "title":"あるいて  BỘ  Đi bộ"
+            },
+            {
+            "word":"バイクタクシー",
+            "title":"バイクタクシー  Xe ôm"
+            },
+            {
+            "word":"どのぐらい、かかりますか",
+            "title":"どのぐらい、かかりますか  Mất bao lâu"
+            },
+            {
+            "word":"家から会社まで、どのぐらい、かかりますか",
+            "title":"いえからかいしゃまで、 どのぐらい、かかりますか  GIA HỘI XÃ  Từ nhà đến công ty, mất khoảng bao lâu?"
+            },
+            {
+            "word":"1時間ぐらいかかります",
+            "title":"いちじかんぐらいかかります  THỜI GIAN  Mất khoảng 1 tiếng"
+            },
+            {
+            "word":"10分ぐらいです",
+            "title":"１０ぷんぐらいです  PHÂN  Mất khoảng 10 phút"
+            }            
+    ]
+}

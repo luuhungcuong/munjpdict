@@ -1,0 +1,194 @@
+{
+    "name": "L2-Idori",
+    "language": "ja-JP",
+    "data": [
+        {
+            "word": "これ",
+            "title": "Cái này, đây"
+        },
+        {
+            "word": "それ",
+            "title": "Cái đó, đó"
+        },
+        {
+            "word": "あれ",
+            "title": "Cái kia, kia"
+        },
+        {
+            "word": "この～",
+            "title": "~ này"
+        },
+        {
+            "word": "その～",
+            "title": "~ đó"
+        },
+        {
+            "word": "あの～",
+            "title": "~ kia"
+        },
+        {
+            "word": "ほん",
+            "title": "Sách"
+        },
+        {
+            "word": "じしょ",
+            "title": "Từ điển"
+        },
+        {
+            "word": "ざっし",
+            "title": "Tạp chí"
+        },
+        {
+            "word": "しんぶん",
+            "title": "Báo"
+        },
+        {
+            "word": "ノート",
+            "title": "Vở"
+        },
+        {
+            "word": "てちょう",
+            "title": "Sổ tay"
+        },
+        {
+            "word": "めいし",
+            "title": "Danh thiếp"
+        },
+        {
+            "word": "カード",
+            "title": "Thẻ, cạc"
+        },
+        {
+            "word": "えんぴつ",
+            "title": "Bút chì"
+        },
+        {
+            "word": "ボールペン",
+            "title": "Bút bi"
+        },
+        {
+            "word": "シャープペンシル",
+            "title": "Bút chì kim, bút chì bấm"
+        },
+        {
+            "word": "かぎ",
+            "title": "Chìa khóa"
+        },
+        {
+            "word": "とけい",
+            "title": "Đồng hồ"
+        },
+        {
+            "word": "かさ",
+            "title": "Ô, dù"
+        },
+        {
+            "word": "かばん",
+            "title": "Cặp sách, túi sách"
+        },
+        {
+            "word": "シディ",
+            "title": "Đĩa CD"
+        },
+        {
+            "word": "テレビ",
+            "title": "Tivi"
+        },
+        {
+            "word": "ラジオ",
+            "title": "Radio"
+        },
+        {
+            "word": "カメラ",
+            "title": "Máy ảnh"
+        },
+        {
+            "word": "コンピューター",
+            "title": "Máy vi tính"
+        },
+        {
+            "word": "くるま",
+            "title": "Ô tô, xe hơi"
+        },
+        {
+            "word": "つくえ",
+            "title": "Cái bàn"
+        },
+        {
+            "word": "いす",
+            "title": "Cái ghế"
+        },
+        {
+            "word": "チョコレート",
+            "title": "Socola"
+        },
+        {
+            "word": "コーヒー",
+            "title": "Cà phê"
+        },
+        {
+            "word": "[お]みやげ",
+            "title": "Quà"
+        },
+        {
+            "word": "えいご",
+            "title": "Tiếng Anh"
+        },
+        {
+            "word": "にほんご",
+            "title": "Tiếng Nhật"
+        },
+        {
+            "word": "～ご",
+            "title": "Tiếng ~"
+        },
+        {
+            "word": "なん（ですか）",
+            "title": "Cái gì"
+        },
+        {
+            "word": "そう",
+            "title": "Đúng rồi"
+        },
+        {
+            "word": "あのう",
+            "title": "À, ờ"
+        },
+        {
+            "word": "えっ",
+            "title": "Hả?"
+        },
+        {
+            "word": "どうぞ",
+            "title": "Xin mời (dùng khi mời ai đó cái gì)"
+        },
+        {
+            "word": "[どうも]ありがとうございます",
+            "title": "Xin chân thành cám ơn"
+        },
+        {
+            "word": "そうですか",
+            "title": "Thế à, vậy à"
+        },
+        {
+            "word": "ちがいます",
+            "title": "Không phải, không đúng, sai rồi"
+        },
+        {
+            "word": "あ",
+            "title": "Ôi! (Dùng khi nhận ra điều gì)"
+        },
+        {
+            "word": "これからおせわになります",
+            "title": "Từ nay tôi rất mong sự giúp đỡ của anh chị"
+        },
+        {
+            "word": "こちらこそ",
+            "title": "Chính tôi mới phải xin ông giúp đỡ cho"
+        },
+        {
+            "word": "[どうぞ] よろしくおねがいします",
+            "title": "Rất mong nhận được sự giúp đỡ"
+        }
+    ]
+}

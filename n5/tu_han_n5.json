@@ -1,0 +1,886 @@
+{
+    "name": "L2-Chao hoi",
+    "language": "ja-JP",
+    "data": [
+        {
+            "word":"日",
+            "title":"ÂM HÁN:\nNHẬTNghĩa:\nNgày, mặt trời"
+            },
+            {
+            "word":"月",
+            "title":"ÂM HÁN:\nNGUYỆT/ NHỤCNghĩa:\nTháng, mặt trăng/bộ phận cơ thể"
+            },
+            {
+            "word":"火",
+            "title":"ÂM HÁN:\nHỎANghĩa:\nLửa"
+            },
+            {
+            "word":"水",
+            "title":"ÂM HÁN:\nTHỦYNghĩa:\nNước"
+            },
+            {
+            "word":"木",
+            "title":"ÂM HÁN:\nMỘCNghĩa:\nCây"
+            },
+            {
+            "word":"金",
+            "title":"ÂM HÁN:\nKIMNghĩa:\nVàng"
+            },
+            {
+            "word":"土",
+            "title":"ÂM HÁN:\nTHỔNghĩa:\nĐất"
+            },
+            {
+            "word":"山",
+            "title":"ÂM HÁN:\nSƠNNghĩa:\nNúi"
+            },
+            {
+            "word":"川",
+            "title":"ÂM HÁN:\nXUYÊNNghĩa:\nSông"
+            },
+            {
+            "word":"田",
+            "title":"ÂM HÁN:\nĐIỀNNghĩa:\nĐiền xá"
+            },
+            {
+            "word":"一",
+            "title":"ÂM HÁN:\nNHẤTNghĩa:\nMột"
+            },
+            {
+            "word":"二",
+            "title":"ÂM HÁN:\nNHỊNghĩa:\nHai"
+            },
+            {
+            "word":"三",
+            "title":"ÂM HÁN:\nTAMNghĩa:\nBa"
+            },
+            {
+            "word":"四",
+            "title":"ÂM HÁN:\nTỨNghĩa:\nBốn"
+            },
+            {
+            "word":"五",
+            "title":"ÂM HÁN:\nNGŨ Nghĩa:\nNăm"
+            },
+            {
+            "word":"六",
+            "title":"ÂM HÁN:\nLỤC Nghĩa:\nSáu"
+            },
+            {
+            "word":"七",
+            "title":"ÂM HÁN:\nTHẤTNghĩa:\nBảy"
+            },
+            {
+            "word":"八",
+            "title":"ÂM HÁN:\nBÁTNghĩa:\nTám"
+            },
+            {
+            "word":"九",
+            "title":"ÂM HÁN:\nCỬUNghĩa:\nChín"
+            },
+            {
+            "word":"十",
+            "title":"ÂM HÁN:\nTHẬPNghĩa:\nMười"
+            },
+            {
+            "word":"百",
+            "title":"ÂM HÁN:\nBÁCHNghĩa:\nMột trăm"
+            },
+            {
+            "word":"千",
+            "title":"ÂM HÁN:\nTHIÊNNghĩa:\nMột nghìn"
+            },
+            {
+            "word":"万",
+            "title":"ÂM HÁN:\nVẠNNghĩa:\nMười nghìn"
+            },
+            {
+            "word":"円",
+            "title":"ÂM HÁN:\nVIÊNNghĩa:\nTiền yên"
+            },
+            {
+            "word":"学",
+            "title":"ÂM HÁN:\nHỌCNghĩa:\nHọc sinh"
+            },
+            {
+            "word":"生",
+            "title":"ÂM HÁN:\nSINHNghĩa:\nHọc sinh"
+            },
+            {
+            "word":"先",
+            "title":"ÂM HÁN:\nTIÊNNghĩa:\nTrước"
+            },
+            {
+            "word":"会",
+            "title":"ÂM HÁN:\nHỘINghĩa:\nHội nghị"
+            },
+            {
+            "word":"社",
+            "title":"ÂM HÁN:\nXÃNghĩa:\nXã hội"
+            },
+            {
+            "word":"員",
+            "title":"ÂM HÁN:\nVIÊNNghĩa:\nNhân viên"
+            },
+            {
+            "word":"医",
+            "title":"ÂM HÁN:\nYNghĩa:\nY học"
+            },
+            {
+            "word":"者",
+            "title":"ÂM HÁN:\nGIẢNghĩa:\nNgười"
+            },
+            {
+            "word":"本",
+            "title":"ÂM HÁN:\nBẢNNghĩa:\nSách"
+            },
+            {
+            "word":"中",
+            "title":"ÂM HÁN:\nTRUNGNghĩa:\nỞ giữa"
+            },
+            {
+            "word":"国",
+            "title":"ÂM HÁN:\nQUỐCNghĩa:\nĐất nước"
+            },
+            {
+            "word":"人",
+            "title":"ÂM HÁN:\nNHÂNNghĩa:\nNgười"
+            },
+            {
+            "word":"今",
+            "title":"ÂM HÁN:\nKIMNghĩa:\nBây giờ"
+            },
+            {
+            "word":"朝",
+            "title":"ÂM HÁN:\nTRIỀUNghĩa:\nSáng"
+            },
+            {
+            "word":"昼",
+            "title":"ÂM HÁN:\nTRÚNghĩa:\nBuổi trưa"
+            },
+            {
+            "word":"晚",
+            "title":"ÂM HÁN:\nVÃNNghĩa:\nBuổi tối"
+            },
+            {
+            "word":"時",
+            "title":"ÂM HÁN:\nTHỜINghĩa:\nThời gian"
+            },
+            {
+            "word":"分",
+            "title":"ÂM HÁN:\nPHÂNNghĩa:\nPhân chia"
+            },
+            {
+            "word":"半",
+            "title":"ÂM HÁN:\nBÁNNghĩa:\nMột nửa"
+            },
+            {
+            "word":"午",
+            "title":"ÂM HÁN:\nNGỌNghĩa:\nMười hai giờ trưa"
+            },
+            {
+            "word":"前 ",
+            "title":"ÂM HÁN:\nTIỀNNghĩa:\nTrước"
+            },
+            {
+            "word":"後",
+            "title":"ÂM HÁN:\nHẬUNghĩa:\nSau"
+            },
+            {
+            "word":"休",
+            "title":"ÂM HÁN:\nHƯUNghĩa:\nNghỉ ngơi"
+            },
+            {
+            "word":"每",
+            "title":"ÂM HÁN:\nMỖINghĩa:\nMỗi ngày"
+            },
+            {
+            "word":"何",
+            "title":"ÂM HÁN:\nHÀNghĩa:\nCái gì"
+            },
+            {
+            "word":"行",
+            "title":"ÂM HÁN:\nHÀNHNghĩa:\nĐi"
+            },
+            {
+            "word":"来",
+            "title":"ÂM HÁN:\nLAINghĩa:\nĐến"
+            },
+            {
+            "word":"校",
+            "title":"ÂM HÁN:\nHIỆUNghĩa:\nHiệu trưởng"
+            },
+            {
+            "word":"週",
+            "title":"ÂM HÁN:\nCHUNghĩa:\nTuần"
+            },
+            {
+            "word":"去",
+            "title":"ÂM HÁN:\nKHỨ Nghĩa:\nQuá khứ"
+            },
+            {
+            "word":"年",
+            "title":"ÂM HÁN:\nNIÊNNghĩa:\nNăm"
+            },
+            {
+            "word":"駅",
+            "title":"ÂM HÁN:\nDỊCHNghĩa:\nNhà ga"
+            },
+            {
+            "word":"電",
+            "title":"ÂM HÁN:\nĐIỆNNghĩa:\nĐiện thoại"
+            },
+            {
+            "word":"車",
+            "title":"ÂM HÁN:\nXANghĩa:\nXe"
+            },
+            {
+            "word":"自",
+            "title":"ÂM HÁN:\nTỰNghĩa:\nTự mình"
+            },
+            {
+            "word":"転",
+            "title":"ÂM HÁN:\nCHUYỂNNghĩa:\nVận chuyển"
+            },
+            {
+            "word":"動",
+            "title":"ÂM HÁN:\nĐỘNGNghĩa:\nĐộng vật"
+            },
+            {
+            "word":"高",
+            "title":"ÂM HÁN:\nCAONghĩa:\nCao, đắt"
+            },
+            {
+            "word":"安 ",
+            "title":"ÂM HÁN:\nANNghĩa:\nAn toàn"
+            },
+            {
+            "word":"大",
+            "title":"ÂM HÁN:\nĐẠINghĩa:\nTo lớn"
+            },
+            {
+            "word":"小",
+            "title":"ÂM HÁN:\nTIỂUNghĩa:\nNhỏ"
+            },
+            {
+            "word":"新",
+            "title":"ÂM HÁN:\nTÂNNghĩa:\nMới"
+            },
+            {
+            "word":"古",
+            "title":"ÂM HÁN:\nCỔNghĩa:\nCũ"
+            },
+            {
+            "word":"青",
+            "title":"ÂM HÁN:\nTHANHNghĩa:\nMàu xanh"
+            },
+            {
+            "word":"白",
+            "title":"ÂM HÁN:\nBẠCHNghĩa:\nMàu trắng"
+            },
+            {
+            "word":"赤",
+            "title":"ÂM HÁN:\nXÍCHNghĩa:\nMàu đỏ"
+            },
+            {
+            "word":"黒",
+            "title":"ÂM HÁN:\nHẮCNghĩa:\nĐen"
+            },
+            {
+            "word":"上",
+            "title":"ÂM HÁN:\nTHƯỢNGNghĩa:\nBên trên"
+            },
+            {
+            "word":"下",
+            "title":"ÂM HÁN:\nHẠNghĩa:\nBên dưới"
+            },
+            {
+            "word":"父",
+            "title":"ÂM HÁN:\nPHỤNghĩa:\nBố"
+            },
+            {
+            "word":"母",
+            "title":"ÂM HÁN:\nMẪUNghĩa:\nMẹ"
+            },
+            {
+            "word":"子",
+            "title":"ÂM HÁN:\nTỬNghĩa:\nCon"
+            },
+            {
+            "word":"手",
+            "title":"ÂM HÁN:\nTHỦNghĩa:\nTay"
+            },
+            {
+            "word":"好",
+            "title":"ÂM HÁN:\nHẢONghĩa:\nThích"
+            },
+            {
+            "word":"主",
+            "title":"ÂM HÁN:\nCHỦNghĩa:\nÔng chủ"
+            },
+            {
+            "word":"肉",
+            "title":"ÂM HÁN:\nNHỤCNghĩa:\nThịt"
+            },
+            {
+            "word":"魚",
+            "title":"ÂM HÁN:\nNGƯNghĩa:\nCá"
+            },
+            {
+            "word":"食",
+            "title":"ÂM HÁN:\nTHỰCNghĩa:\nĂn"
+            },
+            {
+            "word":"飲",
+            "title":"ÂM HÁN:\nẨMNghĩa:\nUống"
+            },
+            {
+            "word":"物",
+            "title":"ÂM HÁN:\nVẬTNghĩa:\nĐộng vật"
+            },
+            {
+            "word":"近",
+            "title":"ÂM HÁN:\nCẬN Nghĩa:\nGần"
+            },
+            {
+            "word":"間",
+            "title":"ÂM HÁN:\nGIANNghĩa:\nThời gian"
+            },
+            {
+            "word":"右 ",
+            "title":"ÂM HÁN:\nHỮUNghĩa:\nBên phải "
+            },
+            {
+            "word":"左",
+            "title":"ÂM HÁN:\nTẢNghĩa:\nBên trái"
+            },
+            {
+            "word":"外",
+            "title":"ÂM HÁN:\nNGOẠINghĩa:\nBên ngoài"
+            },
+            {
+            "word":"男",
+            "title":"ÂM HÁN:\nNAMNghĩa:\nCon trai"
+            },
+            {
+            "word":"女",
+            "title":"ÂM HÁN:\nNỮNghĩa:\nCon gái"
+            },
+            {
+            "word":"犬",
+            "title":"ÂM HÁN:\nKHUYỂNNghĩa:\nChó"
+            },
+            {
+            "word":"書",
+            "title":"ÂM HÁN:\nTHƯNghĩa:\nViết"
+            },
+            {
+            "word":"聞",
+            "title":"ÂM HÁN:\nVĂNNghĩa:\nNghe, hỏi"
+            },
+            {
+            "word":"読",
+            "title":"ÂM HÁN:\nĐỘCNghĩa:\nĐọc"
+            },
+            {
+            "word":"見",
+            "title":"ÂM HÁN:\nKIẾNNghĩa:\nNhìn"
+            },
+            {
+            "word":"話",
+            "title":"ÂM HÁN:\nTHOẠINghĩa:\nHội thoại"
+            },
+            {
+            "word":"買",
+            "title":"ÂM HÁN:\nMÃINghĩa:\nMua"
+            },
+            {
+            "word":"起",
+            "title":"ÂM HÁN:\nKHỞINghĩa:\nKhởi động"
+            },
+            {
+            "word":"帰",
+            "title":"ÂM HÁN:\nQUYNghĩa:\nTrở về"
+            },
+            {
+            "word":"友",
+            "title":"ÂM HÁN:\nHỮUNghĩa:\nBạn bè"
+            },
+            {
+            "word":"達",
+            "title":"ÂM HÁN:\nĐẠTNghĩa:\nThành đạt"
+            },
+            {
+            "word":"茶",
+            "title":"ÂM HÁN:\nTRÀNghĩa:\nTrà"
+            },
+            {
+            "word":"酒",
+            "title":"ÂM HÁN:\nTỬUNghĩa:\nRượu"
+            },
+            {
+            "word":"写",
+            "title":"ÂM HÁN:\nTẢNghĩa:\nTả chân"
+            },
+            {
+            "word":"真",
+            "title":"ÂM HÁN:\nCHÂNNghĩa:\nChân thực"
+            },
+            {
+            "word":"紙",
+            "title":"ÂM HÁN:\nCHỈNghĩa:\nTờ giấy"
+            },
+            {
+            "word":"映",
+            "title":"ÂM HÁN:\nÁNHNghĩa:\nÁnh họa"
+            },
+            {
+            "word":"画",
+            "title":"ÂM HÁN:\nHỌA/ HOẠCHNghĩa:\nÁnh họa/ Kế họach"
+            },
+            {
+            "word":"店",
+            "title":"ÂM HÁN:\nĐIẾMNghĩa:\nCửa hàng"
+            },
+            {
+            "word":"英",
+            "title":"ÂM HÁN:\nANHNghĩa:\nAnh ngữ"
+            },
+            {
+            "word":"語",
+            "title":"ÂM HÁN:\nNGỮNghĩa:\nNgôn ngữ"
+            },
+            {
+            "word":"送",
+            "title":"ÂM HÁN:\nTỐNGNghĩa:\nGửi"
+            },
+            {
+            "word":"切",
+            "title":"ÂM HÁN:\nTHIẾTNghĩa:\nThân thiết"
+            },
+            {
+            "word":"貸",
+            "title":"ÂM HÁN:\nTHẢINghĩa:\nCho vay"
+            },
+            {
+            "word":"借",
+            "title":"ÂM HÁN:\nTÁNghĩa:\nVay mượn"
+            },
+            {
+            "word":"旅",
+            "title":"ÂM HÁN:\nLỮNghĩa:\nLữ hành"
+            },
+            {
+            "word":"教",
+            "title":"ÂM HÁN:\nGIÁONghĩa:\nGiáo dục"
+            },
+            {
+            "word":"習",
+            "title":"ÂM HÁN:\nTẬPNghĩa:\nLuyện tập"
+            },
+            {
+            "word":"勉",
+            "title":"ÂM HÁN:\nMIỄNNghĩa:\nMiễn cường (học)"
+            },
+            {
+            "word":"強",
+            "title":"ÂM HÁN:\nCƯỜNGNghĩa:\nMạnh"
+            },
+            {
+            "word":"花",
+            "title":"ÂM HÁN:\nHOANghĩa:\nBông hoa"
+            },
+            {
+            "word":"步",
+            "title":"ÂM HÁN:\nBỘNghĩa:\nĐi bộ"
+            },
+            {
+            "word":"待",
+            "title":"ÂM HÁN:\nĐÃINghĩa:\nĐợi"
+            },
+            {
+            "word":"立",
+            "title":"ÂM HÁN:\nLẬPNghĩa:\nTự lập"
+            },
+            {
+            "word":"止",
+            "title":"ÂM HÁN:\nCHỈNghĩa:\nĐình chỉ"
+            },
+            {
+            "word":"雨",
+            "title":"ÂM HÁN:\nVŨNghĩa:\nMưa"
+            },
+            {
+            "word":"入 ",
+            "title":"ÂM HÁN:\nNHẬPNghĩa:\nVào"
+            },
+            {
+            "word":"出",
+            "title":"ÂM HÁN:\nXUẤTNghĩa:\nRa"
+            },
+            {
+            "word":"売",
+            "title":"ÂM HÁN:\nMẠINghĩa:\nBán"
+            },
+            {
+            "word":"使",
+            "title":"ÂM HÁN:\nSỬNghĩa:\nSử dụng"
+            },
+            {
+            "word":"作",
+            "title":"ÂM HÁN:\nTÁCNghĩa:\nSáng tác"
+            },
+            {
+            "word":"明",
+            "title":"ÂM HÁN:\nMINHNghĩa:\nSáng"
+            },
+            {
+            "word":"暗",
+            "title":"ÂM HÁN:\nÁMNghĩa:\nTối"
+            },
+            {
+            "word":"広",
+            "title":"ÂM HÁN:\nQUẢNGNghĩa:\nQuảng trường"
+            },
+            {
+            "word":"多",
+            "title":"ÂM HÁN:\nĐANghĩa:\nNhiều"
+            },
+            {
+            "word":"少 ",
+            "title":"ÂM HÁN:\nTHIỂUNghĩa:\nÍt"
+            },
+            {
+            "word":"長",
+            "title":"ÂM HÁN:\nTRƯỜNGNghĩa:\nDài"
+            },
+            {
+            "word":"短",
+            "title":"ÂM HÁN:\nĐOẢNNghĩa:\nNgắn"
+            },
+            {
+            "word":"悪",
+            "title":"ÂM HÁN:\nÁCNghĩa:\nXấu"
+            },
+            {
+            "word":"重",
+            "title":"ÂM HÁN:\nTRỌNGNghĩa:\nNặng"
+            },
+            {
+            "word":"軽",
+            "title":"ÂM HÁN:\nKHINHNghĩa:\nNhẹ, khinh thường"
+            },
+            {
+            "word":"早",
+            "title":"ÂM HÁN:\nTẢONghĩa:\nSớm"
+            },
+            {
+            "word":"便",
+            "title":"ÂM HÁN:\nTIỆNNghĩa:\nTiện lợi"
+            },
+            {
+            "word":"利",
+            "title":"ÂM HÁN:\nLỢINghĩa:\nTiện lợi"
+            },
+            {
+            "word":"元",
+            "title":"ÂM HÁN:\nNGUYÊNNghĩa:\nNguyên khí"
+            },
+            {
+            "word":"気",
+            "title":"ÂM HÁN:\nKHÍNghĩa:\nKhông khí"
+            },
+            {
+            "word":"親",
+            "title":"ÂM HÁN:\nTHÂNNghĩa:\nThân thiết"
+            },
+            {
+            "word":"有",
+            "title":"ÂM HÁN:\nHỮUNghĩa:\nSở hữu"
+            },
+            {
+            "word":"名",
+            "title":"ÂM HÁN:\nDANHNghĩa:\nTên"
+            },
+            {
+            "word":"地",
+            "title":"ÂM HÁN:\nĐỊANghĩa:\nĐất "
+            },
+            {
+            "word":"鉄",
+            "title":"ÂM HÁN:\nTHIẾTNghĩa:\nChất sắt"
+            },
+            {
+            "word":"仕 ",
+            "title":"ÂM HÁN:\nSĨNghĩa:\nCông việc"
+            },
+            {
+            "word":"事",
+            "title":"ÂM HÁN:\nSỰNghĩa:\nSự cố"
+            },
+            {
+            "word":"東",
+            "title":"ÂM HÁN:\nĐÔNGNghĩa:\nPhía đông"
+            },
+            {
+            "word":"西",
+            "title":"ÂM HÁN:\nTÂYNghĩa:\nPhía tây"
+            },
+            {
+            "word":"南",
+            "title":"ÂM HÁN:\nNAMNghĩa:\nPhía nam"
+            },
+            {
+            "word":"北",
+            "title":"ÂM HÁN:\nBẮCNghĩa:\nPhía bắc"
+            },
+            {
+            "word":"京",
+            "title":"ÂM HÁN:\nKINHNghĩa:\nKinh đô"
+            },
+            {
+            "word":"夜",
+            "title":"ÂM HÁN:\nDẠNghĩa:\nBuổi tối"
+            },
+            {
+            "word":"料",
+            "title":"ÂM HÁN:\nLIỆUNghĩa:\nVật liệu"
+            },
+            {
+            "word":"理",
+            "title":"ÂM HÁN:\nLÝNghĩa:\nLý do"
+            },
+            {
+            "word":"口",
+            "title":"ÂM HÁN:\nKHẨUNghĩa:\nMiệng"
+            },
+            {
+            "word":"目",
+            "title":"ÂM HÁN:\nMỤCNghĩa:\nMắt"
+            },
+            {
+            "word":"足",
+            "title":"ÂM HÁN:\nTÚCNghĩa:\nChân"
+            },
+            {
+            "word":"曜",
+            "title":"ÂM HÁN:\nDIỆUNghĩa:\nNgày"
+            },
+            {
+            "word":"降",
+            "title":"ÂM HÁN:\nGIÁNGNghĩa:\nXuống(Tàu,xe…)"
+            },
+            {
+            "word":"思",
+            "title":"ÂM HÁN:\nTƯNghĩa:\nSuy tư"
+            },
+            {
+            "word":"寝",
+            "title":"ÂM HÁN:\nTẨMNghĩa:\nNgủ"
+            },
+            {
+            "word":"終",
+            "title":"ÂM HÁN:\nCHUNGNghĩa:\nChung kết"
+            },
+            {
+            "word":"言",
+            "title":"ÂM HÁN:\nNGÔNNghĩa:\nLời nói"
+            },
+            {
+            "word":"知",
+            "title":"ÂM HÁN:\nCHINghĩa:\nTri thức"
+            },
+            {
+            "word":"同",
+            "title":"ÂM HÁN:\nĐỒNGNghĩa:\nTương đồng"
+            },
+            {
+            "word":"漢",
+            "title":"ÂM HÁN:\nHÁNNghĩa:\nHán tự"
+            },
+            {
+            "word":"字",
+            "title":"ÂM HÁN:\nTỰNghĩa:\nChữ"
+            },
+            {
+            "word":"方",
+            "title":"ÂM HÁN:\nPHƯƠNGNghĩa:\nPhương hướng"
+            },
+            {
+            "word":"図",
+            "title":"ÂM HÁN:\nĐỒNghĩa:\nBản đồ"
+            },
+            {
+            "word":"館",
+            "title":"ÂM HÁN:\nQUÁNNghĩa:\nĐại sứ quán"
+            },
+            {
+            "word":"銀",
+            "title":"ÂM HÁN:\nNGÂNNghĩa:\nNgân hàng"
+            },
+            {
+            "word":"町",
+            "title":"ÂM HÁN:\nĐINHNghĩa:\nThị trấn"
+            },
+            {
+            "word":"住",
+            "title":"ÂM HÁN:\nTRÚNghĩa:\nCư trú"
+            },
+            {
+            "word":"度",
+            "title":"ÂM HÁN:\nĐỘNghĩa:\nLần"
+            },
+            {
+            "word":"服",
+            "title":"ÂM HÁN:\nPHỤCNghĩa:\nTrang phục"
+            },
+            {
+            "word":"着",
+            "title":"ÂM HÁN:\nTRƯỚC/ TRỨNghĩa:\nMặc/ đến"
+            },
+            {
+            "word":"音",
+            "title":"ÂM HÁN:\nÂMNghĩa:\nÂm thanh"
+            },
+            {
+            "word":"楽",
+            "title":"ÂM HÁN:\nLẠCNghĩa:\nVui vẻ"
+            },
+            {
+            "word":"持",
+            "title":"ÂM HÁN:\nTRÌNghĩa:\nMang, cầm, nắm"
+            },
+            {
+            "word":"春",
+            "title":"ÂM HÁN:\nXUÂNNghĩa:\nMùa xuân"
+            },
+            {
+            "word":"夏",
+            "title":"ÂM HÁN:\nHẠNghĩa:\nMùa hè"
+            },
+            {
+            "word":"秋 ",
+            "title":"ÂM HÁN:\nTHUNghĩa:\nMùa thu"
+            },
+            {
+            "word":"冬",
+            "title":"ÂM HÁN:\nĐÔNGNghĩa:\nMùa đông"
+            },
+            {
+            "word":"道",
+            "title":"ÂM HÁN:\nĐẠONghĩa:\nCon đường"
+            },
+            {
+            "word":"堂",
+            "title":"ÂM HÁN:\nĐƯỜNGNghĩa:\nNhà lớn"
+            },
+            {
+            "word":"建",
+            "title":"ÂM HÁN:\nKIỆNNghĩa:\nTráng kiện"
+            },
+            {
+            "word":"病",
+            "title":"ÂM HÁN:\nBỆNHNghĩa:\nBệnh viện"
+            },
+            {
+            "word":"院",
+            "title":"ÂM HÁN:\nVIỆNNghĩa:\nBệnh viện"
+            },
+            {
+            "word":"体",
+            "title":"ÂM HÁN:\nTHỂNghĩa:\nCơ thể"
+            },
+            {
+            "word":"運",
+            "title":"ÂM HÁN:\nVẬNNghĩa:\nVận động"
+            },
+            {
+            "word":"乗",
+            "title":"ÂM HÁN:\nTHỪANghĩa:\nLên xe"
+            },
+            {
+            "word":"家",
+            "title":"ÂM HÁN:\nGIANghĩa:\nGia đình"
+            },
+            {
+            "word":"内",
+            "title":"ÂM HÁN:\nNỘINghĩa:\nBên trong"
+            },
+            {
+            "word":"族",
+            "title":"ÂM HÁN:\nTỘCNghĩa:\nGia tộc"
+            },
+            {
+            "word":"兄",
+            "title":"ÂM HÁN:\nHUYNHNghĩa:\nAnh trai"
+            },
+            {
+            "word":"弟",
+            "title":"ÂM HÁN:\nĐỆNghĩa:\nEm trai"
+            },
+            {
+            "word":"奥",
+            "title":"ÂM HÁN:\nÁONghĩa:\nBên trong"
+            },
+            {
+            "word":"姉",
+            "title":"ÂM HÁN:\nTỶNghĩa:\nChị gái"
+            },
+            {
+            "word":"妹",
+            "title":"ÂM HÁN:\nMUỘINghĩa:\nEm gái"
+            },
+            {
+            "word":"海",
+            "title":"ÂM HÁN:\nHẢINghĩa:\nBiển"
+            },
+            {
+            "word":"計",
+            "title":"ÂM HÁN:\nKẾNghĩa:\nKế hoạch"
+            },
+            {
+            "word":"部",
+            "title":"ÂM HÁN:\nBỘNghĩa:\nBộ phận"
+            },
+            {
+            "word":"屋",
+            "title":"ÂM HÁN:\nỐCNghĩa:\nCao ốc"
+            },
+            {
+            "word":"室",
+            "title":"ÂM HÁN:\nTHẤTNghĩa:\nPhòng"
+            },
+            {
+            "word":"窓",
+            "title":"ÂM HÁN:\nSONGNghĩa:\nCửa sổ"
+            },
+            {
+            "word":"開",
+            "title":"ÂM HÁN:\nKHAINghĩa:\nMở"
+            },
+            {
+            "word":"閉",
+            "title":"ÂM HÁN:\nBẾNghĩa:\nĐóng"
+            },
+            {
+            "word":"歌",
+            "title":"ÂM HÁN:\nCANghĩa:\nCa hát"
+            },
+            {
+            "word":"意",
+            "title":"ÂM HÁN:\nỨCNghĩa:\nKí ức"
+            },
+            {
+            "word":"味",
+            "title":"ÂM HÁN:\nVỊNghĩa:\nMùi vị"
+            },
+            {
+            "word":"天",
+            "title":"ÂM HÁN:\nTHIÊNNghĩa:\nTrời"
+            },
+            {
+            "word":"考",
+            "title":"ÂM HÁN:\nKHẢONghĩa:\nSuy nghĩ"
+            }
+    ]
+}

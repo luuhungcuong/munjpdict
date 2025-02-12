@@ -1,0 +1,266 @@
+{
+    "name": "L4-Idori",
+    "language": "ja-JP",
+    "data": [
+        {
+            "word":"起きます",
+            "title":"おきます  KHỞI  Dậy, thức dậy"
+            },
+            {
+            "word":"寝ます",
+            "title":"ねます  TẨM  Ngủ, đi ngủ"
+            },
+            {
+            "word":"働きます",
+            "title":"はたらきます  ĐỘNG  Làm việc"
+            },
+            {
+            "word":"休みます",
+            "title":"やすみます  HƯU  Nghỉ, nghỉ ngơi"
+            },
+            {
+            "word":"勉強します",
+            "title":"べんきょうします  MIỄN CƯỜNG  Học"
+            },
+            {
+            "word":"終わります",
+            "title":"おわります CHUNG hết, kết thúc, xong"
+            },
+            {
+            "word":"デパート",
+            "title":"Bách hóa"
+            },
+            {
+            "word":"銀行",
+            "title":"ぎんこう  NGÂN HÀNH  Ngân hàng"
+            },
+            {
+            "word":"郵便局",
+            "title":"ゆうびんきょく  BƯU TIỆN CỤC  Bưu điện"
+            },
+            {
+            "word":"図書館",
+            "title":"としょかん  ĐỒ THƯ QUÁN  Thư viện"
+            },
+            {
+            "word":"美術館",
+            "title":"びじゅつかん  MỸ THUẬT QUÁN  Bảo tàng mỹ thuật"
+            },
+            {
+            "word":"今",
+            "title":"いま  Kim  bây giờ"
+            },
+            {
+            "word":"～時",
+            "title":"～じ  THỜI  ~giờ"
+            },
+            {
+            "word":"～分",
+            "title":"～ふん（－ぷん）  PHÂN  ~ phút"
+            },
+            {
+            "word":"半",
+            "title":"はん  BÁN  Rưỡi, nửa"
+            },
+            {
+            "word":"何時",
+            "title":"なんじ  HÀ THỜI  Mấy giờ"
+            },
+            {
+            "word":"何分",
+            "title":"なんぷん  HÀ PHÂN  Mấy phút"
+            },
+            {
+            "word":"午前",
+            "title":"ごぜん  NGỌ TIỀN  Sáng, trước 12 giờ trưa"
+            },
+            {
+            "word":"午後",
+            "title":"ごご  NGỌ HẬU  Chiều, sau 12 giờ trưa"
+            },
+            {
+            "word":"朝",
+            "title":"あさ  TRIỀU  Buổi sáng, sáng"
+            },
+            {
+            "word":"昼",
+            "title":"ひる  TRÚ  Buổi trưa, trưa"
+            },
+            {
+            "word":"晩(夜)",
+            "title":"ばん（よる）  VÃN(DẠ)  Buổi tối, tối"
+            },
+            {
+            "word":"一昨日",
+            "title":"おととい  NHẤT TẠC NHẬT  Hôm kia"
+            },
+            {
+            "word":"昨日",
+            "title":"きのう  TẠC NHẬT  Hôm qua"
+            },
+            {
+            "word":"今日",
+            "title":"きょう  KIM NHẬT  Hôm nay"
+            },
+            {
+            "word":"明日",
+            "title":"あした  MINH NHẬT  Ngày mai"
+            },
+            {
+            "word":"明後日",
+            "title":"あさって  MINH HẬU NHẬT  Ngày kia"
+            },
+            {
+            "word":"今朝",
+            "title":"けさ  KIM TRIỀU  Sáng nay"
+            },
+            {
+            "word":"今晩",
+            "title":"こんばん  KIM VÃN  Tối nay"
+            },
+            {
+            "word":"休み",
+            "title":"やすみ  HƯU  Nghỉ, nghỉ phép, ngày nghỉ"
+            },
+            {
+            "word":"昼休み",
+            "title":"ひるやすみ  TRÚ HƯU  Nghỉ trưa"
+            },
+            {
+            "word":"試験",
+            "title":"しけん  THÍ NGHIỆM  Thi, kỳ thi, kiểm tra"
+            },
+            {
+            "word":"会議",
+            "title":"かいぎ  HỘI NGHỊ  Cuộc họp, hội nghị"
+            },
+            {
+            "word":"会議を します",
+            "title":"かいぎを します  HỘI NGHỊ  Tổ chức cuộc họp, hội nghị"
+            },
+            {
+            "word":"映画",
+            "title":"えいが  ÁNH HỌA  Phim, điện ảnh"
+            },
+            {
+            "word":"毎朝",
+            "title":"まいあさ  MỖI TRIỀU  Hàng sáng, mỗi sáng"
+            },
+            {
+            "word":"毎晩",
+            "title":"まいばん  MỖI VÃN  Hàng tối, mỗi tối"
+            },
+            {
+            "word":"毎日",
+            "title":"まいにち  MỖI NHẬT  Hàng ngày, mỗi ngày"
+            },
+            {
+            "word":"月曜日",
+            "title":"げつようび  NGUYỆT DIỆU NHẬT  Thứ hai"
+            },
+            {
+            "word":"火曜日",
+            "title":"かようび  HỎA DIỆU NHẬT  Thứ ba"
+            },
+            {
+            "word":"水曜日",
+            "title":"すいようび  THỦY DIỆU NHẬT  Thứ tư"
+            },
+            {
+            "word":"木曜日",
+            "title":"もくようび  MỘC DIỆU NHẬT  Thứ năm"
+            },
+            {
+            "word":"金曜日",
+            "title":"きんようび  KIM DIỆU NHẬT  Thứ sáu"
+            },
+            {
+            "word":"土曜日",
+            "title":"どようび  THỔ DIỆU NHẬT  Thứ bảy"
+            },
+            {
+            "word":"日曜日",
+            "title":"にちようび  NHẬT DIỆU NHẬT  Chủ nhật"
+            },
+            {
+            "word":"何曜日",
+            "title":"なんようび（ですか）  HÀ DIỆU NHẬT  Thứ mấy"
+            },
+            {
+            "word":"～から",
+            "title":"~ từ"
+            },
+            {
+            "word":"～まで",
+            "title":"~ đến"
+            },
+            {
+            "word":"～と",
+            "title":"~ và (dùng để nối hai danh từ)"
+            },
+            {
+            "word":"大変ですね",
+            "title":"たいへんですね  ĐẠI BIẾN  Anh/chị vất vả quá."
+            },
+            {
+            "word":"番号",
+            "title":"ばんごう  PHIÊN HIỆU  Số (số điện thoại, số phòng)"
+            },
+            {
+            "word":"何番",
+            "title":"なんばん（ですか）  HÀ PHIÊN  Số bao nhiêu, số mấy"
+            },
+            {
+            "word":"そちら",
+            "title":"Ông/bà, phía ông/ phía bà"
+            },
+            {
+            "word":"ニューヨーク",
+            "title":"New York"
+            },
+            {
+            "word":"ペキン",
+            "title":"Bắc Kinh"
+            },
+            {
+            "word":"ロサンゼルス",
+            "title":"Los Angeles"
+            },
+            {
+            "word":"ロンドン",
+            "title":"Luân Đôn"
+            },
+            {
+            "word":"時間",
+            "title":"じかん  THỜI GIAN  Thời gian"
+            },
+            {
+            "word":"半",
+            "title":"はん  BÁN  Một nửa, rưỡi"
+            },
+            {
+            "word":"一日",
+            "title":"いちにち  NHẤT NHẬT  1 ngày"
+            },
+            {
+            "word":"スケジュール",
+            "title":"Lịch trình, thời khóa biểu"
+            },
+            {
+            "word":"一日のスケジュール",
+            "title":"いちにちのスケジュール  NHẤT NHẬT  Lịch trình 1 ngày"
+            },
+            {
+            "word":"朝礼",
+            "title":"ちょうれい  TRIỀU LỄ  Lễ tập trung chào hỏi buổi sáng (ở công ty, ở trường học...)"
+            },
+            {
+            "word":"仕事",
+            "title":"しごと  SĨ SỰ  Công việc"
+            },
+            {
+            "word":"残業",
+            "title":"ざんぎょう  TÀN NGHIỆP  Tăng ca"
+            }
+    ]
+}

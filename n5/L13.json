@@ -1,0 +1,318 @@
+{
+    "name": "L12-Idori",
+    "language": "ja-JP",
+    "data": [
+        {
+            "word":"遊びます",
+            "title":"あそびます  DU  Chơi"
+            },
+            {
+            "word":"泳ぎます",
+            "title":"およぎます  VỊNH  Bơi"
+            },
+            {
+            "word":"迎えます",
+            "title":"むかえます  NGHÊNH  Đón"
+            },
+            {
+            "word":"疲れます",
+            "title":"つかれます  BÌ  Mệt"
+            },
+            {
+            "word":"結婚します",
+            "title":"けっこんします  KẾT HÔN  Kết hôn, lập gia đình, cưới"
+            },
+            {
+            "word":"買い物します",
+            "title":"かいものします  MÃI VẬT  Mua hàng"
+            },
+            {
+            "word":"食事します",
+            "title":"しょくじします  THỰC SỰ  Ăn cơm"
+            },
+            {
+            "word":"散歩します",
+            "title":"[こうえんを～] さんぽします TẢN BỘ  Đi dạo [ở công viên]"
+            },
+            {
+            "word":"大変",
+            "title":"たいへん「な」  ĐẠI BIẾN  Vất vả, khó khăn, khổ"
+            },
+            {
+            "word":"欲しい",
+            "title":"ほしい  DỤC  Muốn có"
+            },
+            {
+            "word":"広い",
+            "title":"ひろい  QUẢNG  Rộng"
+            },
+            {
+            "word":"狭い",
+            "title":"せまい  HIỆP  Chật, hẹp"
+            },
+            {
+            "word":"プール",
+            "title":"プール  Bể bơi"
+            },
+            {
+            "word":"川",
+            "title":"かわ  XUYÊN  Sông"
+            },
+            {
+            "word":"美術",
+            "title":"びじゅつ  MỸ THUẬT  Mỹ thuật"
+            },
+            {
+            "word":"釣り",
+            "title":"つり  ĐIẾU  Việc câu cá"
+            },
+            {
+            "word":"釣りをします",
+            "title":"つりをします  ĐIẾU  Câu cá"
+            },
+            {
+            "word":"スキー",
+            "title":"スキー  Việc trượt tuyết"
+            },
+            {
+            "word":"スキーをします",
+            "title":"スキーをします  Trượt tuyết"
+            },
+            {
+            "word":"週末",
+            "title":"しゅうまつ  CHU MẠT  Cuối tuần"
+            },
+            {
+            "word":"[お]正月",
+            "title":"[お]しょうがつ  CHÍNH NGUYỆT  Tết"
+            },
+            {
+            "word":"～ごろ",
+            "title":"～ごろ  Khoảng ~ (dùng cho thời gian)"
+            },
+            {
+            "word":"何か",
+            "title":"なにか  HÀ  Cái gì đó"
+            },
+            {
+            "word":"どこか",
+            "title":"どこか  Đâu đó, chỗ nào đó"
+            },
+            {
+            "word":"のどが かわきます",
+            "title":"のどが かわきます  (Tôi) khát."
+            },
+            {
+            "word":"お腹がすきます",
+            "title":"おなかがすきます  PHÚC  (Tôi) đói rồi."
+            },
+            {
+            "word":"そうしましょう",
+            "title":"そうしましょう  Nhất trí./ Chúng ta thống nhất như thế."
+            },
+            {
+            "word":"ご注文は？",
+            "title":"ちゅうもんは？  CHÚ VĂN  Anh/Chị dùng món gì ạ?"
+            },
+            {
+            "word":"定食",
+            "title":"ていしょく  ĐỊNH THỰC  Cơm suất, cơm phần"
+            },
+            {
+            "word":"牛どん",
+            "title":"ぎゅうどん  NGƯU  Món cơm thịt bò"
+            },
+            {
+            "word":"[少々]お待ちください",
+            "title":"[しょうしょう] おまちください THIỂU ĐÃI  Xin anh/chị vui lòng đợi [một chút]."
+            },
+            {
+            "word":"～でございます。",
+            "title":"～でございます。  Cách nói lịch sự của です"
+            },
+            {
+            "word":"別々に",
+            "title":"べつべつに  BIỆT  Riêng ra/ để riêng"
+            },
+            {
+            "word":"もうすぐ",
+            "title":"もうすぐ  Sắp sửa"
+            },
+            {
+            "word":"夏休み",
+            "title":"なつやすみ  HẠ HƯU  Kỳ nghỉ hè"
+            },
+            {
+            "word":"連休",
+            "title":"れんきゅう  LIÊN HƯU  Ngày nghỉ liền nhau"
+            },
+            {
+            "word":"今度",
+            "title":"こんど  KIM ĐỘ  Lần tới"
+            },
+            {
+            "word":"ゴールデンウィーク",
+            "title":"ゴールデンウィーク  Tuần lễ vàng"
+            },
+            {
+            "word":"予定",
+            "title":"よてい  DỰ ĐỊNH  Dự định"
+            },
+            {
+            "word":"旅行します（旅行する）",
+            "title":"りょこうします（りょこうする）  LỮ HÀNH  Du lịch"
+            },
+            {
+            "word":"会います（会う）",
+            "title":"あいます（あう）  HỘI  Gặp, gặp gỡ"
+            },
+            {
+            "word":"友達に会いに行きます",
+            "title":"ともだちにあいにいきます  HỮU ĐẠT HỘI HÀNH  Đi gặp bạn bè"
+            },
+            {
+            "word":"炊飯器",
+            "title":"すいはんき  XÚY PHẠN KHÍ  Nồi cơm điện"
+            },
+            {
+            "word":"買います（買う）",
+            "title":"かいます（かう）  MÃI  Mua"
+            },
+            {
+            "word":"うちでゆっくりします",
+            "title":"うちでゆっくりします  Thong thả nghỉ ngơi ở nhà"
+            },
+            {
+            "word":"もうすぐ夏休みですね",
+            "title":"もうすぐなつやすみですね  HẠ HƯU  Sắp tới kì nghỉ hè rồi nhỉ"
+            },
+            {
+            "word":"今度の連休、どこか行きたいです",
+            "title":"こんどのれんきゅう、どこかいきたいです  KIM ĐỘ LIÊN HƯU HÀNH  Tôi muối đi đâu đó trong kì nghỉ tới"
+            },
+            {
+            "word":"連休は、どこにも行きません。家でゆっくりしたいです",
+            "title":"れんきゅうは、どこにもいきません。いえでゆっくりしたいです LIÊN HƯU HÀNH GIA  Tôi không đi đâu cả trong kì nghỉ. Tôi muốn thư giãn ở nhà"
+            },
+            {
+            "word":"日曜日、家でゆっくりしたいです",
+            "title":"にちようびは、いえでゆっくりしたいです  NHẬT DIỆU NHẬT GIA  Chủ nhật tôi muốn thư giãn ở nhà"
+            },
+            {
+            "word":"休みにしたいこと",
+            "title":"やすみにしたいこと  HƯU  Điều muốn làm trong ngày nghỉ"
+            },
+            {
+            "word":"休みの予定について話しています",
+            "title":"やすみのよていについてはなしています  HƯU DỰ ĐỊNH THOẠI  Nói chuyện về dự định trong kì nghỉ"
+            },
+            {
+            "word":"日本で、どこに行きたいですか",
+            "title":"にほんで、どこにいきたいですか  NHẬT BẢN HÀNH  Bạn muốn đi đâu ở Nhật"
+            },
+            {
+            "word":"日本で、何がしたいですか",
+            "title":"にほんで、なにがしたいですか  NHẬT BẢN HÀ  Bạn muốn làm gì ở Nhật"
+            },
+            {
+            "word":"ベトナムで、どこに行きたいですか",
+            "title":"ベトナムで、どこにいきたいですか  HÀNH  Bạn muốn đi đâu ở Việt Nam"
+            },
+            {
+            "word":"ベトナムで、何がしたいですか",
+            "title":"ベトナムで、なにがしたいですか  HÀ  Bạn muốn làm gì ở Việt Nam"
+            },
+            {
+            "word":"お土産",
+            "title":"おみやげ  THỔ SẢN  Quà đặc sản"
+            },
+            {
+            "word":"お菓子",
+            "title":"おかし  QUẢ TỬ  Bánh kẹo"
+            },
+            {
+            "word":"ディズニーランド",
+            "title":"ディズニーランド  Disneyland"
+            },
+            {
+            "word":"ディズニーランドに行きたい",
+            "title":"ディズニーランドにいきたい  HÀNH  Muốn đi Disneyland"
+            },
+            {
+            "word":"富士山",
+            "title":"ふじさん  PHÚ SĨ SƠN  Núi Phú Sĩ"
+            },
+            {
+            "word":"登ります（登る）",
+            "title":"のぼります（のぼる）  ĐĂNG  Leo núi"
+            },
+            {
+            "word":"富士山に登りたい",
+            "title":"ふじさんにのぼりたい  PHÚ SĨ SƠN ĐĂNG  Muốn leo núi Phú Sĩ"
+            },
+            {
+            "word":"京都へ行きたい",
+            "title":"きょうとへいきたい  KINH ĐÔ HÀNH  Muốn đi Kyoto"
+            },
+            {
+            "word":"神社",
+            "title":"じんじゃ  THẦN XÃ  Đền, miếu"
+            },
+            {
+            "word":"空港",
+            "title":"くうこう  KHÔNG CẢNG  Sân bay"
+            },
+            {
+            "word":"新幹線",
+            "title":"しんかんせん  TÂN CÁN TUYẾN  Tàu Shinkansen"
+            },
+            {
+            "word":"新幹線に乗りたい",
+            "title":"しんかんせんにのりたい  TÂN CÁN TUYẾN THỪA  Muốn đi tàu Shinkansen"
+            },
+            {
+            "word":"雪",
+            "title":"ゆき  TUYẾT  Tuyết"
+            },
+            {
+            "word":"雪が見たい",
+            "title":"ゆきがみたい  TUYẾT KIẾN  Muốn ngắm tuyết"
+            },
+            {
+            "word":"どら焼き",
+            "title":"どらやき  THIÊU  Bánh rán nhân đậu đỏ Doraemon"
+            },
+            {
+            "word":"どら焼きが食べたい",
+            "title":"どらやきがたべたい  THIÊU THỰC  Muốn ăn bánh Doraemon"
+            },
+            {
+            "word":"焼肉",
+            "title":"やきにく  THIÊU NHỤC  Thịt nướng"
+            },
+            {
+            "word":"ハイキング",
+            "title":"ハイキング  Đi bộ dã ngoại"
+            },
+            {
+            "word":"飲み会",
+            "title":"のみかい  ẨM HỘI  Tiệc uống, nhậu"
+            },
+            {
+            "word":"今度",
+            "title":"こんど  KIM ĐỘ  Lần sau"
+            },
+            {
+            "word":"今晩",
+            "title":"こんばん  KIM VÃN  Tối nay"
+            },
+            {
+            "word":"もちろん",
+            "title":"もちろん  Đương nhiên"
+            },
+            {
+            "word":"楽しみですね",
+            "title":"たのしみですね  LẠC  Mong đợi nhỉ, háo hức quá"
+            }       
+    ]
+}

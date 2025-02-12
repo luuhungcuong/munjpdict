@@ -1,0 +1,346 @@
+{
+    "name": "L9-Idori",
+    "language": "ja-JP",
+    "data": [
+        {
+            "word":"分かります",
+            "title":"わかります  PHÂN  Hiểu, nắm được"
+            },
+            {
+            "word":"あります",
+            "title":"Có (sở hữu)"
+            },
+            {
+            "word":"好き",
+            "title":"すき[な]  HẢO  Thích"
+            },
+            {
+            "word":"嫌い",
+            "title":"きらい[な]  HIỀM  Ghét, không thích"
+            },
+            {
+            "word":"上手",
+            "title":"じょうず[な]  THƯỢNG THỦ  Giỏi, khéo"
+            },
+            {
+            "word":"下手",
+            "title":"へた[な]  HẠ THỦ  Kém"
+            },
+            {
+            "word":"飲み物",
+            "title":"のみもの  ẨM VẬT  Đồ uống"
+            },
+            {
+            "word":"料理",
+            "title":"りょうり  LIỆU LÝ  Món ăn, việc nấu ăn"
+            },
+            {
+            "word":"スポーツ",
+            "title":"Thể thao"
+            },
+            {
+            "word":"スポーツをします",
+            "title":"Chơi thể thao"
+            },
+            {
+            "word":"野球",
+            "title":"やきゅう  DÃ CẦU Bóng chày"
+            },
+            {
+            "word":"野球をします",
+            "title":"やきゅうをします  DÃ CẦU  Chơi bóng chày"
+            },
+            {
+            "word":"ダンス",
+            "title":"Nhảy, khiêu vũ"
+            },
+            {
+            "word":"ダンスをします",
+            "title":"Nhảy, khiêu vũ"
+            },
+            {
+            "word":"旅行",
+            "title":"りょこう  LỮ HÀNH  Du lịch, chuyến du lịch"
+            },
+            {
+            "word":"音楽",
+            "title":"おんがく  ÂM LẠC  Âm nhạc"
+            },
+            {
+            "word":"歌",
+            "title":"うた  CA  Bài hát"
+            },
+            {
+            "word":"クラシック",
+            "title":"Nhạc cổ điển"
+            },
+            {
+            "word":"ジャズ",
+            "title":"Nhạc jazz"
+            },
+            {
+            "word":"コンサート",
+            "title":"Buổi hòa nhạc"
+            },
+            {
+            "word":"カラオケ",
+            "title":"Karaoke"
+            },
+            {
+            "word":"歌舞伎",
+            "title":"かぶき  CA VŨ KỸ  Kịch Kabuki"
+            },
+            {
+            "word":"絵",
+            "title":"え  HỘI  Tranh, hội họa"
+            },
+            {
+            "word":"字",
+            "title":"じ  TỰ  Chữ"
+            },
+            {
+            "word":"漢字",
+            "title":"かんじ  HÁN TỰ  Chữ hán"
+            },
+            {
+            "word":"ひらがな",
+            "title":"Chữ Hiragana"
+            },
+            {
+            "word":"かたかな",
+            "title":"Chữ Katakana"
+            },
+            {
+            "word":"ローマ字",
+            "title":"ローマじ  TỰ  Chữ La Mã"
+            },
+            {
+            "word":"細かいお金",
+            "title":"こまかいおかね  TẾ KIM  Tiền lẻ"
+            },
+            {
+            "word":"チケット",
+            "title":"Vé (xem hòa nhạc, xem phim)"
+            },
+            {
+            "word":"時間",
+            "title":"じかん  THÌ/THỜI GIAN  Thời gian"
+            },
+            {
+            "word":"用事",
+            "title":"ようじ  DỤNG SỰ  Việc bận, công chuyện"
+            },
+            {
+            "word":"約束",
+            "title":"やくそく  ƯỚC THÚC  Cuộc hẹn, lời hứa"
+            },
+            {
+            "word":"アルバイト",
+            "title":"Việc làm thêm"
+            },
+            {
+            "word":"ご主人",
+            "title":"ごしゅじん  CHỦ NHÂN  Chồng (dùng cho chồng người khác)"
+            },
+            {
+            "word":"夫 /主人",
+            "title":"おっと/しゅじん  PHU / CHỦ NHÂN  Chồng (dùng cho chồng mình)"
+            },
+            {
+            "word":"奥さん",
+            "title":"おくさん  ÁO  Vợ (dùng cho vợ người khác)"
+            },
+            {
+            "word":"妻/家内",
+            "title":"つま/かない  THÊ / GIA NỘI  Vợ (dùng cho vợ mình)"
+            },
+            {
+            "word":"子ども",
+            "title":"こども  TỬ  Con cái"
+            },
+            {
+            "word":"よく",
+            "title":"Tốt, rõ (chỉ mức độ)"
+            },
+            {
+            "word":"だいたい",
+            "title":"Đại khái, đại thể"
+            },
+            {
+            "word":"たくさん",
+            "title":"Nhiều"
+            },
+            {
+            "word":"少し",
+            "title":"すこし  THIỂU  Ít, một ít"
+            },
+            {
+            "word":"全然",
+            "title":"ぜんぜん  TOÀN NHIÊN  Hoàn toàn ~ không"
+            },
+            {
+            "word":"早く、速く",
+            "title":"はやく  TẢO、TỐC  Sớm, nhanh"
+            },
+            {
+            "word":"～から",
+            "title":"Vì ~"
+            },
+            {
+            "word":"どうして",
+            "title":"Tại sao"
+            },
+            {
+            "word":"貸してください",
+            "title":"かしてください  THẢI  Hãy cho tôi mượn."
+            },
+            {
+            "word":"いいですよ。",
+            "title":"Được chứ./ Được ạ."
+            },
+            {
+            "word":"残念ですね。",
+            "title":"ざんねんですね。  TÀN NGHIỆP  Thật đáng tiếc nhỉ./ buồn nhỉ."
+            },
+            {
+            "word":"ああ",
+            "title":"Ah (cách nói khi đã gặp được đúng người trên điện thoại)"
+            },
+            {
+            "word":"一緒にいかがですか。",
+            "title":"いっしょにいかがですか。  NHẤT TỰ  Anh/chị cùng ~ (làm cái gì đó) với chúng tôi được không?"
+            },
+            {
+            "word":"[～は]ちょっと...。",
+            "title":"[~ thì] có lẽ không được rồi."
+            },
+            {
+            "word":"だめですか。",
+            "title":"Không được à?"
+            },
+            {
+            "word":"また 今度 お願いします",
+            "title":"また こんど おねがいします  KIM ĐỘ NGUYỆN  Hẹn Anh/Chị lần sau vậy."
+            },
+            {
+            "word":"食べ物",
+            "title":"たべもの  THỰC VẬT  Đồ ăn"
+            },
+            {
+            "word":"好きな食べ物",
+            "title":"すきなたべもの  HẢO THỰC VẬT  Món ăn yêu thích"
+            },
+            {
+            "word":"好きな物",
+            "title":"すきなもの  HẢO VẬT  Đồ yêu thích"
+            },
+            {
+            "word":"嫌いな物",
+            "title":"きらいなもの  HIỀM VẬT  Đồ ghét"
+            },
+            {
+            "word":"日本の食べ物",
+            "title":"にほんのたべもの  NHẬT BẢN THỰC VẬT  Món Nhật"
+            },
+            {
+            "word":"日本の食べ物、何が好きですか",
+            "title":"にほんのたべもの、なにがすきですか  NHẬT BẢN THỰC VẬT HÀ HẢO  Món Nhật bạn thích món nào?"
+            },
+            {
+            "word":"食べ物の名前",
+            "title":"たべもののなまえ  THỰC VẬT DANH TIỀN  Tên đồ ăn, món ăn"
+            },
+            {
+            "word":"ヨーグルト",
+            "title":"Sữa chua"
+            },
+            {
+            "word":"シリアル",
+            "title":"Ngũ cốc"
+            },
+            {
+            "word":"サラダ",
+            "title":"Salat"
+            },
+            {
+            "word":"みそ汁",
+            "title":"みそしる  TRẤP  Súp Miso"
+            },
+            {
+            "word":"スープ",
+            "title":"Súp"
+            },
+            {
+            "word":"刺身",
+            "title":"さしみ  THỨ THÂN  Sashimi"
+            },
+            {
+            "word":"寿司",
+            "title":"すし  THỌ TƯ/TI  Sushi"
+            },
+            {
+            "word":"天ぷら",
+            "title":"てんぷら  THIÊN  Tempura"
+            },
+            {
+            "word":"牛丼",
+            "title":"ぎゅうどん  NGƯU ĐẢM  Món ăn gồm cơm và thịt bò"
+            },
+            {
+            "word":"カレー",
+            "title":"Cari"
+            },
+            {
+            "word":"ラーメン",
+            "title":"Mì"
+            },
+            {
+            "word":"うどん",
+            "title":"Udon"
+            },
+            {
+            "word":"そば",
+            "title":"Soba"
+            },
+            {
+            "word":"納豆",
+            "title":"なっとう  NẠP ĐẬU  Đậu nành lên men"
+            },
+            {
+            "word":"梅干し",
+            "title":"うめぼし  MAI CAN  Mơ muối"
+            },
+            {
+            "word":"わさび",
+            "title":"Mù tạt"
+            },
+            {
+            "word":"できますか",
+            "title":"Bạn có thể không?"
+            },
+            {
+            "word":"分かりますか",
+            "title":"わかりますか  PHÂN  Bạn có hiểu không?"
+            },
+            {
+            "word":"はい、できます",
+            "title":"Vâng, tôi có thể"
+            },
+            {
+            "word":"はい、分かります",
+            "title":"はい、わかります  PHÂN  Vâng, tôi hiểu"
+            },
+            {
+            "word":"はい、少しできます",
+            "title":"はい、すこしできます  THIỂU  Vâng, tôi có thể 1 chút"
+            },
+            {
+            "word":"はい、少し",
+            "title":"はい、すこし  THIỂU  Vâng, 1 chút"
+            },
+            {
+            "word":"すみません。分かりません",
+            "title":"すみません。分かりません  PHÂN  Xin lỗi. Tôi không hiểu"
+            }
+    ]
+}

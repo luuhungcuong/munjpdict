@@ -1,0 +1,326 @@
+{
+    "name": "L12-Idori",
+    "language": "ja-JP",
+    "data": [
+        {
+            "word":"簡単",
+            "title":"かんたん「な」  GIẢN ĐƠN  Đơn giản, dễ"
+            },
+            {
+            "word":"近い",
+            "title":"ちかい  CẬN  Gần"
+            },
+            {
+            "word":"遠い",
+            "title":"とおい  VIỄN  Xa"
+            },
+            {
+            "word":"速い,早い",
+            "title":"はやい  TỐC、TẢO  Nhanh, sớm"
+            },
+            {
+            "word":"遅い",
+            "title":"おそい  TRÌ  Chậm, muộn"
+            },
+            {
+            "word":"[人が～]多い",
+            "title":"[ひとが～] おおい  NHÂN ĐA  Nhiều [người]"
+            },
+            {
+            "word":"[人が～]少ない",
+            "title":"[ひとが～]すくない  NHÂN THIẾU  Ít [người]"
+            },
+            {
+            "word":"温かい,暖かい",
+            "title":"あたたかい  ÔN、NOÃN  Ấm"
+            },
+            {
+            "word":"涼しい",
+            "title":"すずしい  LƯƠNG  Mát"
+            },
+            {
+            "word":"甘い",
+            "title":"あまい  CAM  Ngọt"
+            },
+            {
+            "word":"辛い",
+            "title":"からい  TÂN  Cay"
+            },
+            {
+            "word":"重い",
+            "title":"おもい  TRỌNG  Nặng"
+            },
+            {
+            "word":"軽い",
+            "title":"かるい KHINH nhẹ"
+            },
+            {
+            "word":"[コーヒーが～]いい",
+            "title":"[コーヒーが～]いい  Thích, chọn, dùng [cafe]"
+            },
+            {
+            "word":"季節",
+            "title":"きせつ  QUÝ TIẾT  Mùa"
+            },
+            {
+            "word":"春",
+            "title":"はる XUÂN  Mùa xuân"
+            },
+            {
+            "word":"夏",
+            "title":"なつ  HẠ  Mùa hè"
+            },
+            {
+            "word":"秋",
+            "title":"あき  Thu  mùa thu"
+            },
+            {
+            "word":"冬",
+            "title":"ふゆ  ĐÔNG  Mùa đông"
+            },
+            {
+            "word":"天気",
+            "title":"てんき  THIÊN KHÍ  Thời tiết"
+            },
+            {
+            "word":"雨",
+            "title":"あめ  VŨ  Mưa"
+            },
+            {
+            "word":"雪",
+            "title":"ゆき  TUYẾT  Tuyết"
+            },
+            {
+            "word":"曇り",
+            "title":"くもり  ĐÀM  Có mây"
+            },
+            {
+            "word":"ホテル",
+            "title":"ホテル  Khách sạn"
+            },
+            {
+            "word":"空港",
+            "title":"くうこう  KHÔNG CẢNG  Sân bay"
+            },
+            {
+            "word":"海",
+            "title":"うみ  HẢI  Biển, đại dương"
+            },
+            {
+            "word":"世界",
+            "title":"せかい  THẾ GIỚI  Thế giới"
+            },
+            {
+            "word":"パーティー",
+            "title":"パーティー tiệc"
+            },
+            {
+            "word":"パーティーをします",
+            "title":"パーティーをします  Tổ chức tiệc"
+            },
+            {
+            "word":"[お]祭り",
+            "title":"[お]まつり  TẾ  Lễ hội"
+            },
+            {
+            "word":"すき焼き",
+            "title":"すきやき  THIÊU  Sukiyaki"
+            },
+            {
+            "word":"刺身",
+            "title":"さしみ  THÍCH THÂN  Sashimi"
+            },
+            {
+            "word":"[お]すし",
+            "title":"[お]すし  Sushi"
+            },
+            {
+            "word":"てんぷら",
+            "title":"てんぷら  Tempura"
+            },
+            {
+            "word":"豚肉",
+            "title":"ぶたにく  ĐỒN NHỤC  Thịt heo, thịt lợn"
+            },
+            {
+            "word":"とり肉",
+            "title":"とりにく  NHỤC  Thịt gà"
+            },
+            {
+            "word":"牛肉",
+            "title":"ぎゅうにく  NGƯU NHỤC  Thịt bò"
+            },
+            {
+            "word":"レモン",
+            "title":"レモン  Chanh tây"
+            },
+            {
+            "word":"生け花",
+            "title":"いけばな  SINH HOA  Nghệ thuật cắm hoa"
+            },
+            {
+            "word":"生け花をします",
+            "title":"いけばなをします  SINH HOA  Cắm hoa"
+            },
+            {
+            "word":"紅葉",
+            "title":"もみじ  HỒNG DIỆP  Lá đỏ"
+            },
+            {
+            "word":"どちら（ですか）",
+            "title":"どちら（ですか）  Cái nào"
+            },
+            {
+            "word":"どちらも",
+            "title":"どちらも  Cả hai"
+            },
+            {
+            "word":"一番",
+            "title":"いちばん  NHẤT PHIÊN  Nhất"
+            },
+            {
+            "word":"ずっと",
+            "title":"ずっと  (hơn) hẳn , suốt"
+            },
+            {
+            "word":"初めて",
+            "title":"はじめて  SƠ  Lần đầu tiên"
+            },
+            {
+            "word":"ただいま。",
+            "title":"ただいま。  Tôi đã về rồi đây."
+            },
+            {
+            "word":"お帰りなさい。",
+            "title":"おかえりなさい。 QUY  Anh/Chị đã về đấy à."
+            },
+            {
+            "word":"わあ、すごい人ですね。",
+            "title":"わあ、すごいひとですね。  NHÂN  Ôi, (người) đông quá nhỉ!"
+            },
+            {
+            "word":"疲れました。",
+            "title":"疲（つか）れました。  BÌ  Tôi mệt rồi"
+            },
+            {
+            "word":"祗園祭",
+            "title":"ぎおんまつり  KÌ VIÊN TẾ  Lễ hội Gi-ôn"
+            },
+            {
+            "word":"ホンコン",
+            "title":"ホンコン  Hồng Kong"
+            },
+            {
+            "word":"シンガポール",
+            "title":"シンガポール  Singapore"
+            },
+            {
+            "word":"週末は何をしましたか",
+            "title":"しゅうまつはなにをしましたか  CHU MẠT HÀ  Cuối tuần bạn đã làm gì"
+            },
+            {
+            "word":"映画を見に行きました",
+            "title":"えいがをみにいきました  ÁNH HỌA KIẾN HÀNH  Tôi đã đi xem phim"
+            },
+            {
+            "word":"運動しました",
+            "title":"うんどうしました VẬN ĐỘNG  Vận động"
+            },
+            {
+            "word":"掃除をしました",
+            "title":"そうじをしました  TẢO TRỪ  Đã dọn dẹp"
+            },
+            {
+            "word":"洗濯をしました",
+            "title":"せんたくをしました  TẨY TRẠC  Đã giặt quần áo"
+            },
+            {
+            "word":"家族と話しました",
+            "title":"かぞくとはなしました  GIA TỘC THOẠI  Đã nói chuyện với gia đình"
+            },
+            {
+            "word":"友達と映画に行きました",
+            "title":"ともだちとえいがにいきました  HỮU ĐẠT ÁNH HỌA HÀNH  Đã đi xem phim với bạn"
+            },
+            {
+            "word":"どこにも行きませんでした",
+            "title":"どこにもいきませんでした  HÀNH  Đã không đi đâu cả"
+            },
+            {
+            "word":"何もしませんでした。家でゆっくりしました",
+            "title":"なにもしませんでした。いえでゆっくりしました  HÀ GIA  Đã không làm gì cả. Thong thả thư giãn ở nhà"
+            },
+            {
+            "word":"休日",
+            "title":"きゅうじつ  HƯU NHẬT  Ngày nghỉ"
+            },
+            {
+            "word":"休日明け",
+            "title":"きゅうじつあけ  HƯU NHẬT MINH  Kết thúc ngày nghỉ"
+            },
+            {
+            "word":"休み明け",
+            "title":"やすみあけ  HƯU MINH  Kết thúc kì nghỉ, ngày đầu tiên đi làm sau kì nghỉ"
+            },
+            {
+            "word":"国際フェスティバル",
+            "title":"こくさいフェスティバル  QUỐC TẾ  Lễ hội quốc tế"
+            },
+            {
+            "word":"一日中",
+            "title":"いちにちじゅう  NHẤT NHẬT TRUNG  Suốt ngày, cả ngày"
+            },
+            {
+            "word":"素晴らしい",
+            "title":"すばらしい  TỐ TÌNH  Tuyệt vời"
+            },
+            {
+            "word":"つまらない",
+            "title":"つまらない  Nhàm chán"
+            },
+            {
+            "word":"いまいち(な)",
+            "title":"いまいち(な)  Không tốt lắm"
+            },
+            {
+            "word":"面白かったです",
+            "title":"おもしろかったです  DIỆN BẠCH  Đã rất thú vị"
+            },
+            {
+            "word":"まあまあでした",
+            "title":"まあまあでした  Tạm tạm"
+            },
+            {
+            "word":"唐揚げ",
+            "title":"からあげ  ĐƯỜNG DƯƠNG  Đồ chiên, rán"
+            },
+            {
+            "word":"焼き鳥",
+            "title":"やきとり  THIÊU ĐIỂU  Gà xiên nướng"
+            },
+            {
+            "word":"(焼き鳥)塩",
+            "title":"(やきとり)しお  THIÊU ĐIỂU DIÊM  Muối ( gia vị để nêm nếm món 焼き鳥）"
+            },
+            {
+            "word":"(焼き鳥)たれ",
+            "title":"(やきとり)たれ  THIÊU ĐIỂU  Sốt chấm ( ăn cùng món 焼き鳥)"
+            },
+            {
+            "word":"紅茶",
+            "title":"こうちゃ  HỒNG TRÀ  Hồng trà"
+            },
+            {
+            "word":"ウーロン茶",
+            "title":"ウーロンちゃ  TRÀ  Trà Olong"
+            },
+            {
+            "word":"チョコレートケーキ",
+            "title":"チョコレートケーキ  Bánh socola"
+            },
+            {
+            "word":"チーズケーキ",
+            "title":"チーズケーキ  Bánh phô mai"
+            }
+    ]
+}
