@@ -1,0 +1,134 @@
+{
+    "name": "L15-Idori",
+    "language": "ja-JP",
+    "data": [
+        {
+            "word":"置きます",
+            "title":"おきます  TRÍ  Đặt, để"
+            },
+            {
+            "word":"作ります,造ります",
+            "title":"つくります  TÁC, TẠO  Làm, chế tạo, sản xuất"
+            },
+            {
+            "word":"売ります",
+            "title":"うります  MẠI  Bán"
+            },
+            {
+            "word":"知ります",
+            "title":"しります  TRI  Biết"
+            },
+            {
+            "word":"住みます",
+            "title":"すみます  TRÚ  Sống, ở"
+            },
+            {
+            "word":"研究します",
+            "title":"けんきゅうします  NGHIÊN CỨU  Nghiên cứu"
+            },
+            {
+            "word":"資料",
+            "title":"しりょう  TƯ LIỆU  Tài liệu, tư liệu"
+            },
+            {
+            "word":"カタログ",
+            "title":"カタログ  Ca-ta-lô"
+            },
+            {
+            "word":"時刻表",
+            "title":"じこくひょう  THỜI KHẮC BIỂU  Bảng giờ tàu chạy"
+            },
+            {
+            "word":"服",
+            "title":"ふく  PHỤC  Quần áo"
+            },
+            {
+            "word":"製品",
+            "title":"せいひん  CHẾ PHẨM  Sản phẩm"
+            },
+            {
+            "word":"ソフト",
+            "title":"ソフト  Phần mềm"
+            },
+            {
+            "word":"電子辞書",
+            "title":"でんしじしょ  ĐIỆN TỬ TỪ THƯ  Kim từ điển"
+            },
+            {
+            "word":"経済",
+            "title":"けいざい  KINH TẾ  Kinh tế"
+            },
+            {
+            "word":"市役所",
+            "title":"しやくしょ  THỊ DỊCH SỞ  Tòa thị chính"
+            },
+            {
+            "word":"高校",
+            "title":"こうこう  CAO HIỆU  Trường cấp 3"
+            },
+            {
+            "word":"歯医者",
+            "title":"はいしゃ  XỈ Y GIẢ  Nha sĩ"
+            },
+            {
+            "word":"独身",
+            "title":"どくしん  ĐỘC THÂN  Độc thân"
+            },
+            {
+            "word":"すみません",
+            "title":"すみません  Xin lỗi"
+            },
+            {
+            "word":"皆さん",
+            "title":"みなさん  GIAI Các anh chị, các ông bà, các bạn, quý vị"
+            },
+            {
+            "word":"思い出します",
+            "title":"おもいだします  TƯ XUẤT  Nhớ lại, hồi tưởng"
+            },
+            {
+            "word":"いらっしゃいます",
+            "title":"いらっしゃいます  Kính ngữ của 「います」"
+            },
+            {
+            "word":"ふせん",
+            "title":"ふせん  Giấy ghi nhớ"
+            },
+            {
+            "word":"スマホの充電器",
+            "title":"スマホのじゅうでんき  SUNG ĐIỆN KHÍ  Sạc điện thoại thông minh"
+            },
+            {
+            "word":"電卓",
+            "title":"でんたく  ĐIỆN TRÁC  Máy tính cầm tay"
+            },
+            {
+            "word":"介護",
+            "title":"かいご  GIỚI HỘ  Điều dưỡng"
+            },
+            {
+            "word":"建設",
+            "title":"けんせつ  KIẾN THIẾT  Xây dựng"
+            },
+            {
+            "word":"野菜を作りる",
+            "title":"やさいをつくります  DÃ THÁI TÁC  Trồng rau"
+            },
+            {
+            "word":"専門学校",
+            "title":"せんもんがっこう  CHUYÊN MÔN HỌC HIỆU  Trường chuyên môn"
+            },
+            {
+            "word":"夫婦",
+            "title":"ふうふ  PHU PHỤ  Nội trợ"
+            },
+            {
+            "word":"勉強になる",
+            "title":"べんきょうになる  MIỄN CƯỜNG  Học hỏi được"
+            },
+            {
+            "word":"プログラミング",
+            "title":"プログラミング  Lập trình"
+            }
+    ]
+}

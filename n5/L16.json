@@ -1,0 +1,354 @@
+{
+    "name": "L16-Idori",
+    "language": "ja-JP",
+    "data": [
+        {
+            "word":"[電車に～]乗ります",
+            "title":"[でんしゃに～]のります  ĐIỆN XA THỪA  Đi, lên [tàu]"
+            },
+            {
+            "word":"[電車に～]降ります",
+            "title":"[でんしゃを～]おります  ĐIỆN XA GIÁNG  Xuống [tàu]"
+            },
+            {
+            "word":"[電車に～] 乗り換えます",
+            "title":"のりかえます  ĐIỆN XA THỪA HOÁN  Chuyển, đổi (tàu)"
+            },
+            {
+            "word":"[シャワーを～] 浴びます",
+            "title":"[シャワーを～]あびます  DỤC  Tắm [vòi hoa sen]"
+            },
+            {
+            "word":"入れます",
+            "title":"いれます  NHẬP  Cho vào, bỏ vào"
+            },
+            {
+            "word":"出します",
+            "title":"だします  XUẤT  Lấy ra, đưa ra, gửi"
+            },
+            {
+            "word":"[お金を～] 下ろします",
+            "title":"[おかねを～]おろします  KIM HẠ  Rút [tiền]"
+            },
+            {
+            "word":"[大学に～]入ります",
+            "title":"[だいがくに～] はいります  ĐẠI HỌC NHẬP  Vào, nhập học [đại học]"
+            },
+            {
+            "word":"[大学を～]出ます",
+            "title":"[だいがくを～]でます  ĐẠI HỌC XUẤT  Ra, tốt nghiệp [đại học]"
+            },
+            {
+            "word":"押します",
+            "title":"おします  ÁP  Bấm, ấn (nút)"
+            },
+            {
+            "word":"飲みます",
+            "title":"のみます  ẨM  Uống (bia, rượu)"
+            },
+            {
+            "word":"始めます",
+            "title":"はじめます  THỦY  Bắt đầu"
+            },
+            {
+            "word":"見学します",
+            "title":"けんがくします  KIẾN HỌC  Tham quan kiến tập"
+            },
+            {
+            "word":"電話します",
+            "title":"でんわします  ĐIỆN THOẠI  Gọi điện thoại"
+            },
+            {
+            "word":"若い",
+            "title":"わかい  NHƯỢC  Trẻ"
+            },
+            {
+            "word":"長い",
+            "title":"ながい  TRƯỜNG  Dài"
+            },
+            {
+            "word":"短い",
+            "title":"みじかい  ĐOẢN  Ngắn"
+            },
+            {
+            "word":"明るい",
+            "title":"あかるい  MINH  Sáng"
+            },
+            {
+            "word":"暗い",
+            "title":"くらい  ÁM  Tối"
+            },
+            {
+            "word":"体",
+            "title":"からだ  THỂ  Người, cơ thể"
+            },
+            {
+            "word":"頭",
+            "title":"あたま  ĐẦU  Đầu"
+            },
+            {
+            "word":"髪",
+            "title":"かみ  PHÁT  Tóc"
+            },
+            {
+            "word":"顔",
+            "title":"かお  NHAN  Mặt"
+            },
+            {
+            "word":"目",
+            "title":"め  MỤC  Mắt"
+            },
+            {
+            "word":"耳",
+            "title":"みみ  NHĨ  Tai"
+            },
+            {
+            "word":"鼻",
+            "title":"はな  TỊ  Mũi"
+            },
+            {
+            "word":"口",
+            "title":"くち  KHẨU  Miệng"
+            },
+            {
+            "word":"歯",
+            "title":"は  XỈ  Răng"
+            },
+            {
+            "word":"お腹",
+            "title":"おなか  PHÚC  Bụng"
+            },
+            {
+            "word":"足",
+            "title":"あし  TÚC  Chân"
+            },
+            {
+            "word":"背",
+            "title":"せ  BỐI  Chiều cao (cơ thể)"
+            },
+            {
+            "word":"サービス",
+            "title":"サービス  Dịch vụ"
+            },
+            {
+            "word":"ジョギング",
+            "title":"ジョギング  Việc chạy bộ"
+            },
+            {
+            "word":"ジョギングをします",
+            "title":"ジョギングをします  Chạy bộ"
+            },
+            {
+            "word":"シャワー",
+            "title":"シャワー  Vòi hoa sen"
+            },
+            {
+            "word":"緑",
+            "title":"みどり  LỤC  Màu xanh lá cây"
+            },
+            {
+            "word":"[お]寺",
+            "title":"[お]てら  TỰ  Chùa"
+            },
+            {
+            "word":"神社",
+            "title":"じんじゃ  THẦN XÃ  Đền thờ đạo thần"
+            },
+            {
+            "word":"～番",
+            "title":"～ばん  PHIÊN  Số ～"
+            },
+            {
+            "word":"どうやって",
+            "title":"どうやって  Làm thế nào~"
+            },
+            {
+            "word":"どの N（ですか）",
+            "title":"どの N（ですか）  Cái nào~ (dùng với ba cái trở lên)"
+            },
+            {
+            "word":"どれ（ですか）",
+            "title":"どれ（ですか）  Cái nào~ (dùng với ba cái trở lên)"
+            },
+            {
+            "word":"すごいですね。",
+            "title":"すごいですね。  Thật là tuyệt vời. / Kinh quá nhỉ."
+            },
+            {
+            "word":"[いいえ、]まだまだです。",
+            "title":"[いいえ、]まだまだです。  [không,] tôi còn kém lắm."
+            },
+            {
+            "word":"お引き出しですか。",
+            "title":"おひきだしですか。  DẪN XUẤT  Anh/ chị rút tiền ạ?"
+            },
+            {
+            "word":"まず",
+            "title":"まず  Trước hết, đầu tiên"
+            },
+            {
+            "word":"次に",
+            "title":"つぎに  THỨ  Tiếp theo, sau đó"
+            },
+            {
+            "word":"キャッシュカード",
+            "title":"キャッシュカード  Thẻ ngân hàng, thẻ ATM"
+            },
+            {
+            "word":"暗証番号",
+            "title":"あんしょうばんごう  ÁM CHỨNG PHIÊN HIỆU  Mã số bí mật (mật khẩu)"
+            },
+            {
+            "word":"金額",
+            "title":"きんがく  KIM NGẠCH  Số tiền, khoản tiền"
+            },
+            {
+            "word":"確認",
+            "title":"かくにん  XÁC NHẬN  Sự xác nhận, sự kiểm tra"
+            },
+            {
+            "word":"確認します",
+            "title":"かくにんします  XÁC NHẬN  Xác nhận"
+            },
+            {
+            "word":"ボタン",
+            "title":"ボタン  Nút"
+            },
+            {
+            "word":"バドミントン",
+            "title":"バドミントン  Cầu lông"
+            },
+            {
+            "word":"市",
+            "title":"し  THỊ  Thành phố"
+            },
+            {
+            "word":"体育館",
+            "title":"たいいくかん  THỂ DỤC QUÁN  Nhà thể chất"
+            },
+            {
+            "word":"毎週",
+            "title":"まいしゅう  MỖI CHU  Mỗi tuần"
+            },
+            {
+            "word":"たいてい",
+            "title":"たいてい  Thường"
+            },
+            {
+            "word":"夕方",
+            "title":"ゆうがた  TỊCH PHƯƠNG  Buổi chiều tối"
+            },
+            {
+            "word":"キャッチボール",
+            "title":"キャッチボール  Chơi bắt bóng"
+            },
+            {
+            "word":"野球",
+            "title":"やきゅう  DÃ CẦU  Môn bóng chày"
+            },
+            {
+            "word":"お子さん",
+            "title":"おこさん  TỬ  Con ( của người khác)"
+            },
+            {
+            "word":"とても",
+            "title":"とても  Rất, lắm"
+            },
+            {
+            "word":"賑やか（な）",
+            "title":"にぎやか（な）  CHẨN  Nhộn nhịp, náo nhiệt"
+            },
+            {
+            "word":"便利（な）",
+            "title":"べんり（な）  TIỆN LỢI  Tiện lợi"
+            },
+            {
+            "word":"賑やかで便利",
+            "title":"にぎやかでべんり  CHẨN TIỆN LỢI  Vừa náo nhiệt vừa tiện lợi"
+            },
+            {
+            "word":"町",
+            "title":"まち  ĐINH  Thị trấn"
+            },
+            {
+            "word":"どうですか",
+            "title":"どうですか  Như thế nào"
+            },
+            {
+            "word":"どんな町",
+            "title":"どんなまち  ĐINH  Thị trấn như thế nào"
+            },
+            {
+            "word":"不便（な）",
+            "title":"ふべん（な）  BẤT TIỆN  Bất tiện"
+            },
+            {
+            "word":"静か（な）",
+            "title":"しずか（な）  TĨNH  Yên tĩnh"
+            },
+            {
+            "word":"緑",
+            "title":"みどり  LỤC  Màu xanh lá cây"
+            },
+            {
+            "word":"緑が多い",
+            "title":"みどりがおおい  LỤC ĐA  Nhiều màu xanh, (nhiều cây xanh)"
+            },
+            {
+            "word":"少ない",
+            "title":"すくない  THIỂU  Ít"
+            },
+            {
+            "word":"緑が少ない",
+            "title":"みどりがすくない  LỤC THIỂU  Ít cây xanh"
+            },
+            {
+            "word":"人",
+            "title":"ひと  NHÂN  Người"
+            },
+            {
+            "word":"優しい",
+            "title":"やさしい  ƯU  Tốt bụng, hiền lành"
+            },
+            {
+            "word":"人が優しい",
+            "title":"ひとがやさしい  NHÂN ƯU  Con người tốt bụng"
+            },
+            {
+            "word":"親切（な）",
+            "title":"しんせつ（な）  THÂN THIẾT  Thân thiện, tử tế"
+            },
+            {
+            "word":"人が親切",
+            "title":"ひとがしんせつ  NHÂN THÂN THIẾT  Con người thân thiện, tử tế"
+            },
+            {
+            "word":"冷たい",
+            "title":"つめたい  LÃNH  Lạnh, lạnh lùng ( cảm giác )"
+            },
+            {
+            "word":"人が冷たい",
+            "title":"ひとがつめたい  NHÂN LÃNH  Con người lạnh lùng"
+            },
+            {
+            "word":"田舎",
+            "title":"いなか  ĐIỀN XÁ  Vùng quê, quê"
+            },
+            {
+            "word":"都会",
+            "title":"とかい  ĐÔ HỘI  Đô thị, thành phố"
+            },
+            {
+            "word":"景色",
+            "title":"けしき  CẢNH SẮC  Phong cảnh"
+            },
+            {
+            "word":"景色がきれい（な）",
+            "title":"けしきがきれい（な）  CẢNH SẮC  Phong cảnh đẹp"
+            },
+            {
+            "word":"確かに",
+            "title":"たしかに  XÁC  Chắc chắn, quả là"
+            }
+    ]
+}

@@ -1,0 +1,254 @@
+{
+    "name": "L14-Idori",
+    "language": "ja-JP",
+    "data": [
+        {
+            "word":"つけます",
+            "title":"つけます  Bật (điện, máy điều hòa)"
+            },
+            {
+            "word":"消します",
+            "title":"けします  TIÊU  Tắt (điện, máy điều hòa)"
+            },
+            {
+            "word":"開けます",
+            "title":"あけます  KHAI  Mở (cửa, cửa sổ)"
+            },
+            {
+            "word":"閉めます",
+            "title":"しめます  BẾ  Đóng (cửa, cửa sổ)"
+            },
+            {
+            "word":"急ぎます",
+            "title":"いそぎます  CẤP  Vội, gấp"
+            },
+            {
+            "word":"待ちます",
+            "title":"まちます  ĐÃI  Đợi, chờ"
+            },
+            {
+            "word":"持ちます",
+            "title":"もちます  TRÌ  Mang, cầm"
+            },
+            {
+            "word":"取ります",
+            "title":"とります  THỦ  Lấy (muối)"
+            },
+            {
+            "word":"手伝います",
+            "title":"てつだいます  THỦ TRUYỀN  Giúp (làm việc)"
+            },
+            {
+            "word":"呼びます",
+            "title":"よびます  HÔ  Gọi (taxi, tên)"
+            },
+            {
+            "word":"話します",
+            "title":"はなします  THOẠI  Nói, nói chuyện"
+            },
+            {
+            "word":"使います",
+            "title":"つかいます  SỬ  Dùng, sử dụng"
+            },
+            {
+            "word":"止めます",
+            "title":"とめます  CHỈ  Dừng, đỗ"
+            },
+            {
+            "word":"見せます",
+            "title":"みせます  KIẾN  Cho xem, trình"
+            },
+            {
+            "word":"[住所を～]教えます",
+            "title":"[じゅうしょを～] おしえます TRÚ SỞ GIÁO  Nói, cho biết [địa chỉ]"
+            },
+            {
+            "word":"座ります",
+            "title":"すわります  TỌA  Ngồi"
+            },
+            {
+            "word":"立ちます",
+            "title":"たちます  LẬP  Đứng"
+            },
+            {
+            "word":"[喫茶店に～]入ります",
+            "title":"[きっさてんに～] はいります KHIẾT TRÀ ĐIẾM NHẬP  Vào [quán giải khát]"
+            },
+            {
+            "word":"[喫茶店を～]出ます",
+            "title":"[きっさてんを～]でます  KHIẾT TRÀ ĐIẾM XUẤT  Ra, ra khỏi [quán giải khát]"
+            },
+            {
+            "word":"[雨が～]降ります",
+            "title":"[あめが～]ふります  GIÁNG VŨ  [Mưa~] Rơi"
+            },
+            {
+            "word":"コピーします",
+            "title":"コピーします  Copy"
+            },
+            {
+            "word":"電気",
+            "title":"でんき  ĐIỆN KHÍ  Điện, đèn điện"
+            },
+            {
+            "word":"エアコン",
+            "title":"エアコン  Máy điều hòa"
+            },
+            {
+            "word":"パスポート",
+            "title":"パスポート  Hộ chiếu"
+            },
+            {
+            "word":"名前",
+            "title":"なまえ  DANH TIỀN  Tên"
+            },
+            {
+            "word":"住所",
+            "title":"じゅうしょ  TRÚ SỞ  Địa chỉ"
+            },
+            {
+            "word":"地図",
+            "title":"ちず  ĐỊA ĐỒ  Bản đồ"
+            },
+            {
+            "word":"塩",
+            "title":"しお  DIÊM  Muối"
+            },
+            {
+            "word":"砂糖",
+            "title":"さとう  SA ĐƯỜNG  Đường"
+            },
+            {
+            "word":"問題",
+            "title":"もんだい  VẤN ĐỀ  Câu hỏi, vấn đề"
+            },
+            {
+            "word":"答え",
+            "title":"こたえ  ĐÁP  Câu trả lời"
+            },
+            {
+            "word":"～方",
+            "title":"～かた  PHƯƠNG  Cách ~"
+            },
+            {
+            "word":"読み方",
+            "title":"よみかた  ĐỘC PHƯƠNG  Cách đọc"
+            },
+            {
+            "word":"まっすぐ",
+            "title":"まっすぐ  Thẳng"
+            },
+            {
+            "word":"ゆっくり",
+            "title":"ゆっくり  Chậm, thong thả, thoải mái"
+            },
+            {
+            "word":"すぐ",
+            "title":"すぐ  Ngay, lập tức"
+            },
+            {
+            "word":"また",
+            "title":"また  Lại (~đến)"
+            },
+            {
+            "word":"後で",
+            "title":"あとで  HẬU  Sau"
+            },
+            {
+            "word":"もう少し",
+            "title":"もう すこし  THIẾU  Thêm một chút nữa thôi"
+            },
+            {
+            "word":"もう～",
+            "title":"もう～  Thêm~"
+            },
+            {
+            "word":"さあ",
+            "title":"さあ  Thôi/nào (dùng để thúc giục hoặc khuyến khích ai làm gì.)"
+            },
+            {
+            "word":"あれ？",
+            "title":"あれ？  Ô! (câu cảm thán khi phát hiện hoặc thấy cái gì đó lạ, hoặc bất ngờ)"
+            },
+            {
+            "word":"信号を右へ曲がってください",
+            "title":"しんごうを みぎへ まがってください  TÍN HIỆU HỮU KHÚC  Anh/ Chị rẽ phải ở chổ đèn tín hiệu."
+            },
+            {
+            "word":"これでお願いします",
+            "title":"これでおねがいします  NGUYỆN  Gởi anh tiền này."
+            },
+            {
+            "word":"お釣り",
+            "title":"つり  ĐIẾU  Tiền lẻ"
+            },
+            {
+            "word":"段ボール",
+            "title":"だんボール  ĐOẠN  Thùng carton"
+            },
+            {
+            "word":"ドライバー",
+            "title":"ドライバー  Tua vít"
+            },
+            {
+            "word":"ごみ",
+            "title":"ごみ  Rác"
+            },
+            {
+            "word":"窓",
+            "title":"まど  SONG  Cửa sổ"
+            },
+            {
+            "word":"プロジェクタ",
+            "title":"プロジェクタ  Máy chiếu"
+            },
+            {
+            "word":"リモコン",
+            "title":"リモコン  Điều khiển"
+            },
+            {
+            "word":"置いて(ください)",
+            "title":"おいて(ください)  TRÍ  Hãy đặt ở"
+            },
+            {
+            "word":"取って(ください)",
+            "title":"とって(ください)  THỦ  Hãy lấy"
+            },
+            {
+            "word":"並べて(ください)",
+            "title":"ならべて(ください)  TỊNH  Hãy xếp"
+            },
+            {
+            "word":"片付けて(ください)",
+            "title":"かたづけて(ください)  PHIẾN PHÓ  Hãy dọn dẹp"
+            },
+            {
+            "word":"捨てて(ください)",
+            "title":"すてて(ください)  XẢ  Hãy vứt"
+            },
+            {
+            "word":"持って来て(ください)",
+            "title":"もってきて(ください)  TRÌ LAI  Hãy mang đến"
+            },
+            {
+            "word":"持って行って(ください)",
+            "title":"もっていって(ください)  TRÌ HÀNH  Hãy mang đi"
+            },
+            {
+            "word":"閉めて(ください)",
+            "title":"しめて(ください)  BẾ  Hãy đóng lại"
+            },
+            {
+            "word":"開けて(ください)",
+            "title":"あけて(ください)  KHAI  Hãy mở ra"
+            },
+            {
+            "word":"手伝って(ください)",
+            "title":"てつだって(ください)  THỦ TRUYỀN  Hãy giúp (tôi)"
+            },
+            {
+            "word":"ちょっと手伝って(ください)",
+            "title":"ちょっとてつだって（ください）  THỦ TRUYỀN Hãy giúp tôi 1 chút"
+            }
+    ]
+}
