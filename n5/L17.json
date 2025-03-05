@@ -2,6 +2,337 @@
     "name": "L17-Idori",
     "language": "ja-JP",
     "data": [
-        
+        {
+            "word":"覚えます",
+            "title":"おぼえます  GIÁC  Nhớ"
+            },
+            {
+            "word":"忘れます",
+            "title":"わすれます  VONG  Quên"
+            },
+            {
+            "word":"なくします",
+            "title":"なくします  Mất, đánh mất"
+            },
+            {
+            "word":"払います",
+            "title":"はらいます  PHẤT  Trả tiền"
+            },
+            {
+            "word":"返します",
+            "title":"かえします  PHẢN  Trả lại"
+            },
+            {
+            "word":"出かけます",
+            "title":"でかけます  XUẤT  Ra ngoài"
+            },
+            {
+            "word":"脱ぎます",
+            "title":"ぬぎます  THOÁT  Cởi (quần áo, giầy)"
+            },
+            {
+            "word":"持って行きます",
+            "title":"もっていきます  TRÌ HÀNH  Mang đi, mang theo"
+            },
+            {
+            "word":"持って来ます",
+            "title":"もってきます  TRÌ LAI  Mang đến"
+            },
+            {
+            "word":"心配します",
+            "title":"しんぱいします  TÂM PHỐI  Lo lắng"
+            },
+            {
+            "word":"残業します",
+            "title":"ざんぎょうします  TÀN NGHIỆP  Làm thêm, làm quá giờ"
+            },
+            {
+            "word":"出張します",
+            "title":"しゅっちょうします  XUẤT TRƯƠNG  Đi công tác"
+            },
+            {
+            "word":"［薬を～］飲みます",
+            "title":"のみます  DƯỢC ẨM  Uống [thuốc]"
+            },
+            {
+            "word":"［おふろに～］入ります",
+            "title":"はいります  NHẬP  Tắm bồn [vào bồn tắm]"
+            },
+            {
+            "word":"大切",
+            "title":"たいせつ  ĐẠI THIẾT  Quan trọng, quý giá"
+            },
+            {
+            "word":"大丈夫",
+            "title":"だいじょうぶ  ĐẠI TRƯỢNG PHU  Không sao, không có vấn đề gì"
+            },
+            {
+            "word":"危ない",
+            "title":"あぶない  NGUY  Nguy hiểm"
+            },
+            {
+            "word":"禁煙",
+            "title":"きんえん  CẤM YÊN  Cấm hút thuốc"
+            },
+            {
+            "word":"[健康]保険証",
+            "title":"[けんこう] ほけんしょう KIỆN KHANG BẢO HIỂM CHỨNG  Thẻ bảo hiểm [y tế]"
+            },
+            {
+            "word":"熱",
+            "title":"ねつ  NHIỆT  Sốt"
+            },
+            {
+            "word":"病気",
+            "title":"びょうき  BỆNH KHÍ  Ốm, bệnh"
+            },
+            {
+            "word":"薬",
+            "title":"くすり  DƯỢC  Thuốc"
+            },
+            {
+            "word":"[お]ふろ",
+            "title":"[お]ふろ  Bồn tắm"
+            },
+            {
+            "word":"上着",
+            "title":"うわぎ  THƯỢNG TRƯỚC  Áo khoác"
+            },
+            {
+            "word":"下着",
+            "title":"したぎ  HẠ TRƯỚC  Quần áo lót"
+            },
+            {
+            "word":"２，３日",
+            "title":"２，３にち  NHẬT  2,3 ngày, vài ngày"
+            },
+            {
+            "word":"２，３～",
+            "title":"２，３～  Vài~ (\"~\" là hậu tố đếm)"
+            },
+            {
+            "word":"～までに",
+            "title":"～までに  Trước ~ (chỉ thời hạn)"
+            },
+            {
+            "word":"ですから",
+            "title":"ですから  Vì thế"
+            },
+            {
+            "word":"どうしましたか。",
+            "title":"どうしましたか。  Có vần đề gì?Anh/chị bị làm sao?"
+            },
+            {
+            "word":"のど",
+            "title":"のど  Họng"
+            },
+            {
+            "word":"[～が]痛いです。",
+            "title":"～がいたいです。  THỐNG  Tôi bị đau [~]."
+            },
+            {
+            "word":"かぜ",
+            "title":"かぜ  Cảm, cúm"
+            },
+            {
+            "word":"それから",
+            "title":"それから  Và, sau đó"
+            },
+            {
+            "word":"お大事に",
+            "title":"おだいじに  ĐẠI SỰ  Anh/ chị nhớ giữ gìn sức khỏe"
+            },
+            {
+            "word":"症状",
+            "title":"しょうじょう  CHỨNG TRẠNG  Triệu chứng"
+            },
+            {
+            "word":"インフルエンザ",
+            "title":"インフルエンザ  Cúm virut"
+            },
+            {
+            "word":"受付",
+            "title":"うけつけ  THỤ PHÓ  Quầy lễ tân"
+            },
+            {
+            "word":"順番",
+            "title":"じゅんばん  THUẬN PHIÊN  Thứ tự"
+            },
+            {
+            "word":"保険証",
+            "title":"ほけんしょう  BẢO HIỂM CHỨNG  Sổ bảo hiểm, giấy bảo hiểm"
+            },
+            {
+            "word":"問診票",
+            "title":"もんしんひょう  VẤN CHẨN PHIẾU  Bảng câu hỏi (trả lời khi đi khám bệnh)"
+            },
+            {
+            "word":"診察室",
+            "title":"しんさつしつ  CHẤN SÁT THẤT  Phòng khám bệnh"
+            },
+            {
+            "word":"薬を飲みます（飲む）",
+            "title":"くすりをのみます （のむ） DƯỢC ẨM  Uống thuốc"
+            },
+            {
+            "word":"仕事に行きます（行く）",
+            "title":"しごとにいきます（いく）  SĨ SỰ HÀNH  Đi làm"
+            },
+            {
+            "word":"人に会います",
+            "title":"ひとにあいます（あう）  NHÂN HỘI  Gặp người khác"
+            },
+            {
+            "word":"柔らかい",
+            "title":"やわらかい  NHU  Mềm"
+            },
+            {
+            "word":"柔らかい物",
+            "title":"やわらかいもの  NHU VẬT  Đồ mềm"
+            },
+            {
+            "word":"柔らかい物を食べます（食べる）",
+            "title":"やわらかいものをたべます（たべる）  NHU VẬT THỰC  Ăn đồ mềm"
+            },
+            {
+            "word":"辛い物",
+            "title":"からいもの  TÂN VẬT  Món cay, đồ cay"
+            },
+            {
+            "word":"辛い物を食べます（食べる）",
+            "title":"からいものをたべます（たべる） TÂN VẬT THỰC  Ăn món cay, đồ cay"
+            },
+            {
+            "word":"診察券",
+            "title":"しんさつけん  CHẨN SÁT KHOÁN  Phiếu đăng kí khám bệnh"
+            },
+            {
+            "word":"処方せん",
+            "title":"しょほうせん  XỨ PHƯƠNG  Đơn thuốc"
+            },
+            {
+            "word":"お持ちですか（持ちます・持つ）",
+            "title":"おもちですか（もちます・もつ）  TRÌ  Mang (cách nói lịch sự của 持っていますか）"
+            },
+            {
+            "word":"どうされましたか",
+            "title":"どうされましたか  Bạn làm sao vậy? (cách nói lịch sự của どうしましたか）"
+            },
+            {
+            "word":"見せてください（見せます・見せる）",
+            "title":"みせてください（みせます・みせる）  KIẾN  Hãy cho xem"
+            },
+            {
+            "word":"口",
+            "title":"くち  KHẨU  Miệng"
+            },
+            {
+            "word":"開けます（開ける）",
+            "title":"あけます（あける）  KHAI  Mở"
+            },
+            {
+            "word":"口を開けます（開ける）",
+            "title":"くちをあけます（あける）  KHẨU KHAI  Há miệng"
+            },
+            {
+            "word":"検査（します・する）",
+            "title":"けんさ（します・する）  KIỂM TRA  Kiểm tra"
+            },
+            {
+            "word":"しばらく",
+            "title":"しばらく  1 lúc, 1 lát"
+            },
+            {
+            "word":"A型",
+            "title":"エーがた  HÌNH  Nhóm A"
+            },
+            {
+            "word":"すぐ",
+            "title":"すぐ  Ngay lập tức"
+            },
+            {
+            "word":"下がります（下がる）",
+            "title":"さがります（さがる）  HẠ  Hạ, giảm"
+            },
+            {
+            "word":"熱はすぐ下がります",
+            "title":"ねつはすぐさがります  NHIỆT HẠ  Hạ sốt ngay"
+            },
+            {
+            "word":"おかゆ",
+            "title":"おかゆ  Cháo"
+            },
+            {
+            "word":"食べないでください",
+            "title":"たべないでください  THỰC  Đừng ăn"
+            },
+            {
+            "word":"会計（します・する）",
+            "title":"かいけい（します・する）  HỘI KẾ  Thanh toán, tính tiền"
+            },
+            {
+            "word":"薬局",
+            "title":"やっきょく  DƯỢC CỤC  Nhà thuốc"
+            },
+            {
+            "word":"もらいます（もらう）",
+            "title":"もらいます（もらう）  Nhận"
+            },
+            {
+            "word":"早退（します・する）",
+            "title":"そうたい（します・する）  TẢO THOÁI  Về sớm"
+            },
+            {
+            "word":"休暇",
+            "title":"きゅうか  HƯU HẠ  Nghỉ phép"
+            },
+            {
+            "word":"休暇を取りたいです",
+            "title":"きゅうかをとりたいです  HƯU HẠ THỦ  Xin nghỉ phép"
+            },
+            {
+            "word":"事前",
+            "title":"じぜん  SỰ TIỀN  Trước (thông báo trước, liên lạc trước..)"
+            },
+            {
+            "word":"上司",
+            "title":"じょうし  THƯỢNG TƯ/TI  Cấp trên"
+            },
+            {
+            "word":"社長",
+            "title":"しゃちょう  XÃ TRƯỜNG  Giám đốc"
+            },
+            {
+            "word":"ちょっと、いいでしょうか",
+            "title":"ちょっと、いいでしょうか  Tôi có thể làm phiền 1 chút được không ạ"
+            },
+            {
+            "word":"役所",
+            "title":"やくしょ  DỊCH SỞ  Cơ quan hành chính"
+            },
+            {
+            "word":"用事",
+            "title":"ようじ  DỤNG SỰ  Việc bận"
+            },
+            {
+            "word":"済みます（済む）",
+            "title":"すみます（すむ）  TẾ  Xong, làm xong"
+            },
+            {
+            "word":"用事は済みましたか",
+            "title":"ようじはすみましたか  DỤNG SỰ TẾ  Việc bận của bạn đã xong chưa?"
+            },
+            {
+            "word":"主任",
+            "title":"しゅにん  CHỦ NHIỆM  Người phụ trách chính"
+            },
+            {
+            "word":"できたら",
+            "title":"できたら  Nếu có thể"
+            },
+            {
+            "word":"別にかまいません",
+            "title":"べつにかまいません  BIỆT  Không vấn đề gì quan trọng đâu"
+            }
     ]
 }
