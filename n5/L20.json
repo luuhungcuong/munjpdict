@@ -1,0 +1,182 @@
+{
+    "name": "L20-Idori",
+    "language": "ja-JP",
+    "data": [
+        {
+            "word":"[ビザが～] 要ります",
+            "title":"[ビザが～]いります YẾU  Cần [thị thực (visa)]"
+            },
+            {
+            "word":"調べます",
+            "title":"しらべます  ĐIỀU  Tìm hiểu, điều tra, xem"
+            },
+            {
+            "word":"修理します",
+            "title":"しゅうりします  TU LÝ  Sửa chữa, tu sửa"
+            },
+            {
+            "word":"僕",
+            "title":"ぼく  BỘC  Tớ (bằng với わたし, con trai dùng)"
+            },
+            {
+            "word":"君",
+            "title":"きみ  QUÂN  Cậu, bạn (bằng với あなた.)"
+            },
+            {
+            "word":"～君",
+            "title":"～くん  QUÂN  Anh~, cậu~ (bằng với 「～さん」)"
+            },
+            {
+            "word":"うん",
+            "title":"うん  Ừ (bằng với 「はい」)"
+            },
+            {
+            "word":"ううん",
+            "title":"ううん  Không (bằng với 「いいえ」)"
+            },
+            {
+            "word":"ことば",
+            "title":"ことば  Từ, tiếng"
+            },
+            {
+            "word":"着物",
+            "title":"きもの  TRƯỚC VẬT  Kimono"
+            },
+            {
+            "word":"ビザ",
+            "title":"ビザ  Thị thực, Visa"
+            },
+            {
+            "word":"初め",
+            "title":"はじめ  SƠ  Ban đầu, đầu tiên"
+            },
+            {
+            "word":"終わり",
+            "title":"おわり  CHUNG  Kết thúc"
+            },
+            {
+            "word":"こっち",
+            "title":"こっち  Phía này, chỗ này (bằng với 「こちら」)"
+            },
+            {
+            "word":"そっち",
+            "title":"そっち  Phía đó, chỗ đó (bằng với 「そちら」)"
+            },
+            {
+            "word":"あっち",
+            "title":"あっち  Phía kia, chỗ kia (bằng với 「あちら」)"
+            },
+            {
+            "word":"どっち",
+            "title":"どっち  Cái nào, phía nào, đâu (bằng với 「どちら」)"
+            },
+            {
+            "word":"みんなで",
+            "title":"みんなで  Mọi người cùng"
+            },
+            {
+            "word":"～けど",
+            "title":"～けど  Nhưng ( bằng với 「が」)"
+            },
+            {
+            "word":"お腹がいっぱいです",
+            "title":"おなかがいっぱいです  PHÚC  (Tôi) no rồi"
+            },
+            {
+            "word":"よかったら",
+            "title":"よかったら  Nếu anh/chị thích thì"
+            },
+            {
+            "word":"いろいろ",
+            "title":"いろいろ  Nhiều thứ"
+            },
+            {
+            "word":"先輩",
+            "title":"せんぱい  TIỀN BỐI  Tiền bối"
+            },
+            {
+            "word":"後輩",
+            "title":"こうはい  HẬU BỐI  Hậu bối"
+            },
+            {
+            "word":"友達",
+            "title":"ともだち  HỮU ĐẠT  Bạn bè"
+            },
+            {
+            "word":"知り合い",
+            "title":"しりあい  TRI HỢP  Người quen"
+            },
+            {
+            "word":"お久しぶりです （久しぶり）",
+            "title":"おひさしぶり  CỬU  Đã lâu không gặp"
+            },
+            {
+            "word":"お元気ですか（元気）",
+            "title":"おげんきですか  NGUYÊN KHÍ  Bạn có khỏe không"
+            },
+            {
+            "word":"おかげさまで",
+            "title":"おかげさまで  Nhờ ~, Ơn trời ~"
+            },
+            {
+            "word":"かっこいい",
+            "title":"かっこいい  Ngầu, đẹp trai"
+            },
+            {
+            "word":"可愛い",
+            "title":"かわいい  KHẢ ÁI  Đáng yêu"
+            },
+            {
+            "word":"高い",
+            "title":"たかい  CAO  Cao, đắt"
+            },
+            {
+            "word":"安い",
+            "title":"やすい  AN  Rẻ"
+            },
+            {
+            "word":"面白い",
+            "title":"おもしろい  DIỆN BẠCH  Thú vị"
+            },
+            {
+            "word":"素敵（な）",
+            "title":"すてき（な）  TỐ ĐỊCH  Tuyệt vời, đẹp"
+            },
+            {
+            "word":"おしゃれ（な）",
+            "title":"おしゃれ（な）  Ăn diện, trưng diện"
+            },
+            {
+            "word":"変（な）",
+            "title":"へん（な）  BIẾN  Lạ"
+            },
+            {
+            "word":"ちょっと変ですね",
+            "title":"ちょっとへんですね  BIẾN  Hơi lạ 1 chút nhỉ"
+            },
+            {
+            "word":"それに",
+            "title":"それに  Thêm vào đó"
+            },
+            {
+            "word":"本当！",
+            "title":"ほんとう！  BẢN ĐƯƠNG  Thật sự là như vậy"
+            },
+            {
+            "word":"～でございます（～です）",
+            "title":"～でございます（～です）  Lịch sự của です"
+            },
+            {
+            "word":"～になります（～です）",
+            "title":"～になります（～です）  Lịch sự của です"
+            },
+            {
+            "word":"ご案内します/ご案内いたします",
+            "title":"ごあんないします / ごあんないいたします ÁN NỘI  Hướng dẫn"
+            },
+            {
+            "word":"とか",
+            "title":"とか  Nào là"
+            }
+    ]
+}

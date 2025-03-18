@@ -1,5 +1,214 @@
 {
     "name": "L18-Idori",
     "language": "ja-JP",
-    "data": []
+    "data": [
+        {
+            "word":"できます",
+            "title":"できます  Có thể"
+            },
+            {
+            "word":"洗います",
+            "title":"あらいます  TẨY  Rửa"
+            },
+            {
+            "word":"弾きます",
+            "title":"ひきます  ĐÀN, ĐẠN  Chơi (nhạc cụ)"
+            },
+            {
+            "word":"歌います",
+            "title":"うたいます  CA  Hát"
+            },
+            {
+            "word":"集めます",
+            "title":"あつめます  TẬP  Sưu tầm, thu thập"
+            },
+            {
+            "word":"捨てます",
+            "title":"すてます  XẢ  Vứt, bỏ đi"
+            },
+            {
+            "word":"換えます",
+            "title":"かえます  HOÁN  Đổi"
+            },
+            {
+            "word":"運転します",
+            "title":"うんてんします  VẬN CHUYỂN  Lái"
+            },
+            {
+            "word":"予約します",
+            "title":"よやくします  DỰ ƯỚC  Đặt chỗ, đặt trước"
+            },
+            {
+            "word":"ピアノ",
+            "title":"ピアノ  Đàn Piano"
+            },
+            {
+            "word":"メートル",
+            "title":"メートル  mét"
+            },
+            {
+            "word":"現金",
+            "title":"げんきん  HIỆN KIM  Tiền mặt"
+            },
+            {
+            "word":"趣味",
+            "title":"しゅみ  THÚ VỊ  Sở thích, thú vui"
+            },
+            {
+            "word":"日記",
+            "title":"にっき  NHẬT KÝ  Nhật ký"
+            },
+            {
+            "word":"[お]祈り",
+            "title":"[お]いのり  KỲ  Việc cầu nguyện"
+            },
+            {
+            "word":"[お]祈りをします",
+            "title":"[お]いのりをします  KỲ  Cầu nguyện"
+            },
+            {
+            "word":"課長",
+            "title":"かちょう  KHÓA TRƯỜNG  Tổ trưởng"
+            },
+            {
+            "word":"部長",
+            "title":"ぶちょう  BỘ TRƯỜNG  Trưởng phòng"
+            },
+            {
+            "word":"社長",
+            "title":"しゃちょう  XÃ TRƯỜNG  Giám đốc"
+            },
+            {
+            "word":"動物",
+            "title":"どうぶつ  ĐỘNG VẬT  Động vật"
+            },
+            {
+            "word":"馬",
+            "title":"うま  MÃ  Ngựa"
+            },
+            {
+            "word":"インターネット",
+            "title":"インターネット  Internet"
+            },
+            {
+            "word":"特に",
+            "title":"とくに  ĐẶC  Đặt biệt là"
+            },
+            {
+            "word":"へえ",
+            "title":"へえ  Thế à! (dùng để biểu thị sự ngạc nhiên hoặc quan tâm)"
+            },
+            {
+            "word":"それはおもしろいですね。",
+            "title":"それはおもしろいですね。  Hay thật nhỉ."
+            },
+            {
+            "word":"なかなか",
+            "title":"なかなか  Khó mà~, mãi mà"
+            },
+            {
+            "word":"ほんとうですか。",
+            "title":"ほんとうですか。  Thật không ạ?"
+            },
+            {
+            "word":"ぜひ",
+            "title":"ぜひ  Nhất định, rất"
+            },
+            {
+            "word":"スポーツ",
+            "title":"スポーツ  Thể thao"
+            },
+            {
+            "word":"音楽",
+            "title":"おんがく  ÂM LẠC  Âm nhạc"
+            },
+            {
+            "word":"映画",
+            "title":"えいが  ÁNH HỌA  Phim"
+            },
+            {
+            "word":"買い物",
+            "title":"かいもの  MÃI VẬT  Mua sắm"
+            },
+            {
+            "word":"料理",
+            "title":"りょうり  LIỆU LÍ  Món ăn"
+            },
+            {
+            "word":"ゲーム",
+            "title":"ゲーム  Trò chơi, game"
+            },
+            {
+            "word":"漫画",
+            "title":"まんが・マンガ  MẠN HỌA  Truyện tranh"
+            },
+            {
+            "word":"アニメ",
+            "title":"アニメ  Phim hoạt hình"
+            },
+            {
+            "word":"好き（な）",
+            "title":"すき（な）  HẢO  Thích"
+            },
+            {
+            "word":"大好き（な）",
+            "title":"だいすき（な）  ĐẠI HẢO  Rất thích"
+            },
+            {
+            "word":"趣味",
+            "title":"しゅみ  THÚ VỊ  Sở thích"
+            },
+            {
+            "word":"映画を見ます（見る）",
+            "title":"えいがをみます（みる）  ÁNH HỌA  Xem phim"
+            },
+            {
+            "word":"音楽を聞きます（聞く）",
+            "title":"おんがくをききます（きく） ÂM LẠC VĂN  Nghe nhạc"
+            },
+            {
+            "word":"本を読みます（読む）",
+            "title":"ほんをよみます（よむ）  BẢN ĐỘC  Đọc sách"
+            },
+            {
+            "word":"美味しい物を食べます（食べる）",
+            "title":"おいしいものをたべます（たべる）  MỸ VỊ VẬT THỰC  Ăn đồ ăn ngon"
+            },
+            {
+            "word":"写真を撮ります（撮る）",
+            "title":"しゃしんをとります（とる） TẢ CHÂN TOÁT  Chụp ảnh"
+            },
+            {
+            "word":"ピアノ・ギターを弾きます（弾く）",
+            "title":"ピアノ・ギターをひきます（ひく）  ĐÀN  Đánh đàn"
+            },
+            {
+            "word":"おしゃべりをします (する）",
+            "title":"おしゃべりをします (する） Nói chuyện, tám chuyện"
+            },
+            {
+            "word":"料理をします（する）",
+            "title":"りょうりをします（する） LIỆU LÝ  Nấu ăn"
+            },
+            {
+            "word":"旅行をします（する）",
+            "title":"りょこうをします（する）  LỮ HÀNH  Du lịch"
+            },
+            {
+            "word":"テニスをします（する）",
+            "title":"テニスをします（する）  Chơi tenis"
+            },
+            {
+            "word":"ゲームをします（する）",
+            "title":"ゲームをします（する）  Chơi game"
+            },
+            {
+            "word":"寝ます（寝る）",
+            "title":"ねます（ねる）  TẨM  Ngủ"
+            },
+            {
+            "word":"話します（話す）",
+            "title":"はなします（はなす）  THOẠI  Nói"
+            }
+    ]
 }

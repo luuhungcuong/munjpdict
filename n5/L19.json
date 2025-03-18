@@ -1,5 +1,310 @@
 {
     "name": "L19-Idori",
     "language": "ja-JP",
-    "data": []
+    "data": [
+        {
+            "word":"[山に～]登ります",
+            "title":"のぼります  SƠN ĐĂNG  Leo [núi]"
+            },
+            {
+            "word":"[ホテルに～] 泊まります",
+            "title":"とまります  BẠC  Trọ [ở khách sạn]"
+            },
+            {
+            "word":"掃除します",
+            "title":"そうじします  TẢO TRỪ  Dọn vệ sinh"
+            },
+            {
+            "word":"洗濯します",
+            "title":"せんたくします  TẨY TRẠC  Giặt"
+            },
+            {
+            "word":"なります",
+            "title":"なります  Trở thành, trở nên"
+            },
+            {
+            "word":"眠い",
+            "title":"ねむい  MIÊN  Buồn ngủ"
+            },
+            {
+            "word":"強い",
+            "title":"つよい  CƯỜNG  Mạnh"
+            },
+            {
+            "word":"弱い",
+            "title":"よわい  NHƯỢC  Yếu"
+            },
+            {
+            "word":"ゴルフをします",
+            "title":"ゴルフをします  Gôn"
+            },
+            {
+            "word":"ゴルフ",
+            "title":"ゴルフ  Chơi gôn"
+            },
+            {
+            "word":"相撲",
+            "title":"すもう  TƯƠNG PHÁC  Vật Sumo"
+            },
+            {
+            "word":"お茶",
+            "title":"おちゃ  TRÀ  Trà"
+            },
+            {
+            "word":"日",
+            "title":"ひ  NHẬT  Ngày"
+            },
+            {
+            "word":"調子",
+            "title":"ちょうし  ĐIỀU TỬ  Tình trạng, trạng thái"
+            },
+            {
+            "word":"一度",
+            "title":"いちど  NHẤT ĐỘ  Một lần"
+            },
+            {
+            "word":"一度も",
+            "title":"いちども  NHẤT ĐỘ  Chưa lần nào"
+            },
+            {
+            "word":"だんだん",
+            "title":"だんだん  Dần dần"
+            },
+            {
+            "word":"もうすぐ",
+            "title":"もうすぐ  Sắp"
+            },
+            {
+            "word":"おかげさまで",
+            "title":"おかげさまで  Nhờ trời ~, Nhờ ơn anh/ chị mà ~"
+            },
+            {
+            "word":"でも",
+            "title":"でも  Nhưng"
+            },
+            {
+            "word":"乾杯",
+            "title":"かんぱい  CAN BÔI  Nâng cốc!/cạn chén"
+            },
+            {
+            "word":"ダイエット",
+            "title":"ダイエット  Việc ăn kiêng, chế độ giảm cân"
+            },
+            {
+            "word":"ダイエットをします",
+            "title":"ダイエットをします  Ăn kiêng"
+            },
+            {
+            "word":"無理（な）",
+            "title":"むり（な）  VÔ LÍ  Không thể, quá sức"
+            },
+            {
+            "word":"体に いい",
+            "title":"からだに いい  THỂ  Tốt cho sức khỏe"
+            },
+            {
+            "word":"野球",
+            "title":"やきゅう  DÃ CẦU  Bóng chày"
+            },
+            {
+            "word":"Vたこと(が)あります",
+            "title":"Vたこと(が)あります  Đã từng làm V"
+            },
+            {
+            "word":"野球、したこと(が)ありますか",
+            "title":"やきゅう、したこと(が)ありますか  DÃ CẦU  Bạn đã từng chơi môn bóng chày chưa?"
+            },
+            {
+            "word":"誘います（誘う）",
+            "title":"さそいます（さそう）  DỤ  Mời"
+            },
+            {
+            "word":"友達を誘います（誘う）",
+            "title":"ともだちをさそいます（さそう） HỮU ĐẠT DỤ  Mời bạn bè"
+            },
+            {
+            "word":"経験",
+            "title":"けいけん  KINH NGHIỆM  Kinh nghiệm"
+            },
+            {
+            "word":"興味",
+            "title":"きょうみ  HƯNG VỊ  Hứng thú"
+            },
+            {
+            "word":"尋ねます（尋ねる）",
+            "title":"たずねます（たずねる）  TẦM  Hỏi"
+            },
+            {
+            "word":"食事（をします・する）",
+            "title":"しょくじ（をします・する）  THỰC SỰ  Dùng bữa"
+            },
+            {
+            "word":"買い物（をします・する）",
+            "title":"かいもの（をします・する）  MÃI VẬT  Mua sắm"
+            },
+            {
+            "word":"知り合い",
+            "title":"しりあい  TRI HỢP  Người quen"
+            },
+            {
+            "word":"動物園",
+            "title":"どうぶつえん  ĐỘNG VẬT VIÊN  Sở thú"
+            },
+            {
+            "word":"お城",
+            "title":"おしろ  THÀNH  Thành, lâu đài"
+            },
+            {
+            "word":"博物館",
+            "title":"はくぶつかん  BÁC VẬT QUÁN  Bảo tàng"
+            },
+            {
+            "word":"アウトレットモール",
+            "title":"アウトレットモール  Trung tâm thương mại hàng Outlet"
+            },
+            {
+            "word":"プロレス",
+            "title":"プロレス  Đấu vật chuyên nghiệp"
+            },
+            {
+            "word":"タワー",
+            "title":"タワー  Tháp"
+            },
+            {
+            "word":"市民体育館",
+            "title":"しみんたいいくかん  THỊ DÂN THỂ DỤC QUÁN  Nhà thể chất thành phố"
+            },
+            {
+            "word":"季節",
+            "title":"きせつ  QUÝ TIẾT  Mùa"
+            },
+            {
+            "word":"春",
+            "title":"はる  XUÂN  Mùa xuân"
+            },
+            {
+            "word":"桜の花",
+            "title":"さくらのはな  ANH HOA  Hoa anh đào"
+            },
+            {
+            "word":"咲きます（咲く）",
+            "title":"さきます（さく）  TIẾU  Nở"
+            },
+            {
+            "word":"桜の花が咲きます （咲く）",
+            "title":"さくらのはながさきます（さく） ANH HOA TIẾU  Hoa anh đào nở"
+            },
+            {
+            "word":"暖かい",
+            "title":"あたたかい  NOÃN  Ấm"
+            },
+            {
+            "word":"暖かくなります（なる）",
+            "title":"あたたかくなります（なる）  NOÃN  Trở nên ấm"
+            },
+            {
+            "word":"梅雨",
+            "title":"つゆ  MAI VŨ  Mùa mưa"
+            },
+            {
+            "word":"雨",
+            "title":"あめ  VŨ  Mưa"
+            },
+            {
+            "word":"降ります（降る）",
+            "title":"ふります（ふる）  GIÁNG  Rơi ( mưa, tuyết...)"
+            },
+            {
+            "word":"雨が降ります（降る）",
+            "title":"あめがふります（ふる）  VŨ GIÁNG  Mưa rơi"
+            },
+            {
+            "word":"たくさん",
+            "title":"たくさん  Nhiều"
+            },
+            {
+            "word":"じめじめします（する）",
+            "title":"じめじめします（する）  Dính ( khi người ra mồ hôi, cảm giác dính dính )"
+            },
+            {
+            "word":"蒸し暑い",
+            "title":"むしあつい  CHƯNG THỬ  Oi bức, nóng nực"
+            },
+            {
+            "word":"夏",
+            "title":"なつ HẠ  Mùa hè"
+            },
+            {
+            "word":"暑い",
+            "title":"あつい  THỬ  Nóng"
+            },
+            {
+            "word":"セミ",
+            "title":"セミ  Con ve"
+            },
+            {
+            "word":"鳴きます（鳴く）",
+            "title":"なきます（なく）  MINH  Kêu, réo"
+            },
+            {
+            "word":"セミが鳴きます（鳴く）",
+            "title":"セミがなきます（なく）  MINH  Ve kêu"
+            },
+            {
+            "word":"学校",
+            "title":"がっこう  HỌC HIỆU  Trường học"
+            },
+            {
+            "word":"秋",
+            "title":"あき  THU  Mùa thu"
+            },
+            {
+            "word":"涼しい",
+            "title":"すずしい  LƯƠNG  Mát"
+            },
+            {
+            "word":"涼しくなります（なる）",
+            "title":"すずしくなります（なる） LƯƠNG  Mát"
+            },
+            {
+            "word":"紅葉",
+            "title":"もみじ・こうよう  HỒNG DIỆP  Mùa lá đỏ"
+            },
+            {
+            "word":"綺麗（な）",
+            "title":"きれい（な）  KÌ LỆ  Đẹp"
+            },
+            {
+            "word":"紅葉が綺麗（な）",
+            "title":"もみじがきれい  HỒNG DIỆP KÌ LỆ  Mùa lá đỏ đẹp"
+            },
+            {
+            "word":"冬",
+            "title":"ふゆ  ĐÔNG  Mùa đông"
+            },
+            {
+            "word":"寒い",
+            "title":"さむい  HÀN  Lạnh"
+            },
+            {
+            "word":"寒くなります （なる）",
+            "title":"さむくなります（なる） HÀN  Trở nên lạnh"
+            },
+            {
+            "word":"雪",
+            "title":"ゆき  TUYẾT  Tuyết"
+            },
+            {
+            "word":"雪が降ります（降る）",
+            "title":"ゆきがふります（ふる）  TUYẾT GIÁNG  Tuyết rơi"
+            },
+            {
+            "word":"雪がたくさん降ります（降る）",
+            "title":"ゆきがたくさんふります（ふる） TUYẾT GIÁNG  Tuyết rơi nhiều"
+            },
+            {
+            "word":"四季",
+            "title":"しき  TỨ QUÝ  4 mùa"
+            }
+    ]
 }

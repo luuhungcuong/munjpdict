@@ -4117,6 +4117,694 @@
         {
             "word": "別にかまいません",
             "title": "べつにかまいません  BIỆT  Không vấn đề gì quan trọng đâu"
+        },
+        {
+            "word": "できます",
+            "title": "できます  Có thể"
+        },
+        {
+            "word": "洗います",
+            "title": "あらいます  TẨY  Rửa"
+        },
+        {
+            "word": "弾きます",
+            "title": "ひきます  ĐÀN, ĐẠN  Chơi (nhạc cụ)"
+        },
+        {
+            "word": "歌います",
+            "title": "うたいます  CA  Hát"
+        },
+        {
+            "word": "集めます",
+            "title": "あつめます  TẬP  Sưu tầm, thu thập"
+        },
+        {
+            "word": "捨てます",
+            "title": "すてます  XẢ  Vứt, bỏ đi"
+        },
+        {
+            "word": "換えます",
+            "title": "かえます  HOÁN  Đổi"
+        },
+        {
+            "word": "運転します",
+            "title": "うんてんします  VẬN CHUYỂN  Lái"
+        },
+        {
+            "word": "予約します",
+            "title": "よやくします  DỰ ƯỚC  Đặt chỗ, đặt trước"
+        },
+        {
+            "word": "ピアノ",
+            "title": "ピアノ  Đàn Piano"
+        },
+        {
+            "word": "メートル",
+            "title": "メートル  mét"
+        },
+        {
+            "word": "現金",
+            "title": "げんきん  HIỆN KIM  Tiền mặt"
+        },
+        {
+            "word": "趣味",
+            "title": "しゅみ  THÚ VỊ  Sở thích, thú vui"
+        },
+        {
+            "word": "日記",
+            "title": "にっき  NHẬT KÝ  Nhật ký"
+        },
+        {
+            "word": "[お]祈り",
+            "title": "[お]いのり  KỲ  Việc cầu nguyện"
+        },
+        {
+            "word": "[お]祈りをします",
+            "title": "[お]いのりをします  KỲ  Cầu nguyện"
+        },
+        {
+            "word": "課長",
+            "title": "かちょう  KHÓA TRƯỜNG  Tổ trưởng"
+        },
+        {
+            "word": "部長",
+            "title": "ぶちょう  BỘ TRƯỜNG  Trưởng phòng"
+        },
+        {
+            "word": "社長",
+            "title": "しゃちょう  XÃ TRƯỜNG  Giám đốc"
+        },
+        {
+            "word": "動物",
+            "title": "どうぶつ  ĐỘNG VẬT  Động vật"
+        },
+        {
+            "word": "馬",
+            "title": "うま  MÃ  Ngựa"
+        },
+        {
+            "word": "インターネット",
+            "title": "インターネット  Internet"
+        },
+        {
+            "word": "特に",
+            "title": "とくに  ĐẶC  Đặt biệt là"
+        },
+        {
+            "word": "へえ",
+            "title": "へえ  Thế à! (dùng để biểu thị sự ngạc nhiên hoặc quan tâm)"
+        },
+        {
+            "word": "それはおもしろいですね。",
+            "title": "それはおもしろいですね。  Hay thật nhỉ."
+        },
+        {
+            "word": "なかなか",
+            "title": "なかなか  Khó mà~, mãi mà"
+        },
+        {
+            "word": "ほんとうですか。",
+            "title": "ほんとうですか。  Thật không ạ?"
+        },
+        {
+            "word": "ぜひ",
+            "title": "ぜひ  Nhất định, rất"
+        },
+        {
+            "word": "スポーツ",
+            "title": "スポーツ  Thể thao"
+        },
+        {
+            "word": "音楽",
+            "title": "おんがく  ÂM LẠC  Âm nhạc"
+        },
+        {
+            "word": "映画",
+            "title": "えいが  ÁNH HỌA  Phim"
+        },
+        {
+            "word": "買い物",
+            "title": "かいもの  MÃI VẬT  Mua sắm"
+        },
+        {
+            "word": "料理",
+            "title": "りょうり  LIỆU LÍ  Món ăn"
+        },
+        {
+            "word": "ゲーム",
+            "title": "ゲーム  Trò chơi, game"
+        },
+        {
+            "word": "漫画",
+            "title": "まんが・マンガ  MẠN HỌA  Truyện tranh"
+        },
+        {
+            "word": "アニメ",
+            "title": "アニメ  Phim hoạt hình"
+        },
+        {
+            "word": "好き（な）",
+            "title": "すき（な）  HẢO  Thích"
+        },
+        {
+            "word": "大好き（な）",
+            "title": "だいすき（な）  ĐẠI HẢO  Rất thích"
+        },
+        {
+            "word": "趣味",
+            "title": "しゅみ  THÚ VỊ  Sở thích"
+        },
+        {
+            "word": "映画を見ます（見る）",
+            "title": "えいがをみます（みる）  ÁNH HỌA  Xem phim"
+        },
+        {
+            "word": "音楽を聞きます（聞く）",
+            "title": "おんがくをききます（きく） ÂM LẠC VĂN  Nghe nhạc"
+        },
+        {
+            "word": "本を読みます（読む）",
+            "title": "ほんをよみます（よむ）  BẢN ĐỘC  Đọc sách"
+        },
+        {
+            "word": "美味しい物を食べます（食べる）",
+            "title": "おいしいものをたべます（たべる）  MỸ VỊ VẬT THỰC  Ăn đồ ăn ngon"
+        },
+        {
+            "word": "写真を撮ります（撮る）",
+            "title": "しゃしんをとります（とる） TẢ CHÂN TOÁT  Chụp ảnh"
+        },
+        {
+            "word": "ピアノ・ギターを弾きます（弾く）",
+            "title": "ピアノ・ギターをひきます（ひく）  ĐÀN  Đánh đàn"
+        },
+        {
+            "word": "おしゃべりをします (する）",
+            "title": "おしゃべりをします (する） Nói chuyện, tám chuyện"
+        },
+        {
+            "word": "料理をします（する）",
+            "title": "りょうりをします（する） LIỆU LÝ  Nấu ăn"
+        },
+        {
+            "word": "旅行をします（する）",
+            "title": "りょこうをします（する）  LỮ HÀNH  Du lịch"
+        },
+        {
+            "word": "テニスをします（する）",
+            "title": "テニスをします（する）  Chơi tenis"
+        },
+        {
+            "word": "ゲームをします（する）",
+            "title": "ゲームをします（する）  Chơi game"
+        },
+        {
+            "word": "寝ます（寝る）",
+            "title": "ねます（ねる）  TẨM  Ngủ"
+        },
+        {
+            "word": "話します（話す）",
+            "title": "はなします（はなす）  THOẠI  Nói"
+        },
+        {
+            "word": "[山に～]登ります",
+            "title": "のぼります  SƠN ĐĂNG  Leo [núi]"
+        },
+        {
+            "word": "[ホテルに～] 泊まります",
+            "title": "とまります  BẠC  Trọ [ở khách sạn]"
+        },
+        {
+            "word": "掃除します",
+            "title": "そうじします  TẢO TRỪ  Dọn vệ sinh"
+        },
+        {
+            "word": "洗濯します",
+            "title": "せんたくします  TẨY TRẠC  Giặt"
+        },
+        {
+            "word": "なります",
+            "title": "なります  Trở thành, trở nên"
+        },
+        {
+            "word": "眠い",
+            "title": "ねむい  MIÊN  Buồn ngủ"
+        },
+        {
+            "word": "強い",
+            "title": "つよい  CƯỜNG  Mạnh"
+        },
+        {
+            "word": "弱い",
+            "title": "よわい  NHƯỢC  Yếu"
+        },
+        {
+            "word": "ゴルフをします",
+            "title": "ゴルフをします  Gôn"
+        },
+        {
+            "word": "ゴルフ",
+            "title": "ゴルフ  Chơi gôn"
+        },
+        {
+            "word": "相撲",
+            "title": "すもう  TƯƠNG PHÁC  Vật Sumo"
+        },
+        {
+            "word": "お茶",
+            "title": "おちゃ  TRÀ  Trà"
+        },
+        {
+            "word": "日",
+            "title": "ひ  NHẬT  Ngày"
+        },
+        {
+            "word": "調子",
+            "title": "ちょうし  ĐIỀU TỬ  Tình trạng, trạng thái"
+        },
+        {
+            "word": "一度",
+            "title": "いちど  NHẤT ĐỘ  Một lần"
+        },
+        {
+            "word": "一度も",
+            "title": "いちども  NHẤT ĐỘ  Chưa lần nào"
+        },
+        {
+            "word": "だんだん",
+            "title": "だんだん  Dần dần"
+        },
+        {
+            "word": "もうすぐ",
+            "title": "もうすぐ  Sắp"
+        },
+        {
+            "word": "おかげさまで",
+            "title": "おかげさまで  Nhờ trời ~, Nhờ ơn anh/ chị mà ~"
+        },
+        {
+            "word": "でも",
+            "title": "でも  Nhưng"
+        },
+        {
+            "word": "乾杯",
+            "title": "かんぱい  CAN BÔI  Nâng cốc!/cạn chén"
+        },
+        {
+            "word": "ダイエット",
+            "title": "ダイエット  Việc ăn kiêng, chế độ giảm cân"
+        },
+        {
+            "word": "ダイエットをします",
+            "title": "ダイエットをします  Ăn kiêng"
+        },
+        {
+            "word": "無理（な）",
+            "title": "むり（な）  VÔ LÍ  Không thể, quá sức"
+        },
+        {
+            "word": "体に いい",
+            "title": "からだに いい  THỂ  Tốt cho sức khỏe"
+        },
+        {
+            "word": "野球",
+            "title": "やきゅう  DÃ CẦU  Bóng chày"
+        },
+        {
+            "word": "Vたこと(が)あります",
+            "title": "Vたこと(が)あります  Đã từng làm V"
+        },
+        {
+            "word": "野球、したこと(が)ありますか",
+            "title": "やきゅう、したこと(が)ありますか  DÃ CẦU  Bạn đã từng chơi môn bóng chày chưa?"
+        },
+        {
+            "word": "誘います（誘う）",
+            "title": "さそいます（さそう）  DỤ  Mời"
+        },
+        {
+            "word": "友達を誘います（誘う）",
+            "title": "ともだちをさそいます（さそう） HỮU ĐẠT DỤ  Mời bạn bè"
+        },
+        {
+            "word": "経験",
+            "title": "けいけん  KINH NGHIỆM  Kinh nghiệm"
+        },
+        {
+            "word": "興味",
+            "title": "きょうみ  HƯNG VỊ  Hứng thú"
+        },
+        {
+            "word": "尋ねます（尋ねる）",
+            "title": "たずねます（たずねる）  TẦM  Hỏi"
+        },
+        {
+            "word": "食事（をします・する）",
+            "title": "しょくじ（をします・する）  THỰC SỰ  Dùng bữa"
+        },
+        {
+            "word": "買い物（をします・する）",
+            "title": "かいもの（をします・する）  MÃI VẬT  Mua sắm"
+        },
+        {
+            "word": "知り合い",
+            "title": "しりあい  TRI HỢP  Người quen"
+        },
+        {
+            "word": "動物園",
+            "title": "どうぶつえん  ĐỘNG VẬT VIÊN  Sở thú"
+        },
+        {
+            "word": "お城",
+            "title": "おしろ  THÀNH  Thành, lâu đài"
+        },
+        {
+            "word": "博物館",
+            "title": "はくぶつかん  BÁC VẬT QUÁN  Bảo tàng"
+        },
+        {
+            "word": "アウトレットモール",
+            "title": "アウトレットモール  Trung tâm thương mại hàng Outlet"
+        },
+        {
+            "word": "プロレス",
+            "title": "プロレス  Đấu vật chuyên nghiệp"
+        },
+        {
+            "word": "タワー",
+            "title": "タワー  Tháp"
+        },
+        {
+            "word": "市民体育館",
+            "title": "しみんたいいくかん  THỊ DÂN THỂ DỤC QUÁN  Nhà thể chất thành phố"
+        },
+        {
+            "word": "季節",
+            "title": "きせつ  QUÝ TIẾT  Mùa"
+        },
+        {
+            "word": "春",
+            "title": "はる  XUÂN  Mùa xuân"
+        },
+        {
+            "word": "桜の花",
+            "title": "さくらのはな  ANH HOA  Hoa anh đào"
+        },
+        {
+            "word": "咲きます（咲く）",
+            "title": "さきます（さく）  TIẾU  Nở"
+        },
+        {
+            "word": "桜の花が咲きます （咲く）",
+            "title": "さくらのはながさきます（さく） ANH HOA TIẾU  Hoa anh đào nở"
+        },
+        {
+            "word": "暖かい",
+            "title": "あたたかい  NOÃN  Ấm"
+        },
+        {
+            "word": "暖かくなります（なる）",
+            "title": "あたたかくなります（なる）  NOÃN  Trở nên ấm"
+        },
+        {
+            "word": "梅雨",
+            "title": "つゆ  MAI VŨ  Mùa mưa"
+        },
+        {
+            "word": "雨",
+            "title": "あめ  VŨ  Mưa"
+        },
+        {
+            "word": "降ります（降る）",
+            "title": "ふります（ふる）  GIÁNG  Rơi ( mưa, tuyết...)"
+        },
+        {
+            "word": "雨が降ります（降る）",
+            "title": "あめがふります（ふる）  VŨ GIÁNG  Mưa rơi"
+        },
+        {
+            "word": "たくさん",
+            "title": "たくさん  Nhiều"
+        },
+        {
+            "word": "じめじめします（する）",
+            "title": "じめじめします（する）  Dính ( khi người ra mồ hôi, cảm giác dính dính )"
+        },
+        {
+            "word": "蒸し暑い",
+            "title": "むしあつい  CHƯNG THỬ  Oi bức, nóng nực"
+        },
+        {
+            "word": "夏",
+            "title": "なつ HẠ  Mùa hè"
+        },
+        {
+            "word": "暑い",
+            "title": "あつい  THỬ  Nóng"
+        },
+        {
+            "word": "セミ",
+            "title": "セミ  Con ve"
+        },
+        {
+            "word": "鳴きます（鳴く）",
+            "title": "なきます（なく）  MINH  Kêu, réo"
+        },
+        {
+            "word": "セミが鳴きます（鳴く）",
+            "title": "セミがなきます（なく）  MINH  Ve kêu"
+        },
+        {
+            "word": "学校",
+            "title": "がっこう  HỌC HIỆU  Trường học"
+        },
+        {
+            "word": "秋",
+            "title": "あき  THU  Mùa thu"
+        },
+        {
+            "word": "涼しい",
+            "title": "すずしい  LƯƠNG  Mát"
+        },
+        {
+            "word": "涼しくなります（なる）",
+            "title": "すずしくなります（なる） LƯƠNG  Mát"
+        },
+        {
+            "word": "紅葉",
+            "title": "もみじ・こうよう  HỒNG DIỆP  Mùa lá đỏ"
+        },
+        {
+            "word": "綺麗（な）",
+            "title": "きれい（な）  KÌ LỆ  Đẹp"
+        },
+        {
+            "word": "紅葉が綺麗（な）",
+            "title": "もみじがきれい  HỒNG DIỆP KÌ LỆ  Mùa lá đỏ đẹp"
+        },
+        {
+            "word": "冬",
+            "title": "ふゆ  ĐÔNG  Mùa đông"
+        },
+        {
+            "word": "寒い",
+            "title": "さむい  HÀN  Lạnh"
+        },
+        {
+            "word": "寒くなります （なる）",
+            "title": "さむくなります（なる） HÀN  Trở nên lạnh"
+        },
+        {
+            "word": "雪",
+            "title": "ゆき  TUYẾT  Tuyết"
+        },
+        {
+            "word": "雪が降ります（降る）",
+            "title": "ゆきがふります（ふる）  TUYẾT GIÁNG  Tuyết rơi"
+        },
+        {
+            "word": "雪がたくさん降ります（降る）",
+            "title": "ゆきがたくさんふります（ふる） TUYẾT GIÁNG  Tuyết rơi nhiều"
+        },
+        {
+            "word": "四季",
+            "title": "しき  TỨ QUÝ  4 mùa"
+        },
+        {
+            "word": "[ビザが～] 要ります",
+            "title": "[ビザが～]いります YẾU  Cần [thị thực (visa)]"
+        },
+        {
+            "word": "調べます",
+            "title": "しらべます  ĐIỀU  Tìm hiểu, điều tra, xem"
+        },
+        {
+            "word": "修理します",
+            "title": "しゅうりします  TU LÝ  Sửa chữa, tu sửa"
+        },
+        {
+            "word": "僕",
+            "title": "ぼく  BỘC  Tớ (bằng với わたし, con trai dùng)"
+        },
+        {
+            "word": "君",
+            "title": "きみ  QUÂN  Cậu, bạn (bằng với あなた.)"
+        },
+        {
+            "word": "～君",
+            "title": "～くん  QUÂN  Anh~, cậu~ (bằng với 「～さん」)"
+        },
+        {
+            "word": "うん",
+            "title": "うん  Ừ (bằng với 「はい」)"
+        },
+        {
+            "word": "ううん",
+            "title": "ううん  Không (bằng với 「いいえ」)"
+        },
+        {
+            "word": "ことば",
+            "title": "ことば  Từ, tiếng"
+        },
+        {
+            "word": "着物",
+            "title": "きもの  TRƯỚC VẬT  Kimono"
+        },
+        {
+            "word": "ビザ",
+            "title": "ビザ  Thị thực, Visa"
+        },
+        {
+            "word": "初め",
+            "title": "はじめ  SƠ  Ban đầu, đầu tiên"
+        },
+        {
+            "word": "終わり",
+            "title": "おわり  CHUNG  Kết thúc"
+        },
+        {
+            "word": "こっち",
+            "title": "こっち  Phía này, chỗ này (bằng với 「こちら」)"
+        },
+        {
+            "word": "そっち",
+            "title": "そっち  Phía đó, chỗ đó (bằng với 「そちら」)"
+        },
+        {
+            "word": "あっち",
+            "title": "あっち  Phía kia, chỗ kia (bằng với 「あちら」)"
+        },
+        {
+            "word": "どっち",
+            "title": "どっち  Cái nào, phía nào, đâu (bằng với 「どちら」)"
+        },
+        {
+            "word": "みんなで",
+            "title": "みんなで  Mọi người cùng"
+        },
+        {
+            "word": "～けど",
+            "title": "～けど  Nhưng ( bằng với 「が」)"
+        },
+        {
+            "word": "お腹がいっぱいです",
+            "title": "おなかがいっぱいです  PHÚC  (Tôi) no rồi"
+        },
+        {
+            "word": "よかったら",
+            "title": "よかったら  Nếu anh/chị thích thì"
+        },
+        {
+            "word": "いろいろ",
+            "title": "いろいろ  Nhiều thứ"
+        },
+        {
+            "word": "先輩",
+            "title": "せんぱい  TIỀN BỐI  Tiền bối"
+        },
+        {
+            "word": "後輩",
+            "title": "こうはい  HẬU BỐI  Hậu bối"
+        },
+        {
+            "word": "友達",
+            "title": "ともだち  HỮU ĐẠT  Bạn bè"
+        },
+        {
+            "word": "知り合い",
+            "title": "しりあい  TRI HỢP  Người quen"
+        },
+        {
+            "word": "お久しぶりです （久しぶり）",
+            "title": "おひさしぶり  CỬU  Đã lâu không gặp"
+        },
+        {
+            "word": "お元気ですか（元気）",
+            "title": "おげんきですか  NGUYÊN KHÍ  Bạn có khỏe không"
+        },
+        {
+            "word": "おかげさまで",
+            "title": "おかげさまで  Nhờ ~, Ơn trời ~"
+        },
+        {
+            "word": "かっこいい",
+            "title": "かっこいい  Ngầu, đẹp trai"
+        },
+        {
+            "word": "可愛い",
+            "title": "かわいい  KHẢ ÁI  Đáng yêu"
+        },
+        {
+            "word": "高い",
+            "title": "たかい  CAO  Cao, đắt"
+        },
+        {
+            "word": "安い",
+            "title": "やすい  AN  Rẻ"
+        },
+        {
+            "word": "面白い",
+            "title": "おもしろい  DIỆN BẠCH  Thú vị"
+        },
+        {
+            "word": "素敵（な）",
+            "title": "すてき（な）  TỐ ĐỊCH  Tuyệt vời, đẹp"
+        },
+        {
+            "word": "おしゃれ（な）",
+            "title": "おしゃれ（な）  Ăn diện, trưng diện"
+        },
+        {
+            "word": "変（な）",
+            "title": "へん（な）  BIẾN  Lạ"
+        },
+        {
+            "word": "ちょっと変ですね",
+            "title": "ちょっとへんですね  BIẾN  Hơi lạ 1 chút nhỉ"
+        },
+        {
+            "word": "それに",
+            "title": "それに  Thêm vào đó"
+        },
+        {
+            "word": "本当！",
+            "title": "ほんとう！  BẢN ĐƯƠNG  Thật sự là như vậy"
+        },
+        {
+            "word": "～でございます（～です）",
+            "title": "～でございます（～です）  Lịch sự của です"
+        },
+        {
+            "word": "～になります（～です）",
+            "title": "～になります（～です）  Lịch sự của です"
+        },
+        {
+            "word": "ご案内します/ご案内いたします",
+            "title": "ごあんないします / ごあんないいたします ÁN NỘI  Hướng dẫn"
+        },
+        {
+            "word": "とか",
+            "title": "とか  Nào là"
         }
     ]
 }
