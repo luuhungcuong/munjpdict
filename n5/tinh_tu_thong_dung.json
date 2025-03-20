@@ -1,0 +1,406 @@
+{
+    "name": "Tính từ thông dụng",
+    "language": "ja-JP",
+    "data": [
+        {
+            "word":"大きい",
+            "title":"おおきい\n to, lớn."
+            },
+            {
+            "word":"小さい",
+            "title":"ちいさい\n nhỏ."
+            },
+            {
+            "word":"新しい",
+            "title":"あたらしい\n mới."
+            },
+            {
+            "word":"古い",
+            "title":"ふるい\n cũ."
+            },
+            {
+            "word":"良い",
+            "title":"いい/よい\n tốt."
+            },
+            {
+            "word":"悪い",
+            "title":"わるい\n xấu."
+            },
+            {
+            "word":"暑い/熱い",
+            "title":"あつい\n nóng."
+            },
+            {
+            "word":"寒い",
+            "title":"さむい\n lạnh, rét"
+            },
+            {
+            "word":"冷たい",
+            "title":"つめたい\n lạnh, buốt, tính cách lạnh nhạt"
+            },
+            {
+            "word":"難しい",
+            "title":"むずかしい\n khó."
+            },
+            {
+            "word":"易しい",
+            "title":"やさしい\n dễ."
+            },
+            {
+            "word":"高い",
+            "title":"たかい\n cao, đắt."
+            },
+            {
+            "word":"安い",
+            "title":"やすい\n rẻ."
+            },
+            {
+            "word":"低い",
+            "title":"ひくい\n thấp."
+            },
+            {
+            "word":"美味しい",
+            "title":"おいしい\n ngon."
+            },
+            {
+            "word":"忙しい",
+            "title":"いそがしい\n bận rộn."
+            },
+            {
+            "word":"楽しい",
+            "title":"たのしい\n vui."
+            },
+            {
+            "word":"近い",
+            "title":"ちかい\n gần."
+            },
+            {
+            "word":"遠い",
+            "title":"とおい\n xa."
+            },
+            {
+            "word":"早い",
+            "title":"はやい\n nhanh."
+            },
+            {
+            "word":"遅い",
+            "title":"おそい\n chậm."
+            },
+            {
+            "word":"多い",
+            "title":"おおい\n nhiều."
+            },
+            {
+            "word":"少ない",
+            "title":"少ない\n ít."
+            },
+            {
+            "word":"暖かい",
+            "title":"あたたかい\n ấm áp"
+            },
+            {
+            "word":"涼しい",
+            "title":"すずしい\n mát mẻ."
+            },
+            {
+            "word":"甘い",
+            "title":"あまい\n ngọt"
+            },
+            {
+            "word":"辛い",
+            "title":"からい\n cay."
+            },
+            {
+            "word":"重い",
+            "title":"おもい\n nặng."
+            },
+            {
+            "word":"軽い",
+            "title":"かるい\n nhẹ."
+            },
+            {
+            "word":"寂しい",
+            "title":"さびしい\n buồn, cô đơn."
+            },
+            {
+            "word":"広い",
+            "title":"ひろい\n rộng"
+            },
+            {
+            "word":"狭い",
+            "title":"せまい\n hẹp."
+            },
+            {
+            "word":"若い",
+            "title":"わかい\n trẻ."
+            },
+            {
+            "word":"長い",
+            "title":"ながい\n dài"
+            },
+            {
+            "word":"短い",
+            "title":"みじかい\n ngắn."
+            },
+            {
+            "word":"明るい",
+            "title":"あかるい\n sáng"
+            },
+            {
+            "word":"暗い",
+            "title":"くらい\n tối."
+            },
+            {
+            "word":"危ない",
+            "title":"あぶない\n nguy hiểm."
+            },
+            {
+            "word":"眠い",
+            "title":"ねむい\n buồn ngủ."
+            },
+            {
+            "word":"弱い",
+            "title":"よわい\n yếu"
+            },
+            {
+            "word":"強い",
+            "title":"つよい\n mạnh."
+            },
+            {
+            "word":"優しい",
+            "title":"やさしい\n hiền, dịu dàng."
+            },
+            {
+            "word":"偉い",
+            "title":"えらい\n tài giỏi, xuất chúng."
+            },
+            {
+            "word":"おかしい",
+            "title":" kỳ quặc.\n"
+            },
+            {
+            "word":"細い",
+            "title":"ほそい\n gầy, ốm."
+            },
+            {
+            "word":"太い",
+            "title":"ふとい\n béo, mập."
+            },
+            {
+            "word":"正しい",
+            "title":"ただしい\n đúng, chính xác."
+            },
+            {
+            "word":"珍しい",
+            "title":"めずらしい\n hiếm có."
+            },
+            {
+            "word":"硬い",
+            "title":"かたい\n cứng"
+            },
+            {
+            "word":"軟らかい",
+            "title":"やわらかい\n mềm."
+            },
+            {
+            "word":"汚い",
+            "title":"きたない\n dơ, bẩn."
+            },
+            {
+            "word":"嬉しい",
+            "title":"うれしい\n vui sướng."
+            },
+            {
+            "word":"悲しい",
+            "title":"かなしい\n đau buồn."
+            },
+            {
+            "word":"恥ずかしい",
+            "title":"はずかしい\n ngại ngùng, mắc cỡ."
+            },
+            {
+            "word":"可愛い",
+            "title":"かわいい\n dễ thương, xinh xắn."
+            },
+            {
+            "word":"厚い",
+            "title":"あつい\n dày"
+            },
+            {
+            "word":"薄い",
+            "title":"うすい\n mỏng."
+            },
+            {
+            "word":"うまい",
+            "title":" ngon, giỏi\n"
+            },
+            {
+            "word":"まずい",
+            "title":" dở.\n"
+            },
+            {
+            "word":"つまらない",
+            "title":" nhàm chán\n"
+            },
+            {
+            "word":"楽しい",
+            "title":" vui vẻ\n"
+            },
+            {
+            "word":"細かい",
+            "title":"こまかい\n nhỏ, tinh tế."
+            },
+            {
+            "word":"ひどい",
+            "title":" dữ dội, kinh khủng.\n"
+            },
+            {
+            "word":"怖い",
+            "title":"こわい\n đáng sợ, ghê gớm."
+            },
+            {
+            "word":"厳しい",
+            "title":"きびしい\n nghiêm khắc, khắc nghiệt"
+            },
+            {
+            "word":"美しい",
+            "title":"うつくしい\n đẹp."
+            },
+            {
+            "word":"うるさい",
+            "title":" ồn ào.\n"
+            },
+            {
+            "word":"面白い",
+            "title":"おもしろい\n thú vị."
+            },
+            {
+            "word":"綺麗",
+            "title":"きれい\n đẹp, sạch."
+            },
+            {
+            "word":"静か",
+            "title":"しずか\n yên tĩnh."
+            },
+            {
+            "word":"賑やか",
+            "title":"にぎやか\n ồn ào."
+            },
+            {
+            "word":"有名",
+            "title":"ゆうめい\n nổi tiếng."
+            },
+            {
+            "word":"親切",
+            "title":"しんせつ\n thân thiết."
+            },
+            {
+            "word":"元気",
+            "title":"げんき\n khỏe mạnh."
+            },
+            {
+            "word":"暇",
+            "title":"ひま\n rảnh rỗi."
+            },
+            {
+            "word":"便利",
+            "title":"べんり\n tiện lợi"
+            },
+            {
+            "word":"不便（ふべん）",
+            "title":" bất lợi\n"
+            },
+            {
+            "word":"素敵",
+            "title":"すてき\n đẹp, tuyệt vời."
+            },
+            {
+            "word":"好き",
+            "title":"すき\n thích."
+            },
+            {
+            "word":"嫌い",
+            "title":"きらい\n ghét."
+            },
+            {
+            "word":"上手",
+            "title":"じょうず\n giỏi, tốt."
+            },
+            {
+            "word":"下手",
+            "title":"へた\n kém, yếu."
+            },
+            {
+            "word":"大変",
+            "title":"たいへん\n vất vả."
+            },
+            {
+            "word":"大切",
+            "title":"たいせつ\n quan trọng, quý giá."
+            },
+            {
+            "word":"大丈夫",
+            "title":"だいじょうぶ\n không sao, không có vấn đề gì."
+            },
+            {
+            "word":"無理",
+            "title":"むり\n vô lý."
+            },
+            {
+            "word":"無駄",
+            "title":"むだ\n lãng phí."
+            },
+            {
+            "word":"真面目",
+            "title":"まじめ\n nghiêm túc, nghiêm chỉnh."
+            },
+            {
+            "word":"熱心",
+            "title":"ねっしん\n nhiệt tình."
+            },
+            {
+            "word":"心配",
+            "title":"しんぱい\n lo lắng."
+            },
+            {
+            "word":"十分",
+            "title":"じゅうぶん\n đủ."
+            },
+            {
+            "word":"楽",
+            "title":"らく\n nhàn rỗi."
+            },
+            {
+            "word":"危険",
+            "title":"きけん\n nguy hiểm."
+            },
+            {
+            "word":"安全（あんぜん）",
+            "title":" an toàn\n"
+            },
+            {
+            "word":"必要",
+            "title":"ひつよう\n cần thiết."
+            },
+            {
+            "word":"丈夫",
+            "title":"じょうぶ\n bền chắc, vạm vỡ."
+            },
+            {
+            "word":"変",
+            "title":"へん\n kỳ lạ, kỳ quặc"
+            },
+            {
+            "word":"幸せ",
+            "title":"しあわせ\n hạnh phúc."
+            },
+            {
+            "word":"丁寧",
+            "title":"ていねい\n lịch sự, cẩn thận."
+            },
+            {
+            "word":"元気",
+            "title":"げんき\n khỏe mạnh."
+            }
+    ]
+}

@@ -1,0 +1,462 @@
+{
+    "name": "Dong tu",
+    "language": "ja-JP",
+    "data": [
+        {
+            "word":"書きます",
+            "title":"かきます\nviết"
+            },
+            {
+            "word":"聞きます",
+            "title":"ききます\nnghe"
+            },
+            {
+            "word":"着きます",
+            "title":"つきます\nđến"
+            },
+            {
+            "word":"はきます",
+            "title":"はきます\nmặc (quần), đi (giày)"
+            },
+            {
+            "word":"置きます",
+            "title":"おきます\nđặt"
+            },
+            {
+            "word":"歩きます",
+            "title":"あるきます\nđi bộ"
+            },
+            {
+            "word":"磨きます",
+            "title":"みがきます\nchải (răng)"
+            },
+            {
+            "word":"働きます",
+            "title":"はたらきます\nlàm việc"
+            },
+            {
+            "word":"行きます",
+            "title":"いきます\nđi"
+            },
+            {
+            "word":"すきます",
+            "title":"すきます\nđói bụng"
+            },
+            {
+            "word":"ぬぎます",
+            "title":"ぬぎます\ncởi quần áo"
+            },
+            {
+            "word":"泳ぎます",
+            "title":"およぎます\nbơi"
+            },
+            {
+            "word":"急ぎます",
+            "title":"いそぎます\nvội vàng"
+            },
+            {
+            "word":"貸します",
+            "title":"かします\ncho mượn"
+            },
+            {
+            "word":"消します",
+            "title":"けします\ntắt/ xóa đi"
+            },
+            {
+            "word":"話します",
+            "title":"はなします\nnói chuyện"
+            },
+            {
+            "word":"返します",
+            "title":"かえします\ntrả lại"
+            },
+            {
+            "word":"探します",
+            "title":"さがします\ntìm kiếm"
+            },
+            {
+            "word":"なくします",
+            "title":"なくします\nmất"
+            },
+            {
+            "word":"思い出します",
+            "title":"おもいだします\nnhớ lại"
+            },
+            {
+            "word":"落とします",
+            "title":"おとします\nrơi"
+            },
+            {
+            "word":"直します",
+            "title":"なおします\nsửa chữa"
+            },
+            {
+            "word":"死にます",
+            "title":"しにます\nchết"
+            },
+            {
+            "word":"飲みます",
+            "title":"のみます\nuống"
+            },
+            {
+            "word":"読みます",
+            "title":"よみます\nđọc"
+            },
+            {
+            "word":"済みます",
+            "title":"すみます\nhoàn thành"
+            },
+            {
+            "word":"混みます",
+            "title":"こみます\nđông đúc"
+            },
+            {
+            "word":"休みます",
+            "title":"やすみます\nnghỉ ngơi"
+            },
+            {
+            "word":"頼みます",
+            "title":"たのみます\nthỉnh cầu"
+            },
+            {
+            "word":"呼びます",
+            "title":"よびます\ngọi"
+            },
+            {
+            "word":"遊びます",
+            "title":"あそびます\nchơi"
+            },
+            {
+            "word":"選びます",
+            "title":"えらびます\nlựa chọn"
+            },
+            {
+            "word":"運びます",
+            "title":"はこびます\nmang, vận chuyển"
+            },
+            {
+            "word":"転びます",
+            "title":"ころびます\nngã"
+            },
+            {
+            "word":"喜びます",
+            "title":"よろこびます\nvui mừng"
+            },
+            {
+            "word":"立ちます",
+            "title":"たちます\nđứng"
+            },
+            {
+            "word":"待ちます",
+            "title":"まちます\nđợi"
+            },
+            {
+            "word":"持ちます",
+            "title":"もちます\ncầm, nắm, giữ"
+            },
+            {
+            "word":"買います",
+            "title":"かいます\nmua"
+            },
+            {
+            "word":"会います",
+            "title":"あいます\ngặp"
+            },
+            {
+            "word":"言います",
+            "title":"いいます\nnói"
+            },
+            {
+            "word":"吸います",
+            "title":"すいます\nhút (thuốc)"
+            },
+            {
+            "word":"歌います",
+            "title":"うたいます\nhát"
+            },
+            {
+            "word":"使います",
+            "title":"つかいます\nsử dụng"
+            },
+            {
+            "word":"習います",
+            "title":"ならいます\nhọc"
+            },
+            {
+            "word":"払います",
+            "title":"はらいます\ntrả tiền"
+            },
+            {
+            "word":"笑います",
+            "title":"わらいます\ncười"
+            },
+            {
+            "word":"洗います",
+            "title":"あらいます\nrửa"
+            },
+            {
+            "word":"拾います",
+            "title":"ひろいます\nnhặt"
+            },
+            {
+            "word":"もらいます",
+            "title":"もらいます\nnhận"
+            },
+            {
+            "word":"誘います",
+            "title":"さそいます\nmời"
+            },
+            {
+            "word":"手伝います",
+            "title":"てつだいます\ngiúp đỡ"
+            },
+            {
+            "word":"売ります",
+            "title":"うります\nbán"
+            },
+            {
+            "word":"取ります",
+            "title":"とります\ncầm/ nắm lấy"
+            },
+            {
+            "word":"乗ります",
+            "title":"のります\nlên (xe, ngựa)"
+            },
+            {
+            "word":"が降ります",
+            "title":"ふります\n(mưa) rơi"
+            },
+            {
+            "word":"有ります",
+            "title":"あります\ncó, tồn tại (đồ vật)"
+            },
+            {
+            "word":"帰ります",
+            "title":"かえります\ntrở về"
+            },
+            {
+            "word":"走ります",
+            "title":"はしります\nchạy"
+            },
+            {
+            "word":"座ります",
+            "title":"すわります\nngồi"
+            },
+            {
+            "word":"作ります",
+            "title":"つくります\nlàm, chế tạo"
+            },
+            {
+            "word":"曲がります",
+            "title":"まがります\nrẽ, bẻ cong"
+            },
+            {
+            "word":"送ります",
+            "title":"おくります\ngửi"
+            },
+            {
+            "word":"要ります",
+            "title":"いります\ncần thiết"
+            },
+            {
+            "word":"怒ります",
+            "title":"おこります\ntức giận"
+            },
+            {
+            "word":"止まります",
+            "title":"とまります\ndừng, ngừng"
+            },
+            {
+            "word":"分かります",
+            "title":"わかります\nhiểu"
+            },
+            {
+            "word":"太ります",
+            "title":"ふとります\ntăng cân"
+            },
+            {
+            "word":"しゃべります",
+            "title":"しゃべります\ntán gẫu"
+            },
+            {
+            "word":"断ります",
+            "title":"ことわります\ntừ chối"
+            },
+            {
+            "word":"入ります",
+            "title":"はいります\n(đi) vào"
+            },
+            {
+            "word":"終わります",
+            "title":"おわります\nkết thúc"
+            },
+            {
+            "word":"寝ます",
+            "title":"ねます\nngủ"
+            },
+            {
+            "word":"食べます",
+            "title":"たべます\năn"
+            },
+            {
+            "word":"見せます",
+            "title":"みせます\ncho xem"
+            },
+            {
+            "word":"つけます",
+            "title":"つけます\nbật lên"
+            },
+            {
+            "word":"あげます",
+            "title":"あげます\ncho, tặng"
+            },
+            {
+            "word":"くれます",
+            "title":"くれます\nlàm/ tặng cho tôi"
+            },
+            {
+            "word":"開けます",
+            "title":"あけます\nmở"
+            },
+            {
+            "word":"閉めます",
+            "title":"しめます\nđóng"
+            },
+            {
+            "word":"入れます",
+            "title":"いれます\ncho/ bỏ vào"
+            },
+            {
+            "word":"出ます",
+            "title":"でます\nrời đi, ra ngoài"
+            },
+            {
+            "word":"教えます",
+            "title":"おしえます\nchỉ dạy"
+            },
+            {
+            "word":"止めます",
+            "title":"とめます\ndừng cái gì đó lại"
+            },
+            {
+            "word":"捨てます",
+            "title":"すてます\nvứt đi"
+            },
+            {
+            "word":"調べます",
+            "title":"しらべます\ntra cứu"
+            },
+            {
+            "word":"覚えます",
+            "title":"おぼえます\nghi nhớ"
+            },
+            {
+            "word":"忘れます",
+            "title":"わすれます\nquên"
+            },
+            {
+            "word":"疲れます",
+            "title":"つかれます\nmệt"
+            },
+            {
+            "word":"考えます",
+            "title":"かんがえます\nsuy nghĩ"
+            },
+            {
+            "word":"間違えます",
+            "title":"まちがえます\nsai, nhầm lẫn"
+            },
+            {
+            "word":"努めます",
+            "title":"つとめます\nlàm việc"
+            },
+            {
+            "word":"見ます",
+            "title":"みます\nthấy, nhìn, xem"
+            },
+            {
+            "word":"います",
+            "title":"います\ncó, tồn tại (sinh vật sống)"
+            },
+            {
+            "word":"出来ます",
+            "title":"できます\ncó thể"
+            },
+            {
+            "word":"起きます",
+            "title":"おきます\nthức dậy"
+            },
+            {
+            "word":"浴びます",
+            "title":"あびます\nđi tắm"
+            },
+            {
+            "word":"来ます",
+            "title":"きます\nđến"
+            },
+            {
+            "word":"借ります",
+            "title":"かります\nvay, mượn"
+            },
+            {
+            "word":"を降ります",
+            "title":"おります\nxuống xe"
+            },
+            {
+            "word":"落ちます",
+            "title":"おちます\nrơi, rớt"
+            },
+            {
+            "word":"します",
+            "title":"します\nlàm gì đó"
+            },
+            {
+            "word":"電話します",
+            "title":"でんわします\ngọi điện thoại"
+            },
+            {
+            "word":"会議します",
+            "title":"かいぎします\nhọp"
+            },
+            {
+            "word":"買い物します",
+            "title":"かいものします\nmua sắm"
+            },
+            {
+            "word":"予約します",
+            "title":"よやくします\nđặt/hẹn trước"
+            },
+            {
+            "word":"旅行します",
+            "title":"りょこうします\nđi du lịch"
+            },
+            {
+            "word":"説明します",
+            "title":"せつめいします\ngiải thích"
+            },
+            {
+            "word":"仕事します",
+            "title":"しごとします\nlàm việc"
+            },
+            {
+            "word":"紹介します",
+            "title":"しょうかいします\ngiới thiệu"
+            },
+            {
+            "word":"出張します",
+            "title":"しゅっちょうします\nđi công tác"
+            },
+            {
+            "word":"運転します",
+            "title":"うんてんします\nlái xe"
+            },
+            {
+            "word":"持ってきます",
+            "title":"もってきます\nmang đến"
+            },
+            {
+            "word":"連れてきます",
+            "title":"つれてきます\nđến đón"
+            }            
+    ]
+}

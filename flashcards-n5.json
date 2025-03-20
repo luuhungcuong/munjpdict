@@ -1,164 +1,176 @@
 [
-      {
+  {
     "name": "Hán tự bộ cơ bản",
     "avatarUr": "https://static.independent.co.uk/2022/08/24/12/iStock-1146262403.jpg?quality=75&width=400&crop=3%3A2%2Csmart&auto=webp",
-     "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/munjpdict/refs/heads/main/n5/am_han_bo_co_ban.json",
+    "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/munjpdict/refs/heads/main/n5/am_han_bo_co_ban.json",
     "title": "Hán tự bộ cơ bản"
   },
-      {
+  {
     "name": "Hán tự N5",
     "avatarUr": "https://static.independent.co.uk/2022/08/24/12/iStock-1146262403.jpg?quality=75&width=400&crop=3%3A2%2Csmart&auto=webp",
-     "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/munjpdict/refs/heads/main/n5/tu_han_n5.json",
+    "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/munjpdict/refs/heads/main/n5/tu_han_n5.json",
     "title": "Hán tự bộ cơ bản"
-  }, 
+  },
   {
     "name": "Từ mina-indori N5",
     "avatarUr": "https://static.independent.co.uk/2022/08/24/12/iStock-1146262403.jpg?quality=75&width=400&crop=3%3A2%2Csmart&auto=webp",
-     "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/munjpdict/refs/heads/main/n5/N5_Idori.json",
+    "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/munjpdict/refs/heads/main/n5/N5_Idori.json",
     "title": "Từ mina-indori N5"
   },
-        {
+  {
     "name": "Kanji look and learn",
     "avatarUr": "https://cdn0.fahasa.com/media/catalog/product/i/m/image_195509_1_19329.jpg",
-     "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/munjpdict/refs/heads/main/n5/kanju_look_learn.json",
+    "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/munjpdict/refs/heads/main/n5/kanju_look_learn.json",
     "title": "Kanji look and learn"
   },
-    {
+  {
     "name": "Từ vựng N5",
     "avatarUr": "https://static.independent.co.uk/2022/08/24/12/iStock-1146262403.jpg?quality=75&width=400&crop=3%3A2%2Csmart&auto=webp",
-     "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/munjpdict/refs/heads/main/n5/N5.json",
+    "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/munjpdict/refs/heads/main/n5/N5.json",
     "title": "Từ vựng N5"
+  },
+  {
+    "name": "Tính từ thông dụng",
+    "avatarUr": "https://static.independent.co.uk/2022/08/24/12/iStock-1146262403.jpg?quality=75&width=400&crop=3%3A2%2Csmart&auto=webp",
+    "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/munjpdict/refs/heads/main/n5/tinh_tu_thong_dung.json",
+    "title": "Tính từ thông dụng"
+  },
+  {
+    "name": "Động từ thông dụng N5",
+    "avatarUr": "https://static.independent.co.uk/2022/08/24/12/iStock-1146262403.jpg?quality=75&width=400&crop=3%3A2%2Csmart&auto=webp",
+    "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/munjpdict/refs/heads/main/n5/dong_tu5.json",
+    "title": "Động từ thông dụng N5"
   },
   {
     "name": "Từ mina-indori L20",
     "avatarUr": "https://static.independent.co.uk/2022/08/24/12/iStock-1146262403.jpg?quality=75&width=400&crop=3%3A2%2Csmart&auto=webp",
-     "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/munjpdict/refs/heads/main/n5/L20.json",
+    "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/munjpdict/refs/heads/main/n5/L20.json",
     "title": "MINA+IRODORI L20"
   },
   {
     "name": "Từ mina-indori L19",
     "avatarUr": "https://static.independent.co.uk/2022/08/24/12/iStock-1146262403.jpg?quality=75&width=400&crop=3%3A2%2Csmart&auto=webp",
-     "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/munjpdict/refs/heads/main/n5/L19.json",
+    "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/munjpdict/refs/heads/main/n5/L19.json",
     "title": "MINA+IRODORI L19"
   },
   {
     "name": "Từ mina-indori L18",
     "avatarUr": "https://static.independent.co.uk/2022/08/24/12/iStock-1146262403.jpg?quality=75&width=400&crop=3%3A2%2Csmart&auto=webp",
-     "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/munjpdict/refs/heads/main/n5/L18.json",
+    "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/munjpdict/refs/heads/main/n5/L18.json",
     "title": "MINA+IRODORI L18"
   },
   {
     "name": "Từ mina-indori L17",
     "avatarUr": "https://static.independent.co.uk/2022/08/24/12/iStock-1146262403.jpg?quality=75&width=400&crop=3%3A2%2Csmart&auto=webp",
-     "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/munjpdict/refs/heads/main/n5/L17.json",
+    "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/munjpdict/refs/heads/main/n5/L17.json",
     "title": "MINA+IRODORI L17"
   },
   {
     "name": "Từ mina-indori L16",
     "avatarUr": "https://static.independent.co.uk/2022/08/24/12/iStock-1146262403.jpg?quality=75&width=400&crop=3%3A2%2Csmart&auto=webp",
-     "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/munjpdict/refs/heads/main/n5/L16.json",
+    "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/munjpdict/refs/heads/main/n5/L16.json",
     "title": "MINA+IRODORI L16"
   },
   {
     "name": "Từ mina-indori L15",
     "avatarUr": "https://static.independent.co.uk/2022/08/24/12/iStock-1146262403.jpg?quality=75&width=400&crop=3%3A2%2Csmart&auto=webp",
-     "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/munjpdict/refs/heads/main/n5/L15.json",
+    "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/munjpdict/refs/heads/main/n5/L15.json",
     "title": "MINA+IRODORI L15"
   },
   {
     "name": "Từ mina-indori L14",
     "avatarUr": "https://static.independent.co.uk/2022/08/24/12/iStock-1146262403.jpg?quality=75&width=400&crop=3%3A2%2Csmart&auto=webp",
-     "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/munjpdict/refs/heads/main/n5/L14.json",
+    "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/munjpdict/refs/heads/main/n5/L14.json",
     "title": "MINA+IRODORI L14"
   },
-         {
+  {
     "name": "Từ mina-indori L13",
     "avatarUr": "https://static.independent.co.uk/2022/08/24/12/iStock-1146262403.jpg?quality=75&width=400&crop=3%3A2%2Csmart&auto=webp",
-     "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/munjpdict/refs/heads/main/n5/L13.json",
+    "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/munjpdict/refs/heads/main/n5/L13.json",
     "title": "MINA+IRODORI L13"
   },
-        {
+  {
     "name": "Từ mina-indori L12",
     "avatarUr": "https://static.independent.co.uk/2022/08/24/12/iStock-1146262403.jpg?quality=75&width=400&crop=3%3A2%2Csmart&auto=webp",
-     "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/munjpdict/refs/heads/main/n5/L12.json",
+    "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/munjpdict/refs/heads/main/n5/L12.json",
     "title": "MINA+IRODORI L12"
   },
-        {
+  {
     "name": "Từ mina-indori L11",
     "avatarUr": "https://static.independent.co.uk/2022/08/24/12/iStock-1146262403.jpg?quality=75&width=400&crop=3%3A2%2Csmart&auto=webp",
-     "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/munjpdict/refs/heads/main/n5/L11.json",
+    "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/munjpdict/refs/heads/main/n5/L11.json",
     "title": "MINA+IRODORI L11"
   },
-         {
+  {
     "name": "Từ mina-indori L10",
     "avatarUr": "https://static.independent.co.uk/2022/08/24/12/iStock-1146262403.jpg?quality=75&width=400&crop=3%3A2%2Csmart&auto=webp",
-     "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/munjpdict/refs/heads/main/n5/L10.json",
+    "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/munjpdict/refs/heads/main/n5/L10.json",
     "title": "MINA+IRODORI L10"
   },
-        {
+  {
     "name": "Từ mina-indori L9",
     "avatarUr": "https://static.independent.co.uk/2022/08/24/12/iStock-1146262403.jpg?quality=75&width=400&crop=3%3A2%2Csmart&auto=webp",
-     "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/munjpdict/refs/heads/main/n5/L9.json",
+    "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/munjpdict/refs/heads/main/n5/L9.json",
     "title": "MINA+IRODORI L9"
   },
-        {
+  {
     "name": "Từ mina-indori L8",
     "avatarUr": "https://static.independent.co.uk/2022/08/24/12/iStock-1146262403.jpg?quality=75&width=400&crop=3%3A2%2Csmart&auto=webp",
-     "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/munjpdict/refs/heads/main/n5/L8.json",
+    "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/munjpdict/refs/heads/main/n5/L8.json",
     "title": "MINA+IRODORI L8"
   },
-      {
+  {
     "name": "Từ mina-indori L7",
     "avatarUr": "https://static.independent.co.uk/2022/08/24/12/iStock-1146262403.jpg?quality=75&width=400&crop=3%3A2%2Csmart&auto=webp",
-     "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/munjpdict/refs/heads/main/n5/L7.json",
+    "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/munjpdict/refs/heads/main/n5/L7.json",
     "title": "MINA+IRODORI L7"
   },
-         {
+  {
     "name": "Từ mina-indori L6",
     "avatarUr": "https://static.independent.co.uk/2022/08/24/12/iStock-1146262403.jpg?quality=75&width=400&crop=3%3A2%2Csmart&auto=webp",
-     "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/munjpdict/refs/heads/main/n5/L6.json",
+    "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/munjpdict/refs/heads/main/n5/L6.json",
     "title": "MINA+IRODORI L6"
   },
-         {
+  {
     "name": "Từ mina-indori L5",
     "avatarUr": "https://static.independent.co.uk/2022/08/24/12/iStock-1146262403.jpg?quality=75&width=400&crop=3%3A2%2Csmart&auto=webp",
-     "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/munjpdict/refs/heads/main/n5/L5.json",
+    "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/munjpdict/refs/heads/main/n5/L5.json",
     "title": "MINA+IRODORI L5"
   },
   {
     "name": "Từ mina-indori L4",
     "avatarUr": "https://static.independent.co.uk/2022/08/24/12/iStock-1146262403.jpg?quality=75&width=400&crop=3%3A2%2Csmart&auto=webp",
-     "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/munjpdict/refs/heads/main/n5/L4.json",
+    "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/munjpdict/refs/heads/main/n5/L4.json",
     "title": "MINA+IRODORI L4"
   },
-        {
+  {
     "name": "Từ mina-indori L3 không hán tự",
     "avatarUr": "https://static.independent.co.uk/2022/08/24/12/iStock-1146262403.jpg?quality=75&width=400&crop=3%3A2%2Csmart&auto=webp",
-     "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/munjpdict/refs/heads/main/n5/L3.json",
+    "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/munjpdict/refs/heads/main/n5/L3.json",
     "title": "MINA+IRODORI không hán tự L3"
   },
-    {
+  {
     "name": "Từ mina-indori L2 không hán tự",
     "avatarUr": "https://static.independent.co.uk/2022/08/24/12/iStock-1146262403.jpg?quality=75&width=400&crop=3%3A2%2Csmart&auto=webp",
-     "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/munjpdict/refs/heads/main/n5/ja_minaidori_L2.json",
+    "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/munjpdict/refs/heads/main/n5/ja_minaidori_L2.json",
     "title": "MINA+IRODORI không hán tự L2 "
   },
-       {
+  {
     "name": "Từ vựng L1",
     "avatarUr": "https://static.independent.co.uk/2022/08/24/12/iStock-1146262403.jpg?quality=75&width=400&crop=3%3A2%2Csmart&auto=webp",
-     "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/munjpdict/refs/heads/main/n5/ja_minaidori.json",
+    "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/munjpdict/refs/heads/main/n5/ja_minaidori.json",
     "title": "MINA+IRODORI L1 không hán tự"
   },
-    {
+  {
     "name": "Từ vựng IT-N5",
     "avatarUr": "https://static.independent.co.uk/2022/08/24/12/iStock-1146262403.jpg?quality=75&width=400&crop=3%3A2%2Csmart&auto=webp",
-     "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/munjpdict/refs/heads/main/n5/it_n5.json",
+    "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/munjpdict/refs/heads/main/n5/it_n5.json",
     "title": "Từ vựng IT "
   },
-     {
+  {
     "name": "Từ chào hỏi",
     "avatarUr": "https://static.independent.co.uk/2022/08/24/12/iStock-1146262403.jpg?quality=75&width=400&crop=3%3A2%2Csmart&auto=webp",
-     "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/munjpdict/refs/heads/main/n5/jp_chaohoi.json",
+    "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/munjpdict/refs/heads/main/n5/jp_chaohoi.json",
     "title": "MINA+IRODORI từ vựng chào hỏi L2"
-  }   
+  }
 ]
