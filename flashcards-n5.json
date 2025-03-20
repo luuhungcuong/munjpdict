@@ -6,16 +6,10 @@
     "title": "Hán tự bộ cơ bản"
   },
   {
-    "name": "Hán tự N5",
+    "name": "Hán tự N5 (220 từ cơ bản)",
     "avatarUr": "https://static.independent.co.uk/2022/08/24/12/iStock-1146262403.jpg?quality=75&width=400&crop=3%3A2%2Csmart&auto=webp",
     "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/munjpdict/refs/heads/main/n5/tu_han_n5.json",
     "title": "Hán tự bộ cơ bản"
-  },
-  {
-    "name": "Từ mina-indori N5",
-    "avatarUr": "https://static.independent.co.uk/2022/08/24/12/iStock-1146262403.jpg?quality=75&width=400&crop=3%3A2%2Csmart&auto=webp",
-    "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/munjpdict/refs/heads/main/n5/N5_Idori.json",
-    "title": "Từ mina-indori N5"
   },
   {
     "name": "Kanji look and learn",
@@ -24,10 +18,16 @@
     "title": "Kanji look and learn"
   },
   {
-    "name": "Từ vựng N5",
+    "name": "Từ mina-indori N5",
+    "avatarUr": "https://static.independent.co.uk/2022/08/24/12/iStock-1146262403.jpg?quality=75&width=400&crop=3%3A2%2Csmart&auto=webp",
+    "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/munjpdict/refs/heads/main/n5/N5_Idori.json",
+    "title": "Từ mina-indori N5"
+  },
+  {
+    "name": "Từ vựng mina N5",
     "avatarUr": "https://static.independent.co.uk/2022/08/24/12/iStock-1146262403.jpg?quality=75&width=400&crop=3%3A2%2Csmart&auto=webp",
     "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/munjpdict/refs/heads/main/n5/N5.json",
-    "title": "Từ vựng N5"
+    "title": "Từ vựng mina N5"
   },
   {
     "name": "Tính từ thông dụng",
