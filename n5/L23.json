@@ -1,0 +1,102 @@
+{
+    "name": "L23-Idori",
+    "language": "ja-JP",
+    "data": [
+        {
+            "word": "[先生に～]聞きます",
+            "title": "[せんせいに～]ききます\nTIÊN SINH VĂN\nHỏi [giáo viên]"
+        },
+        {
+            "word": "[ドアに～]回します",
+            "title": "[ドアに～]まわします\nHỒI\nVặn (núm)"
+        },
+        {
+            "word": "引きます",
+            "title": "ひきます\nDẪN\nKéo"
+        },
+        {
+            "word": "変えます",
+            "title": "かえます\nBIẾN\nĐổi"
+        },
+        {
+            "word": "触ります",
+            "title": "さわります\nXÚC\nSờ, chạm vào [cửa]"
+        },
+        {
+            "word": "[お釣りが～]出ます",
+            "title": "[おつりが～]でます\nĐIẾU XUẤT\n[Tiền thừa] ra, chạy ra"
+        },
+        {
+            "word": "歩きます",
+            "title": "あるきます\nBỘ\nĐi bộ"
+        },
+        {
+            "word": "[橋を～]渡ります",
+            "title": "[はしを～]わたります\nKIỀU ĐỘ\nQua, đi qua [cầu]"
+        },
+        {
+            "word": "[右へ～]曲がります",
+            "title": "[みぎへ～]まがります\nHỮU KHÚC\nRẽ, quẹo [phải]"
+        },
+        {
+            "word": "寂しい",
+            "title": "さびしい\nTỊCH\nBuồn, cô đơn"
+        },
+        {
+            "word": "[お]湯",
+            "title": "[お]ゆ\nTHANG\nNước nóng"
+        },
+        {
+            "word": "音",
+            "title": "おと\nÂM\nÂm thanh"
+        },
+        {
+            "word": "サイズ",
+            "title": "サイズ\nCỡ, kích thước"
+        },
+        {
+            "word": "故障",
+            "title": "こしょう\nCỐ CHƯỚNG\nSự hỏng hóc "
+        },
+        {
+            "word": "故障します",
+            "title": "こしょうします\nCỐ CHƯỚNG\nBị hỏng"
+        },
+        {
+            "word": "道",
+            "title": "みち\nĐẠO\nĐường"
+        },
+        {
+            "word": "交差点",
+            "title": "こうさてん\nGIAO SAI ĐIỂM\nNgã tư"
+        },
+        {
+            "word": "信号",
+            "title": "しんごう\nTÍN HIỆU\nĐèn tín hiệu"
+        },
+        {
+            "word": "角",
+            "title": "かど\nGIÁC\nGóc"
+        },
+        {
+            "word": "橋",
+            "title": "はし\nKIỀU\nCầu"
+        },
+        {
+            "word": "駐車場",
+            "title": "ちゅうしゃじょう\nTRÚ XA TRƯỜNG\nBãi đỗ xe"
+        },
+        {
+            "word": "建物",
+            "title": "たてもの\nKIẾN VẬT　\nTòa nhà"
+        },
+        {
+            "word": "何回も",
+            "title": "なんかいも\nHÀ HỒI\nNhiều lần"
+        },
+        {
+            "word": "～目",
+            "title": "～め\nMỤC\nThứ～ , số ～ (biểu thị thứ tự)"
+        }
+    ]
+}

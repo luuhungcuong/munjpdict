@@ -1,0 +1,74 @@
+{
+    "name": "L25-Idori",
+    "language": "ja-JP",
+    "data": [
+        {
+            "word": "考えます",
+            "title": "かんがえます\nKHẢO\nNghĩ, suy nghĩ"
+        },
+        {
+            "word": "着きます",
+            "title": "つきます\nTRƯỚC\nĐến"
+        },
+        {
+            "word": "[年を～]取ります",
+            "title": "[としを～]とります\nNIÊN THỦ\nThêm [tuổi]"
+        },
+        {
+            "word": "足ります",
+            "title": "たります\nTÚC\nĐủ"
+        },
+        {
+            "word": "田舎",
+            "title": "いなか\nĐIỀN XÁ\nQuê, nông thôn"
+        },
+        {
+            "word": "チャンス",
+            "title": "チャンス\nCơ hội"
+        },
+        {
+            "word": "億",
+            "title": "おく\nỨC\nMột trăm triệu"
+        },
+        {
+            "word": "もし[～たら]",
+            "title": "もし[～たら]\nNếu [~ thì]"
+        },
+        {
+            "word": "意味",
+            "title": "いみ\nÝ VỊ\nNghĩa, ý nghĩa"
+        },
+        {
+            "word": "もしもし",
+            "title": "もしもし\nA-lô"
+        },
+        {
+            "word": "転勤",
+            "title": "てんきん\nCHUYỂN CẨN\nViệc chuyển địa điểm làm việc"
+        },
+        {
+            "word": "転勤します",
+            "title": "てんきんします\nCHUYỂN CẨN\nChuyển địa điểm làm việc"
+        },
+        {
+            "word": "こと",
+            "title": "こと\nViệc, chuyện (~のこと: việc ~)"
+        },
+        {
+            "word": "暇",
+            "title": "ひま\nHẠ\nThời gian rảnh"
+        },
+        {
+            "word": "[いろいろ]お世話になりました。",
+            "title": "[いろいろ]おせわになりました。\nTHẾ THOẠI\nAnh/chị đã giúp tôi (nhiều)."
+        },
+        {
+            "word": "頑張ります",
+            "title": "がんばります\nNGOAN TRƯỚNG\nCố, cố gắng"
+        },
+        {
+            "word": "どうぞお元気で。",
+            "title": "どうぞおげんきで。\nNGUYÊN KHÍ\nChúc anh/chị mạnh khỏe."
+        }
+    ]
+}

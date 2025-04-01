@@ -1,0 +1,126 @@
+{
+    "name": "L22-Idori",
+    "language": "ja-JP",
+    "data": [
+        {
+            "word":"着ます",
+            "title":"きます\nTRƯỚC\nMặc [áo sơ mi, v.v.]"
+            },
+            {
+            "word":"はきます",
+            "title":"はきます\nĐi, mặc [giầy, quần âu, v.v.]"
+            },
+            {
+            "word":"かぶります",
+            "title":"かぶります\nĐội [mũ, v.v.]"
+            },
+            {
+            "word":"[眼鏡を～]",
+            "title":"[めがねを～]かけます\nNHÃN KÍNH\nĐeo [kính]"
+            },
+            {
+            "word":"[ネクタイを～]します",
+            "title":"[ネクタイを～]します\nĐeo [cà vạt]"
+            },
+            {
+            "word":"生まれます",
+            "title":"うまれます\nSINH\nSinh ra"
+            },
+            {
+            "word":"私たち",
+            "title":"わたしたち\nTƯ\nChúng tôi, chúng ta"
+            },
+            {
+            "word":"コート",
+            "title":"コート\nÁo khoác"
+            },
+            {
+            "word":"セーター",
+            "title":"セーター\nÁo len"
+            },
+            {
+            "word":"スーツ",
+            "title":"スーツ\nCom-lê"
+            },
+            {
+            "word":"帽子",
+            "title":"ぼうし\nMẠO TỬ\nMũ"
+            },
+            {
+            "word":"眼鏡",
+            "title":"めがね\nNHÃN KÍNH\nKính"
+            },
+            {
+            "word":"ケーキ",
+            "title":"ケーキ\nBánh ngọt"
+            },
+            {
+            "word":"お弁当",
+            "title":"[お]べんとう\nBIỆN ĐƯƠNG\nCơm hộp"
+            },
+            {
+            "word":"ロボット",
+            "title":"ロボット\nRo bốt"
+            },
+            {
+            "word":"ユーモア",
+            "title":"ユーモア\nSự hài hước"
+            },
+            {
+            "word":"都合",
+            "title":"つごう\nĐÔ HỢP\n(Sự) thích hợp"
+            },
+            {
+            "word":"よく",
+            "title":"よく\nThường, hay"
+            },
+            {
+            "word":"えーと",
+            "title":"えーと\nỪ, à"
+            },
+            {
+            "word":"おめでとうございます",
+            "title":"おめでとうございます\nChúc mừng."
+            },
+            {
+            "word":"お探しますか",
+            "title":"おさがしですか\nTHÁM\nAnh/chị tìm ~ à?"
+            },
+            {
+            "word":"では",
+            "title":"では\nThế/Vậy (nhé)"
+            },
+            {
+            "word":"こちら",
+            "title":"こちら\nCái này (cách nói lịch sự của [これ])"
+            },
+            {
+            "word":"家賃",
+            "title":"やちん\nGIA NHẪM\nTiền thuê nhà"
+            },
+            {
+            "word":"ダイニングキチン",
+            "title":"ダイニングキチン\nBếp kèm phòng ăn"
+            },
+            {
+            "word":"和室",
+            "title":"わしつ\nHÒA THẤT\nPhòng kiểu Nhật"
+            },
+            {
+            "word":"押し入れ",
+            "title":"おしいれ\nÁP NHẬP\nChổ để chăn gối trong  phòng kiểu Nhật"
+            },
+            {
+            "word":"布団",
+            "title":"ふとん\nBỐ ĐOÀN\nChăn, đệm"
+            },
+            {
+            "word":"パリ",
+            "title":"パリ\nPari"
+            },
+            {
+            "word":"万里の長城",
+            "title":"ばんりのちょうじょう\nVẠN LÝ TRƯỜNG THÀNH\nVạn Lý Trường Thành"
+            }            
+    ]
+}

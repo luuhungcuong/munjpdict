@@ -1,5 +1,170 @@
 {
     "name": "L21-Idori",
     "language": "ja-JP",
-    "data": []
+    "data": [
+        {
+            "word":"思います",
+            "title":"おもいます\nTƯ\nNghĩ"
+            },
+            {
+            "word":"言います",
+            "title":"いいます\nNGÔN\nNói"
+            },
+            {
+            "word":"勝ちます",
+            "title":"かちます\nTHẮNG\nThắng"
+            },
+            {
+            "word":"負けます",
+            "title":"まけます\nPHỤ\nThua"
+            },
+            {
+            "word":"[お祭りが～]あります",
+            "title":"[おまつりが～]あります\nTẾ\n[Lễ hội~]được tổ chức, diễn ra"
+            },
+            {
+            "word":"役に立ちます",
+            "title":"やくにたちます\nDỊCH LẬP\nGiúp ích"
+            },
+            {
+            "word":"動きます",
+            "title":"うごきます\nĐỘNG\nChuyển động, chạy"
+            },
+            {
+            "word":"[会社を～]やめます",
+            "title":"[会社を～]やめます\nHỘI XÃ\nBỏ, thôi [việc công ty]"
+            },
+            {
+            "word":"気をつけます",
+            "title":"きをつけます\nKHÍ\nChú ý, bảo trọng"
+            },
+            {
+            "word":"留学します",
+            "title":"りゅうがくします\nLƯU HỌC\nDu học"
+            },
+            {
+            "word":"むだ",
+            "title":"むだ\nLãng phí, vô ích"
+            },
+            {
+            "word":"不便",
+            "title":"ふべん\nBẤT TIỆN\nBất tiện"
+            },
+            {
+            "word":"すごい",
+            "title":"すごい\nGhê quá, giỏi quá"
+            },
+            {
+            "word":"ほんとう",
+            "title":"ほんとう\nSự thật"
+            },
+            {
+            "word":"うそ",
+            "title":"うそ\nSự giả dối"
+            },
+            {
+            "word":"自動車",
+            "title":"じどうしゃ\nTỰ ĐỘNG XA\nÔ tô, xe hơi"
+            },
+            {
+            "word":"交通",
+            "title":"こうつう\nGIAO THÔNG\nGiao thông"
+            },
+            {
+            "word":"物価",
+            "title":"ぶっか\nVẬT GIÁ\nGiá cả, mức giá, vật giá"
+            },
+            {
+            "word":"放送",
+            "title":"ほうそう\nPHÓNG TỐNG\nPhát, phát thanh"
+            },
+            {
+            "word":"ニュース",
+            "title":"ニュース\nTin tức, bản tin"
+            },
+            {
+            "word":"アニメ",
+            "title":"アニメ\nPhim hoạt hình (Nhật)"
+            },
+            {
+            "word":"マンガ",
+            "title":"マンガ\nTruyện tranh"
+            },
+            {
+            "word":"デザイン",
+            "title":"デザイン\nThiết kế"
+            },
+            {
+            "word":"夢",
+            "title":"ゆめ\nMỘNG\nGiấc mơ"
+            },
+            {
+            "word":"天才",
+            "title":"てんさい\nTHIÊN TÀI\nThiên tài"
+            },
+            {
+            "word":"試合",
+            "title":"しあい\nTHÍ HỢP\nTrận đấu"
+            },
+            {
+            "word":"意見",
+            "title":"いけん\nÝ KIẾN\nÝ kiến"
+            },
+            {
+            "word":"[お]話",
+            "title":"[お]はなし\nTHOẠI\nCâu chuyện, bài nói chuyện "
+            },
+            {
+            "word":"[お]話をします",
+            "title":"[お]はなしをします\nTHOẠI\nNói chuyện"
+            },
+            {
+            "word":"地球",
+            "title":"ちきゅう\nĐỊA CẦU\nTrái đất"
+            },
+            {
+            "word":"月",
+            "title":"つき\nNGUYỆT\nMặt trăng"
+            },
+            {
+            "word":"最近",
+            "title":"さいきん\nTỐI CẬN\nGần đây"
+            },
+            {
+            "word":"たぶん",
+            "title":"たぶん\nChắc, có thể"
+            },
+            {
+            "word":"きっと",
+            "title":"きっと\nChắc chắn, nhất định"
+            },
+            {
+            "word":"ほんとうに",
+            "title":"ほんとうに\nThật sự"
+            },
+            {
+            "word":"そんなに",
+            "title":"そんなに\n(không)~ lắm"
+            },
+            {
+            "word":"～について",
+            "title":"～について\nVề~"
+            },
+            {
+            "word":"久しぶりですね。",
+            "title":"ひさしぶりですね。\nCỬU\nĐã lâu không gặp nhỉ."
+            },
+            {
+            "word":"～でも飲みませんか。",
+            "title":"～でものみませんか。\nẨM\nAnh/chị uống~ (cà-phê, rượu hay cái gì đó) nhé."
+            },
+            {
+            "word":"もちろん",
+            "title":"もちろん\nTất nhiên"
+            },
+            {
+            "word":"帰らないと...。",
+            "title":"かえらないと...。\nQUY\nTôi phải về bây giờ không thì …"
+            }
+    ]
 }

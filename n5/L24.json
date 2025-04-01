@@ -1,0 +1,78 @@
+{
+    "name": "L24-Idori",
+    "language": "ja-JP",
+    "data": [
+        {
+            "word":"くれます",
+            "title":"くれます\n\nCho, tặng (tôi)"
+            },
+            {
+            "word":"直します",
+            "title":"なおします\nTRỰC\nChữa, sửa"
+            },
+            {
+            "word":"連れて行きます",
+            "title":"つれていきます\nLIÊN HÀNH\nDẫn đi"
+            },
+            {
+            "word":"連れて来ます",
+            "title":"つれてきます\nLIÊN LAI\nDẫn đến"
+            },
+            {
+            "word":"[人を～]送ります",
+            "title":"[ひとを～]おくります\nNHÂN TỐNG \nĐưa đi, đưa đến, tiễn [một ai đó]"
+            },
+            {
+            "word":"紹介します",
+            "title":"しょうかいします\nTHIỆU GIỚI\nGiới thiệu"
+            },
+            {
+            "word":"案内します",
+            "title":"あんないします\nÁN NỘI\nHướng dẫn, giới thiệu, dẫn đường"
+            },
+            {
+            "word":"説明します",
+            "title":"せつめいします\nTHUYẾT MINH\nGiải thích, trình bày"
+            },
+            {
+            "word":"おじいさん／ おじいちゃん",
+            "title":"おじいさん／ おじいちゃん\n\nÔng nội, ông ngoại, ông"
+            },
+            {
+            "word":"おばあさん／ おばあちゃん",
+            "title":"おばあさん／ おばあちゃん\n\nBà nội, bà ngoại, bà"
+            },
+            {
+            "word":"準備",
+            "title":"じゅんび\nCHUẨN BỊ\nSự chuẩn bị "
+            },
+            {
+            "word":"準備します",
+            "title":"じゅんびします\nCHUẨN BỊ\nChuẩn bị"
+            },
+            {
+            "word":"引っ越し",
+            "title":"ひっこし\nDẪN VIỆT\nSự chuyển nhà"
+            },
+            {
+            "word":"[お]菓子",
+            "title":"[お]かし\nQUẢ TỬ\nBánh kẹo"
+            },
+            {
+            "word":"ホームステイ",
+            "title":"ホームステイ\n\nHomestay"
+            },
+            {
+            "word":"全部",
+            "title":"ぜんぶ\nTOÀN BỘ\nToàn bộ, tất cả"
+            },
+            {
+            "word":"自分で",
+            "title":"じぶんで\nTỰ PHÂN\nTự (mình)"
+            },
+            {
+            "word":"ほかに",
+            "title":"ほかに\n\nNgoài ra, bên cạnh đó"
+            }
+    ]
+}
