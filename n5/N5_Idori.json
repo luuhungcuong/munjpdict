@@ -4805,6 +4805,526 @@
         {
             "word": "とか",
             "title": "とか  Nào là"
+        },
+        {
+            "word": "思います",
+            "title": "おもいます\nTƯ\nNghĩ"
+        },
+        {
+            "word": "言います",
+            "title": "いいます\nNGÔN\nNói"
+        },
+        {
+            "word": "勝ちます",
+            "title": "かちます\nTHẮNG\nThắng"
+        },
+        {
+            "word": "負けます",
+            "title": "まけます\nPHỤ\nThua"
+        },
+        {
+            "word": "[お祭りが～]あります",
+            "title": "[おまつりが～]あります\nTẾ\n[Lễ hội~]được tổ chức, diễn ra"
+        },
+        {
+            "word": "役に立ちます",
+            "title": "やくにたちます\nDỊCH LẬP\nGiúp ích"
+        },
+        {
+            "word": "動きます",
+            "title": "うごきます\nĐỘNG\nChuyển động, chạy"
+        },
+        {
+            "word": "[会社を～]やめます",
+            "title": "[会社を～]やめます\nHỘI XÃ\nBỏ, thôi [việc công ty]"
+        },
+        {
+            "word": "気をつけます",
+            "title": "きをつけます\nKHÍ\nChú ý, bảo trọng"
+        },
+        {
+            "word": "留学します",
+            "title": "りゅうがくします\nLƯU HỌC\nDu học"
+        },
+        {
+            "word": "むだ",
+            "title": "むだ\nLãng phí, vô ích"
+        },
+        {
+            "word": "不便",
+            "title": "ふべん\nBẤT TIỆN\nBất tiện"
+        },
+        {
+            "word": "すごい",
+            "title": "すごい\nGhê quá, giỏi quá"
+        },
+        {
+            "word": "ほんとう",
+            "title": "ほんとう\nSự thật"
+        },
+        {
+            "word": "うそ",
+            "title": "うそ\nSự giả dối"
+        },
+        {
+            "word": "自動車",
+            "title": "じどうしゃ\nTỰ ĐỘNG XA\nÔ tô, xe hơi"
+        },
+        {
+            "word": "交通",
+            "title": "こうつう\nGIAO THÔNG\nGiao thông"
+        },
+        {
+            "word": "物価",
+            "title": "ぶっか\nVẬT GIÁ\nGiá cả, mức giá, vật giá"
+        },
+        {
+            "word": "放送",
+            "title": "ほうそう\nPHÓNG TỐNG\nPhát, phát thanh"
+        },
+        {
+            "word": "ニュース",
+            "title": "ニュース\nTin tức, bản tin"
+        },
+        {
+            "word": "アニメ",
+            "title": "アニメ\nPhim hoạt hình (Nhật)"
+        },
+        {
+            "word": "マンガ",
+            "title": "マンガ\nTruyện tranh"
+        },
+        {
+            "word": "デザイン",
+            "title": "デザイン\nThiết kế"
+        },
+        {
+            "word": "夢",
+            "title": "ゆめ\nMỘNG\nGiấc mơ"
+        },
+        {
+            "word": "天才",
+            "title": "てんさい\nTHIÊN TÀI\nThiên tài"
+        },
+        {
+            "word": "試合",
+            "title": "しあい\nTHÍ HỢP\nTrận đấu"
+        },
+        {
+            "word": "意見",
+            "title": "いけん\nÝ KIẾN\nÝ kiến"
+        },
+        {
+            "word": "[お]話",
+            "title": "[お]はなし\nTHOẠI\nCâu chuyện, bài nói chuyện "
+        },
+        {
+            "word": "[お]話をします",
+            "title": "[お]はなしをします\nTHOẠI\nNói chuyện"
+        },
+        {
+            "word": "地球",
+            "title": "ちきゅう\nĐỊA CẦU\nTrái đất"
+        },
+        {
+            "word": "月",
+            "title": "つき\nNGUYỆT\nMặt trăng"
+        },
+        {
+            "word": "最近",
+            "title": "さいきん\nTỐI CẬN\nGần đây"
+        },
+        {
+            "word": "たぶん",
+            "title": "たぶん\nChắc, có thể"
+        },
+        {
+            "word": "きっと",
+            "title": "きっと\nChắc chắn, nhất định"
+        },
+        {
+            "word": "ほんとうに",
+            "title": "ほんとうに\nThật sự"
+        },
+        {
+            "word": "そんなに",
+            "title": "そんなに\n(không)~ lắm"
+        },
+        {
+            "word": "～について",
+            "title": "～について\nVề~"
+        },
+        {
+            "word": "久しぶりですね。",
+            "title": "ひさしぶりですね。\nCỬU\nĐã lâu không gặp nhỉ."
+        },
+        {
+            "word": "～でも飲みませんか。",
+            "title": "～でものみませんか。\nẨM\nAnh/chị uống~ (cà-phê, rượu hay cái gì đó) nhé."
+        },
+        {
+            "word": "もちろん",
+            "title": "もちろん\nTất nhiên"
+        },
+        {
+            "word": "帰らないと...。",
+            "title": "かえらないと...。\nQUY\nTôi phải về bây giờ không thì …"
+        },
+        {
+            "word": "着ます",
+            "title": "きます\nTRƯỚC\nMặc [áo sơ mi, v.v.]"
+        },
+        {
+            "word": "はきます",
+            "title": "はきます\nĐi, mặc [giầy, quần âu, v.v.]"
+        },
+        {
+            "word": "かぶります",
+            "title": "かぶります\nĐội [mũ, v.v.]"
+        },
+        {
+            "word": "[眼鏡を～]",
+            "title": "[めがねを～]かけます\nNHÃN KÍNH\nĐeo [kính]"
+        },
+        {
+            "word": "[ネクタイを～]します",
+            "title": "[ネクタイを～]します\nĐeo [cà vạt]"
+        },
+        {
+            "word": "生まれます",
+            "title": "うまれます\nSINH\nSinh ra"
+        },
+        {
+            "word": "私たち",
+            "title": "わたしたち\nTƯ\nChúng tôi, chúng ta"
+        },
+        {
+            "word": "コート",
+            "title": "コート\nÁo khoác"
+        },
+        {
+            "word": "セーター",
+            "title": "セーター\nÁo len"
+        },
+        {
+            "word": "スーツ",
+            "title": "スーツ\nCom-lê"
+        },
+        {
+            "word": "帽子",
+            "title": "ぼうし\nMẠO TỬ\nMũ"
+        },
+        {
+            "word": "眼鏡",
+            "title": "めがね\nNHÃN KÍNH\nKính"
+        },
+        {
+            "word": "ケーキ",
+            "title": "ケーキ\nBánh ngọt"
+        },
+        {
+            "word": "お弁当",
+            "title": "[お]べんとう\nBIỆN ĐƯƠNG\nCơm hộp"
+        },
+        {
+            "word": "ロボット",
+            "title": "ロボット\nRo bốt"
+        },
+        {
+            "word": "ユーモア",
+            "title": "ユーモア\nSự hài hước"
+        },
+        {
+            "word": "都合",
+            "title": "つごう\nĐÔ HỢP\n(Sự) thích hợp"
+        },
+        {
+            "word": "よく",
+            "title": "よく\nThường, hay"
+        },
+        {
+            "word": "えーと",
+            "title": "えーと\nỪ, à"
+        },
+        {
+            "word": "おめでとうございます",
+            "title": "おめでとうございます\nChúc mừng."
+        },
+        {
+            "word": "お探しますか",
+            "title": "おさがしですか\nTHÁM\nAnh/chị tìm ~ à?"
+        },
+        {
+            "word": "では",
+            "title": "では\nThế/Vậy (nhé)"
+        },
+        {
+            "word": "こちら",
+            "title": "こちら\nCái này (cách nói lịch sự của [これ])"
+        },
+        {
+            "word": "家賃",
+            "title": "やちん\nGIA NHẪM\nTiền thuê nhà"
+        },
+        {
+            "word": "ダイニングキチン",
+            "title": "ダイニングキチン\nBếp kèm phòng ăn"
+        },
+        {
+            "word": "和室",
+            "title": "わしつ\nHÒA THẤT\nPhòng kiểu Nhật"
+        },
+        {
+            "word": "押し入れ",
+            "title": "おしいれ\nÁP NHẬP\nChổ để chăn gối trong  phòng kiểu Nhật"
+        },
+        {
+            "word": "布団",
+            "title": "ふとん\nBỐ ĐOÀN\nChăn, đệm"
+        },
+        {
+            "word": "パリ",
+            "title": "パリ\nPari"
+        },
+        {
+            "word": "万里の長城",
+            "title": "ばんりのちょうじょう\nVẠN LÝ TRƯỜNG THÀNH\nVạn Lý Trường Thành"
+        },
+        {
+            "word": "[先生に～]聞きます",
+            "title": "[せんせいに～]ききます\nTIÊN SINH VĂN\nHỏi [giáo viên]"
+        },
+        {
+            "word": "[ドアに～]回します",
+            "title": "[ドアに～]まわします\nHỒI\nVặn (núm)"
+        },
+        {
+            "word": "引きます",
+            "title": "ひきます\nDẪN\nKéo"
+        },
+        {
+            "word": "変えます",
+            "title": "かえます\nBIẾN\nĐổi"
+        },
+        {
+            "word": "触ります",
+            "title": "さわります\nXÚC\nSờ, chạm vào [cửa]"
+        },
+        {
+            "word": "[お釣りが～]出ます",
+            "title": "[おつりが～]でます\nĐIẾU XUẤT\n[Tiền thừa] ra, chạy ra"
+        },
+        {
+            "word": "歩きます",
+            "title": "あるきます\nBỘ\nĐi bộ"
+        },
+        {
+            "word": "[橋を～]渡ります",
+            "title": "[はしを～]わたります\nKIỀU ĐỘ\nQua, đi qua [cầu]"
+        },
+        {
+            "word": "[右へ～]曲がります",
+            "title": "[みぎへ～]まがります\nHỮU KHÚC\nRẽ, quẹo [phải]"
+        },
+        {
+            "word": "寂しい",
+            "title": "さびしい\nTỊCH\nBuồn, cô đơn"
+        },
+        {
+            "word": "[お]湯",
+            "title": "[お]ゆ\nTHANG\nNước nóng"
+        },
+        {
+            "word": "音",
+            "title": "おと\nÂM\nÂm thanh"
+        },
+        {
+            "word": "サイズ",
+            "title": "サイズ\nCỡ, kích thước"
+        },
+        {
+            "word": "故障",
+            "title": "こしょう\nCỐ CHƯỚNG\nSự hỏng hóc "
+        },
+        {
+            "word": "故障します",
+            "title": "こしょうします\nCỐ CHƯỚNG\nBị hỏng"
+        },
+        {
+            "word": "道",
+            "title": "みち\nĐẠO\nĐường"
+        },
+        {
+            "word": "交差点",
+            "title": "こうさてん\nGIAO SAI ĐIỂM\nNgã tư"
+        },
+        {
+            "word": "信号",
+            "title": "しんごう\nTÍN HIỆU\nĐèn tín hiệu"
+        },
+        {
+            "word": "角",
+            "title": "かど\nGIÁC\nGóc"
+        },
+        {
+            "word": "橋",
+            "title": "はし\nKIỀU\nCầu"
+        },
+        {
+            "word": "駐車場",
+            "title": "ちゅうしゃじょう\nTRÚ XA TRƯỜNG\nBãi đỗ xe"
+        },
+        {
+            "word": "建物",
+            "title": "たてもの\nKIẾN VẬT　\nTòa nhà"
+        },
+        {
+            "word": "何回も",
+            "title": "なんかいも\nHÀ HỒI\nNhiều lần"
+        },
+        {
+            "word": "～目",
+            "title": "～め\nMỤC\nThứ～ , số ～ (biểu thị thứ tự)"
+        },
+        {
+            "word": "くれます",
+            "title": "くれます\n\nCho, tặng (tôi)"
+        },
+        {
+            "word": "直します",
+            "title": "なおします\nTRỰC\nChữa, sửa"
+        },
+        {
+            "word": "連れて行きます",
+            "title": "つれていきます\nLIÊN HÀNH\nDẫn đi"
+        },
+        {
+            "word": "連れて来ます",
+            "title": "つれてきます\nLIÊN LAI\nDẫn đến"
+        },
+        {
+            "word": "[人を～]送ります",
+            "title": "[ひとを～]おくります\nNHÂN TỐNG \nĐưa đi, đưa đến, tiễn [một ai đó]"
+        },
+        {
+            "word": "紹介します",
+            "title": "しょうかいします\nTHIỆU GIỚI\nGiới thiệu"
+        },
+        {
+            "word": "案内します",
+            "title": "あんないします\nÁN NỘI\nHướng dẫn, giới thiệu, dẫn đường"
+        },
+        {
+            "word": "説明します",
+            "title": "せつめいします\nTHUYẾT MINH\nGiải thích, trình bày"
+        },
+        {
+            "word": "おじいさん／ おじいちゃん",
+            "title": "おじいさん／ おじいちゃん\n\nÔng nội, ông ngoại, ông"
+        },
+        {
+            "word": "おばあさん／ おばあちゃん",
+            "title": "おばあさん／ おばあちゃん\n\nBà nội, bà ngoại, bà"
+        },
+        {
+            "word": "準備",
+            "title": "じゅんび\nCHUẨN BỊ\nSự chuẩn bị "
+        },
+        {
+            "word": "準備します",
+            "title": "じゅんびします\nCHUẨN BỊ\nChuẩn bị"
+        },
+        {
+            "word": "引っ越し",
+            "title": "ひっこし\nDẪN VIỆT\nSự chuyển nhà"
+        },
+        {
+            "word": "[お]菓子",
+            "title": "[お]かし\nQUẢ TỬ\nBánh kẹo"
+        },
+        {
+            "word": "ホームステイ",
+            "title": "ホームステイ\n\nHomestay"
+        },
+        {
+            "word": "全部",
+            "title": "ぜんぶ\nTOÀN BỘ\nToàn bộ, tất cả"
+        },
+        {
+            "word": "自分で",
+            "title": "じぶんで\nTỰ PHÂN\nTự (mình)"
+        },
+        {
+            "word": "ほかに",
+            "title": "ほかに\n\nNgoài ra, bên cạnh đó"
+        },
+        {
+            "word": "考えます",
+            "title": "かんがえます\nKHẢO\nNghĩ, suy nghĩ"
+        },
+        {
+            "word": "着きます",
+            "title": "つきます\nTRƯỚC\nĐến"
+        },
+        {
+            "word": "[年を～]取ります",
+            "title": "[としを～]とります\nNIÊN THỦ\nThêm [tuổi]"
+        },
+        {
+            "word": "足ります",
+            "title": "たります\nTÚC\nĐủ"
+        },
+        {
+            "word": "田舎",
+            "title": "いなか\nĐIỀN XÁ\nQuê, nông thôn"
+        },
+        {
+            "word": "チャンス",
+            "title": "チャンス\nCơ hội"
+        },
+        {
+            "word": "億",
+            "title": "おく\nỨC\nMột trăm triệu"
+        },
+        {
+            "word": "もし[～たら]",
+            "title": "もし[～たら]\nNếu [~ thì]"
+        },
+        {
+            "word": "意味",
+            "title": "いみ\nÝ VỊ\nNghĩa, ý nghĩa"
+        },
+        {
+            "word": "もしもし",
+            "title": "もしもし\nA-lô"
+        },
+        {
+            "word": "転勤",
+            "title": "てんきん\nCHUYỂN CẨN\nViệc chuyển địa điểm làm việc"
+        },
+        {
+            "word": "転勤します",
+            "title": "てんきんします\nCHUYỂN CẨN\nChuyển địa điểm làm việc"
+        },
+        {
+            "word": "こと",
+            "title": "こと\nViệc, chuyện (~のこと: việc ~)"
+        },
+        {
+            "word": "暇",
+            "title": "ひま\nHẠ\nThời gian rảnh"
+        },
+        {
+            "word": "[いろいろ]お世話になりました。",
+            "title": "[いろいろ]おせわになりました。\nTHẾ THOẠI\nAnh/chị đã giúp tôi (nhiều)."
+        },
+        {
+            "word": "頑張ります",
+            "title": "がんばります\nNGOAN TRƯỚNG\nCố, cố gắng"
+        },
+        {
+            "word": "どうぞお元気で。",
+            "title": "どうぞおげんきで。\nNGUYÊN KHÍ\nChúc anh/chị mạnh khỏe."
         }
     ]
 }
