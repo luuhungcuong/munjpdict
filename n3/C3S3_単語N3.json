@@ -1,0 +1,158 @@
+{
+    "name": "CHAPTER 3　毎日の暮らし Section 3　買い物 (Mua sắm)",
+    "language": "ja-JP",
+    "data": [
+        {
+            "word": "品物",
+            "title": "しなもの\nPHẨM VẬT\nHàng, hàng hóa"
+        },
+        {
+            "word": "現金",
+            "title": "げんきん\nHIỆN KIM\nTiền mặt"
+        },
+        {
+            "word": "クレジットカード",
+            "title": "Thẻ tín dụng"
+        },
+        {
+            "word": "一回払い",
+            "title": "いっかいばらい\nNHẤT HỒI PHẤT\nThanh toán một lần"
+        },
+        {
+            "word": "ボーナス",
+            "title": "Tiền thưởng"
+        },
+        {
+            "word": "ボーナス払い",
+            "title": "ボーナスばらい\nPHẤT\nTrả bằng tiền thưởng"
+        },
+        {
+            "word": "合計（する）",
+            "title": "ごうけい\nHỢP KẾ\nTổng cộng　例：合計を出す"
+        },
+        {
+            "word": "代金",
+            "title": "だいきん\nĐẠI KIM\nTiền mua hàng"
+        },
+        {
+            "word": "税込",
+            "title": "ぜいこみ\nTHUẾ NHẬP\nBao gồm thuế"
+        },
+        {
+            "word": "税別",
+            "title": "ぜいべつ\nTHUẾ BIỆT \nChưa tính thuế"
+        },
+        {
+            "word": "税金",
+            "title": "ぜいきん\nTHUẾ KIM\nTiền thuế"
+        },
+        {
+            "word": "請求書",
+            "title": "せいきゅうしょ\nTHỈNH CẦU THƯ\nPhiếu yêu cầu thanh toán"
+        },
+        {
+            "word": "領収書",
+            "title": "りょうしゅうしょ\nLĨNH THU THƯ\nHóa đơn"
+        },
+        {
+            "word": "売り切れ",
+            "title": "うりきれ\nMẠI THIẾT\nSự bán hết"
+        },
+        {
+            "word": "売り切れる",
+            "title": "うりきれる\nMẠI THIẾT\nBán hết"
+        },
+        {
+            "word": "品切れ",
+            "title": "しなぎれ\nPHẨM THIẾT\nSự hết hàng"
+        },
+        {
+            "word": "日替わり",
+            "title": "ひがわり\nNHẬT THẾ\nThay đổi theo ngày"
+        },
+        {
+            "word": "割引",
+            "title": "わりびき\nCÁT DẪN\nGiảm giá"
+        },
+        {
+            "word": "割り引く",
+            "title": "わりびく\nCÁT DẪN\nGiảm giá"
+        },
+        {
+            "word": "割引券",
+            "title": "わりびきけん\nCÁT DẪN KHOÁN\nPhiếu giảm giá"
+        },
+        {
+            "word": "学生割引",
+            "title": "がくせいわりびき\nHỌC SINH CÁT DẪN\nGiảm giá cho sinh viên"
+        },
+        {
+            "word": "半額",
+            "title": "はんがく\nBÁN NGẠCH\nNửa giá tiền"
+        },
+        {
+            "word": "半額セール",
+            "title": "はんがくセール\nBÁN NGẠCH\nBán hạ giá 50%"
+        },
+        {
+            "word": "特売日",
+            "title": "とくばいび\nĐẶC MẠI NHẬT\nNgày hạ giá đặc biệt"
+        },
+        {
+            "word": "特売品",
+            "title": "とくばいひん\nĐẶC MẠI PHẨM\nHàng hạ giá đặc biệt"
+        },
+        {
+            "word": "たった",
+            "title": "Chỉ có, vẻn vẹn"
+        },
+        {
+            "word": "ただ",
+            "title": "Không mất tiền, cho không"
+        },
+        {
+            "word": "得（な）",
+            "title": "とく（な）\nĐẮC\nMón hời (hời, lời)"
+        },
+        {
+            "word": "得（する）",
+            "title": "とくする\nĐẮC\nCó hời, có lời"
+        },
+        {
+            "word": "損（な）",
+            "title": "そん\nTỔN\nTổn thất, thiệt (bị thiệt)"
+        },
+        {
+            "word": "損（する）",
+            "title": "そんする\nTỔN\nThiệt, bị thiệt"
+        },
+        {
+            "word": "おまけ（する）",
+            "title": "Quà tặng khuyến mãi"
+        },
+        {
+            "word": "無駄（な）",
+            "title": "むだ(な）\nVÔ ĐÀ\nSự lãng phí ( hoang phí, lãng phí )"
+        },
+        {
+            "word": "無駄遣い（する）",
+            "title": "むだづかい（する）\nVÔ ĐÀ KHIỂN\nSự tiêu xài hoang phí"
+        },
+        {
+            "word": "寄る",
+            "title": "よる\nKÝ\nRẽ qua, ghé qua　例：デパートに寄る"
+        },
+        {
+            "word": "ついでに",
+            "title": "Tiện thể"
+        },
+        {
+            "word": "レジ袋",
+            "title": "レジぶくろ\nĐẠI\nTúi bóng, bao xốp"
+        },
+        {
+            "word": "定休日",
+            "title": "ていきゅうび\nĐỊNH HƯU NHẬT\nNgày nghỉ, quy định"
+        }
+    ]
+}

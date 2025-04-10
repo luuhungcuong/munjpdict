@@ -2,6 +2,133 @@
     "name": "CHAPTER 3　毎日の暮らし (Cuộc sống hàng ngày) Section 1　家 (Nhà)",
     "language": "ja-JP",
     "data": [
-        
+        {
+            "word": "Hán tự",
+            "title": "Cách đọc\nÂm Hán\nNghĩa"
+        },
+        {
+            "word": "住まい",
+            "title": "すまい\nTRÚ\nChỗ ở"
+        },
+        {
+            "word": "リビング",
+            "title": "Phòng khách"
+        },
+        {
+            "word": "居間",
+            "title": "いま\nCƯ GIAN\nPhòng khách"
+        },
+        {
+            "word": "家電",
+            "title": "かでん\nGIA ĐIỆN\nĐồ điện gia đình"
+        },
+        {
+            "word": "エアコン",
+            "title": "Máy điều hòa"
+        },
+        {
+            "word": "クーラー",
+            "title": "Máy lạnh"
+        },
+        {
+            "word": "ヒーター",
+            "title": "Máy sưởi"
+        },
+        {
+            "word": "暖房",
+            "title": "だんぼう\nNOÃN PHÒNG\nHệ thống sưởi, hệ thống nóng"
+        },
+        {
+            "word": "冷房",
+            "title": "れいぼう\nLÃNH PHÒNG\nHệ thống lạnh"
+        },
+        {
+            "word": "暖める",
+            "title": "あたためる\nNOÃN\nLàm ấm, sưởi ấm  (không khí)"
+        },
+        {
+            "word": "天井",
+            "title": "てんじょう\nTHIÊN TỈNH\nTrần nhà"
+        },
+        {
+            "word": "床",
+            "title": "ゆか\nSÀNG\nSàn nhà"
+        },
+        {
+            "word": "カーペット",
+            "title": "Thảm 例：カーペットを敷く"
+        },
+        {
+            "word": "じゅうたん",
+            "title": "Thảm"
+        },
+        {
+            "word": "座布団",
+            "title": "ざぶとん\nTOẠ BỐ ĐOÀN\nĐệm  ngồi"
+        },
+        {
+            "word": "ソフャー",
+            "title": "Ghế sofa"
+        },
+        {
+            "word": "クッション",
+            "title": "Gối tựa lưng"
+        },
+        {
+            "word": "～(を）どかす",
+            "title": "Xê, xê dịch, chuyển ra chỗ khác"
+        },
+        {
+            "word": "～(が）どく",
+            "title": "Tránh ra, xê ra"
+        },
+        {
+            "word": "コンセント",
+            "title": "Ổ cắm"
+        },
+        {
+            "word": "スイッチ",
+            "title": "Công tắc"
+        },
+        {
+            "word": "ドライヤー",
+            "title": "Máy sấy tóc"
+        },
+        {
+            "word": "蛇口",
+            "title": "じゃぐち\nXÀ KHẨU\nVòi nước"
+        },
+        {
+            "word": "ひねる",
+            "title": "Vặn, xoắn"
+        },
+        {
+            "word": "実家",
+            "title": "じっか\nTHỰC GIA\nNhà bố mẹ đẻ"
+        },
+        {
+            "word": "家賃",
+            "title": "やちん\nGIA NHẪM\nTiền thuê nhà"
+        },
+        {
+            "word": "物置",
+            "title": "ものおき\nVẬT TRÍ\nNơi để đồ"
+        },
+        {
+            "word": "日当たり",
+            "title": "ひあたり\nNHẬT ĐƯƠNG\nÁnh nắng"
+        },
+        {
+            "word": "内側",
+            "title": "うちがわ\nNỘI TRẮC\nBên trong"
+        },
+        {
+            "word": "外側",
+            "title": "そとがわ\nNGOẠI TRẮC\nBên ngoài"
+        },
+        {
+            "word": "内部",
+            "title": "ないぶ\nNỘI BỘ\nBên trong, nội bộ"
+        }
     ]
 }

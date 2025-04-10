@@ -71,5 +71,35 @@
     "avatarUr": "https://static.independent.co.uk/2022/08/24/12/iStock-1146262403.jpg?quality=75&width=400&crop=3%3A2%2Csmart&auto=webp",
     "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/munjpdict/refs/heads/main/n3/C2S5_単語N3.json",
     "title": "CHAPTER 2　毎日の暮らし (Cuộc sống hàng ngày) Section 5　家事 (Việc nhà)"
+  },
+  {
+    "name": "CHAPTER 3　毎日の暮らし (Cuộc sống hàng ngày) Section 1　家 (Nhà)",
+    "avatarUr": "https://static.independent.co.uk/2022/08/24/12/iStock-1146262403.jpg?quality=75&width=400&crop=3%3A2%2Csmart&auto=webp",
+    "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/munjpdict/refs/heads/main/n3/C3S1_単語N3.json",
+    "title": "CHAPTER 3　毎日の暮らし (Cuộc sống hàng ngày) Section 1　家 (Nhà)"
+  },
+  {
+    "name": "CHAPTER 3　毎日の暮らし Section 2　お金と銀行 (Tiền và ngân hàng)",
+    "avatarUr": "https://static.independent.co.uk/2022/08/24/12/iStock-1146262403.jpg?quality=75&width=400&crop=3%3A2%2Csmart&auto=webp",
+    "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/munjpdict/refs/heads/main/n3/C3S2_単語N3.json",
+    "title": "CHAPTER 3　毎日の暮らし Section 2　お金と銀行 (Tiền và ngân hàng)"
+  },
+  {
+    "name": "CHAPTER 3　毎日の暮らし Section 3　買い物 (Mua sắm)",
+    "avatarUr": "https://static.independent.co.uk/2022/08/24/12/iStock-1146262403.jpg?quality=75&width=400&crop=3%3A2%2Csmart&auto=webp",
+    "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/munjpdict/refs/heads/main/n3/C3S3_単語N3.json",
+    "title": "CHAPTER 3　毎日の暮らし Section 3　買い物 (Mua sắm)"
+  },
+  {
+    "name": "CHAPTER 3　毎日の暮らし Section 4　朝から夜まで (Từ sáng đến tối)",
+    "avatarUr": "https://static.independent.co.uk/2022/08/24/12/iStock-1146262403.jpg?quality=75&width=400&crop=3%3A2%2Csmart&auto=webp",
+    "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/munjpdict/refs/heads/main/n3/C3S4_単語N3.json",
+    "title": "CHAPTER 3　毎日の暮らし Section 4　朝から夜まで (Từ sáng đến tối)"
+  },
+  {
+    "name": "CHAPTER 3　毎日の暮らし Section 5　こんなことも (Cả những việc như thế này)",
+    "avatarUr": "https://static.independent.co.uk/2022/08/24/12/iStock-1146262403.jpg?quality=75&width=400&crop=3%3A2%2Csmart&auto=webp",
+    "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/munjpdict/refs/heads/main/n3/C3S5_単語N3.json",
+    "title": "CHAPTER 3　毎日の暮らし Section 5　こんなことも (Cả những việc như thế này)"
   }
 ]

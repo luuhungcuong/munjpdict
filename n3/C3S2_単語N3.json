@@ -1,0 +1,146 @@
+{
+    "name": "Section 2　お金と銀行 (Tiền và ngân hàng)",
+    "language": "ja-JP",
+    "data": [
+        {
+            "word": "「お」札",
+            "title": "[お]さつ\nTRÁT\nTiền giấy"
+        },
+        {
+            "word": "紙幣",
+            "title": "しへい\nCHỈ TỆ\nTiền giấy"
+        },
+        {
+            "word": "コイン",
+            "title": "Tiền xu"
+        },
+        {
+            "word": "硬貨",
+            "title": "こうか\nNGẠNH HOÁ\nTiền xu"
+        },
+        {
+            "word": "小銭",
+            "title": "こぜに\nTIỂU TIỀN\nTiền lẻ, xu lẻ"
+        },
+        {
+            "word": "生活費",
+            "title": "せいかつひ\nSINH HOẠT PHÍ\nChi phí/ tiền sinh hoạt"
+        },
+        {
+            "word": "食費",
+            "title": "しょくひ\nTHỰC PHÍ\nChi phí/ tiền ăn uống"
+        },
+        {
+            "word": "光熱費",
+            "title": "こうねつひ\nQUANG NHIỆT PHÍ\nChi phí/ tiền điện ga"
+        },
+        {
+            "word": "交際費",
+            "title": "こうさいひ\nGIAO TẾ PHÍ\nChi phí/ tiền quan hệ giao tiếp"
+        },
+        {
+            "word": "公共料金",
+            "title": "こうきょうりょうきん\nCÔNG CỘNG LIỆU KIM\nPhí dịch vụ công cộng"
+        },
+        {
+            "word": "「お」こづかい",
+            "title": "Tiền tiêu vặt"
+        },
+        {
+            "word": "節約（する）",
+            "title": "せつやく\nTIẾT ƯỚC\nSự tiết kiệm"
+        },
+        {
+            "word": "贅沢（な/する）",
+            "title": "ぜいたく（な/する）\nCHUẾ TRẠCH\nXa xỉ, xa hoa, xài sang"
+        },
+        {
+            "word": "割り勘",
+            "title": "わりかん\nCÁT KHÁM\nChia tiền trả, campuchia…:))"
+        },
+        {
+            "word": "レンタル（する）",
+            "title": "Sự thuê mướn"
+        },
+        {
+            "word": "レンタルビデオ",
+            "title": "Băng video thuê"
+        },
+        {
+            "word": "支払う",
+            "title": "しはらう\nCHI PHẤT\nTrả tiền, thanh toán"
+        },
+        {
+            "word": "支払い",
+            "title": "しはらい\nCHI PHẤT\nChi trả, thanh toán"
+        },
+        {
+            "word": "勘定（する）",
+            "title": "かんじょう\nKHÁM ĐỊNH\nSự tính tiền, thanh toán"
+        },
+        {
+            "word": "口座",
+            "title": "こうざ\nKHẨU TOẠ\nTài khoản"
+        },
+        {
+            "word": "銀行口座",
+            "title": "ぎんこうこうざ\nNGÂN HÀNH KHẨU TOẠ\nTài khoản ngân hàng"
+        },
+        {
+            "word": "キャッシュカード",
+            "title": "Thẻ tiền mặt"
+        },
+        {
+            "word": "暗証番号",
+            "title": "あんしょうばんごう\nÁM CHỨNG PHIÊN HIỆU\nSố mật khẩu, mật mã"
+        },
+        {
+            "word": "預金（する）",
+            "title": "よきん\nDỰ KIM\nSự gửi tiền(vào ngân hàng)"
+        },
+        {
+            "word": "貯金（する）",
+            "title": "ちょきん（する）\nTRỮ KIM\nSự gửi tiết kiệm"
+        },
+        {
+            "word": "預金通帳",
+            "title": "よきんつうちょう\nDỰ KIM THÔNG TRƯỚNG\nSổ ngân hàng"
+        },
+        {
+            "word": "貯金通帳",
+            "title": "ちょきんつうちょう\nTRỮ KIM THÔNG TRƯỚNG\nSổ tiết kiệm"
+        },
+        {
+            "word": "～（を）貯める",
+            "title": "(〜を)ためる\nTRỮ\nTích lũy, dành dụm"
+        },
+        {
+            "word": "～（が）貯まる",
+            "title": "(〜が)たまる\nTRỮ\nTích trữ, dành dụm được"
+        },
+        {
+            "word": "引き出す",
+            "title": "ひきだす\nDẪN XUẤT\nRút"
+        },
+        {
+            "word": "（お金を）下す",
+            "title": "(おかね を) おろす\nKIM HẠ\nRút tiền"
+        },
+        {
+            "word": "振り込む",
+            "title": "ふりこむ\nCHẤN NHẬP\nChuyển khoản"
+        },
+        {
+            "word": "振り込み",
+            "title": "ふりこみ\nCHẤN NHẬP\nSư chuyển khoản"
+        },
+        {
+            "word": "送金（する）",
+            "title": "そうきん\nTỐNG KIM\nSự gửi tiền (cho ai đó)"
+        },
+        {
+            "word": "通帳記入",
+            "title": "つうちょうきにゅう\nTHÔNG TRƯỚNG KÍ NHẬP\nCập nhật thông tin sổ ngân hàng"
+        }
+    ]
+}

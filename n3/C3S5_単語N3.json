@@ -1,0 +1,110 @@
+{
+    "name": "CHAPTER 3　毎日の暮らし Section 5　こんなことも (Cả những việc như thế này)",
+    "language": "ja-JP",
+    "data": [
+        {
+            "word": "日常",
+            "title": "にちじょう\nNHẬT THƯỜNG\nThường nhật"
+        },
+        {
+            "word": "日常生活",
+            "title": "にちじょうせいかつ\nNHẬT THƯỜNG SINH HOẠT\nCuộc sống thường nhật, sinh hoạt hàng ngày"
+        },
+        {
+            "word": "日常会話",
+            "title": "にちじょうかいわ\nNHẬT THƯỜNG HỘI THOẠI\nHội thoại thông thường"
+        },
+        {
+            "word": "常に",
+            "title": "つねに\nTHƯỜNG\nThường xuyên"
+        },
+        {
+            "word": "出迎え",
+            "title": "でむかえ\nXUẤT NGHÊNH\n(Sự) đón"
+        },
+        {
+            "word": "出迎える",
+            "title": "でむかえる\nXUẤT NGHÊNH\nĐón"
+        },
+        {
+            "word": "見送り",
+            "title": "みおくり\nKIẾN TỐNG\n(Sự) tiễn"
+        },
+        {
+            "word": "見送る",
+            "title": "みおくる\nKIẾN TỐNG\nTiễn"
+        },
+        {
+            "word": "郵送（する）",
+            "title": "ゆうそう\nBƯU TỐNG\nGửi bưu điện"
+        },
+        {
+            "word": "小包",
+            "title": "こづつみ\nTIỂU BAO\nGói, bưu kiện"
+        },
+        {
+            "word": "送料",
+            "title": "そうりょう\nTỐNG LIỆU\nTiền gửi, cước gửi"
+        },
+        {
+            "word": "宛先",
+            "title": "あてさき\nUYỂN TIÊN\nĐịa chỉ nhận"
+        },
+        {
+            "word": "宛名",
+            "title": "あてな\nUYỂN DANH\nTên người nhận"
+        },
+        {
+            "word": "差出人",
+            "title": "さしだしにん\nSAI XUẤT NHÂN\nNgười gửi"
+        },
+        {
+            "word": "とりあえず",
+            "title": "Trước mắt"
+        },
+        {
+            "word": "出前",
+            "title": "でまえ\nXUẤT TIỀN\nGọi đến nhà"
+        },
+        {
+            "word": "デリバリー",
+            "title": "Gọi đến nhà"
+        },
+        {
+            "word": "ほどく",
+            "title": "Tháo cởi"
+        },
+        {
+            "word": "結ぶ",
+            "title": "むすぶ\nKẾT\nBuộc, nối"
+        },
+        {
+            "word": "留守番電話",
+            "title": "るすばんでんわ\nLƯU THỦ PHIÊN ĐIỆN THOẠI\nĐiện thoại trả lời tự động khi vắng nhà"
+        },
+        {
+            "word": "よく",
+            "title": "Hay"
+        },
+        {
+            "word": "早め（な）",
+            "title": "はやめ （な）\nTẢO\nSớm, nhanh chóng"
+        },
+        {
+            "word": "遅め（な）",
+            "title": "おそめ （な）\nTRÌ\nMuộn, chậm trễ"
+        },
+        {
+            "word": "リサイクル（する）",
+            "title": "Sự tái chế, tái sử dụng"
+        },
+        {
+            "word": "再利用",
+            "title": "さいりよう\nTÁI LỢI DỤNG\nTái sử dụng"
+        },
+        {
+            "word": "～（を）どける",
+            "title": "Xê, xê dịch, để tránh sang một bên"
+        }
+    ]
+}
