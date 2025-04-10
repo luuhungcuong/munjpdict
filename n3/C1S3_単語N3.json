@@ -1,0 +1,122 @@
+{
+    "name": "CHAPTER 1　人と人との関係 Section 3　恋人 (Người yêu)",
+    "language": "ja-JP",
+    "data": [
+        {
+            "word":"彼女",
+            "title":"かのじょ\nBỈ NỮ\nCô ấy, bạn gái"
+            },
+            {
+            "word":"彼",
+            "title":"かれ\nBỈ \nAnh ấy, bạn trai"
+            },
+            {
+            "word":"彼氏",
+            "title":"かれし\nBỈ THỊ\nBạn trai"
+            },
+            {
+            "word":"愛情",
+            "title":"あいじょう\nÁI TÌNH\nTình yêu"
+            },
+            {
+            "word":"出会い",
+            "title":"であい\nXUẤT HỘI\nCuộc gặp gỡ"
+            },
+            {
+            "word":"出会う",
+            "title":"であう\nXUẤT HỘI\nGặp, gặp gỡ"
+            },
+            {
+            "word":"付き合う",
+            "title":"つきあう\nPHÓ HỢP\nYêu nhau, quan hệ, cùng đi"
+            },
+            {
+            "word":"付き合い",
+            "title":"つきあい\nPHÓ HỢP\nMối quan hệ (giao tiếp, yêu đương)"
+            },
+            {
+            "word":"交際（する）",
+            "title":"こうさいする\nGIAO TẾ\nSự quan hệ, giao thiệp"
+            },
+            {
+            "word":"記念（する）",
+            "title":"きねんする\nKỈ NIỆM \nSự kỉ niệm"
+            },
+            {
+            "word":"記念日",
+            "title":"きねんび\nKỈ NIỆM NHẬT\nNgày kỉ niệm"
+            },
+            {
+            "word":"けんか（する）",
+            "title":"\n\nSự cãi nhau, cãi vã, đánh lộn"
+            },
+            {
+            "word":"口げんか（する）",
+            "title":"くちげんか\nKHẨU\nSự cãi nhau, cãi vã"
+            },
+            {
+            "word":"言い返す",
+            "title":"いいかえす\nNGÔN PHẢN\nNói lại, bắt bẻ, bốp chát"
+            },
+            {
+            "word":"謝る",
+            "title":"あやまる\nTẠ\nXin lỗi"
+            },
+            {
+            "word":"仲直り（する）",
+            "title":"なかなおり\nTRỌNG TRỰC\nSự làm lành"
+            },
+            {
+            "word":"連れて行く",
+            "title":"つれていく\nLIÊN HÀNH\nDẫn đi, dắt đi"
+            },
+            {
+            "word":"連れて来る",
+            "title":"つれてくる\nLIÊN LAI\nDẫn đến, dẫn về"
+            },
+            {
+            "word":"秘密",
+            "title":"ひみつ\nBÍ MẬT\nBí mật"
+            },
+            {
+            "word":"内緒",
+            "title":"ないしょ\nNỘI TỰ\nBí mật, chuyện nội bộ biết với nhau"
+            },
+            {
+            "word":"好かれる",
+            "title":"すかれる\nHẢO \nĐược thích, được yêu mến"
+            },
+            {
+            "word":"もてる",
+            "title":"\n\nĐược nhiều người thích"
+            },
+            {
+            "word":"（人を）ふる",
+            "title":"（ひとを）ふる\nNHÂN\nBỏ (người yêu), từ chối (ai đó)"
+            },
+            {
+            "word":"（人に）ふられる",
+            "title":"（ひとに）ふられる\nNHÂN\nBị (ai đó, người yêu) bỏ, đá"
+            },
+            {
+            "word":"「お」見合い（する）",
+            "title":"「お」みあいする\nKIẾN HỢP\nMai mối"
+            },
+            {
+            "word":"見合い結婚",
+            "title":"みあいけっこん\nKIẾN HỢP KẾT HÔN\nKết hôn qua mai mối"
+            },
+            {
+            "word":"恋愛（する）",
+            "title":"れんあい（する）\nLUYẾN ÁI \nChuyện yêu đương, tình yêu"
+            },
+            {
+            "word":"恋愛結婚",
+            "title":"れんあいけっこん\nLUYẾN ÁI KẾT HÔN\nKết hôn qua tình yêu"
+            },
+            {
+            "word":"存在　（する）",
+            "title":"そんざいする\nTỒN TẠI\nSự tồn tại, người, thứ"
+            }
+    ]
+}

@@ -19,9 +19,33 @@
     "title": "CHAPTER 1　人と人との関係 (Quan hệ giữa người với người)Section 1　家族 (Gia đình)"
   },
   {
-    "name": "CHAPTER 1　人と人との関係 (Quan hệ giữa người với người)Section 2　家族 (Gia đình)",
+    "name": "CHAPTER 1　人と人との関係 Section 2　友だちとの知り合い (Bạn bè và người quen)",
     "avatarUr": "https://static.independent.co.uk/2022/08/24/12/iStock-1146262403.jpg?quality=75&width=400&crop=3%3A2%2Csmart&auto=webp",
     "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/munjpdict/refs/heads/main/n3/C1S2_単語N3.json",
-    "title": "CHAPTER 1　人と人との関係 (Quan hệ giữa người với người)Section 2　家族 (Gia đình)"
+    "title": "CHAPTER 1　人と人との関係 Section 2　友だちとの知り合い (Bạn bè và người quen)"
+  },
+  {
+    "name": "CHAPTER 1　人と人との関係 Section 3　恋人 (Người yêu)",
+    "avatarUr": "https://static.independent.co.uk/2022/08/24/12/iStock-1146262403.jpg?quality=75&width=400&crop=3%3A2%2Csmart&auto=webp",
+    "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/munjpdict/refs/heads/main/n3/C1S3_単語N3.json",
+    "title": "CHAPTER 1　人と人との関係 Section 3　恋人 (Người yêu)"
+  },
+  {
+    "name": "CHAPTER 1　人と人との関係 Section 4 コミュニケーション (Giao tiếp)",
+    "avatarUr": "https://static.independent.co.uk/2022/08/24/12/iStock-1146262403.jpg?quality=75&width=400&crop=3%3A2%2Csmart&auto=webp",
+    "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/munjpdict/refs/heads/main/n3/C1S4_単語N3.json",
+    "title": "CHAPTER 1　人と人との関係 Section 4 コミュニケーション (Giao tiếp)"
+  },
+  {
+    "name": "CHAPTER 1　人と人との関係 Section 5 どんな人？ (Là người như thế nào)",
+    "avatarUr": "https://static.independent.co.uk/2022/08/24/12/iStock-1146262403.jpg?quality=75&width=400&crop=3%3A2%2Csmart&auto=webp",
+    "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/munjpdict/refs/heads/main/n3/C1S5_単語N3.json",
+    "title": "CHAPTER 1　人と人との関係 Section 5 どんな人？ (Là người như thế nào)"
+  },
+  {
+    "name": "CHAPTER 1　人と人との関係 Section 6 どんな人？ (Là người như thế nào)",
+    "avatarUr": "https://static.independent.co.uk/2022/08/24/12/iStock-1146262403.jpg?quality=75&width=400&crop=3%3A2%2Csmart&auto=webp",
+    "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/munjpdict/refs/heads/main/n3/C1S6_単語N3.json",
+    "title": "CHAPTER 1　人と人との関係 Section 6 どんな人？ (Là người như thế nào)"
   }
 ]

@@ -1,7 +1,110 @@
 {
-    "name": "CHAPTER 1　人と人との関係 (Quan hệ giữa người với người)Section 1　家族 (Gia đình)",
+    "name": "CHAPTER 1　人と人との関係 Section 2　友だちとの知り合い (Bạn bè và người quen)",
     "language": "ja-JP",
     "data": [
-        
+        {
+            "word":"親友",
+            "title":"しんゆう\nTHÂN HỮU\nBạn thân"
+            },
+            {
+            "word":"仲間",
+            "title":"なかま\nTRỌNG GIAN\nHội, bạn, hội bạn"
+            },
+            {
+            "word":"仲良し",
+            "title":"なかよし\nTRỌNG LƯƠNG\nThân, thân thiết, quan hệ tốt"
+            },
+            {
+            "word":"幼なじみ",
+            "title":"\nẤU\nBạn thuở bé"
+            },
+            {
+            "word":"クラスメート",
+            "title":"Bạn cùng lớp"
+            },
+            {
+            "word":"友情",
+            "title":"ゆうじょう\nHỮU TÌNH\nTình bạn"
+            },
+            {
+            "word":"親しい",
+            "title":"したしい\nTHÂN \nThân"
+            },
+            {
+            "word":"知人",
+            "title":"ちじん\nTRI NHÂN\nNgười quen"
+            },
+            {
+            "word":"知り合い",
+            "title":"しりあい\nTRI HỢP\nNgười quen"
+            },
+            {
+            "word":"知り合う",
+            "title":"しりあう\nTRI HỢP\nBiết nhau"
+            },
+            {
+            "word":"メンバー",
+            "title":"Thành viên, thành phần, tham dự"
+            },
+            {
+            "word":"～（を）つなぐ",
+            "title":"Nắm, nối, thông"
+            },
+            {
+            "word":"～（が）つながる",
+            "title":"Kết nối, gọi được"
+            },
+            {
+            "word":"当時",
+            "title":"とうじ\nĐƯƠNG THỜI\nLúc đó, thời đó"
+            },
+            {
+            "word":"当日",
+            "title":"とうじつ\nĐƯƠNG NHẬT\nNgày hôm đó"
+            },
+            {
+            "word":"祝う",
+            "title":"いわう\nCHÚC\nMừng, chúc mừng"
+            },
+            {
+            "word":"お祝いする",
+            "title":"おいわいする\nCHÚC\nMừng, chúc mừng"
+            },
+            {
+            "word":"お祝い",
+            "title":"おいわい\nCHÚC\n(Việc) mừng"
+            },
+            {
+            "word":"遠慮（する）",
+            "title":"えんりょする\nVIỄN LỰ\nSự làm khách, e ngại, giữ kẽ"
+            },
+            {
+            "word":"しょっちゅう",
+            "title":"Thường xuyên"
+            },
+            {
+            "word":"たびたび",
+            "title":"Nhiều lần"
+            },
+            {
+            "word":"たまに",
+            "title":"Thi thoảng"
+            },
+            {
+            "word":"たまたま",
+            "title":"Tình cờ, ngẫu nhiên"
+            },
+            {
+            "word":"めったに～ない",
+            "title":"Họa, hoằn, hiếm khi"
+            },
+            {
+            "word":"しばらく",
+            "title":"Một lúc, một thời gian"
+            },
+            {
+            "word":"別々（な）",
+            "title":"べつべつ\nBIỆT \nSự khác nhau, riêng biệt"
+            }
     ]
 }

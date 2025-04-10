@@ -1,0 +1,154 @@
+{
+    "name": "CHAPTER 1　人と人との関係 (Quan hệ giữa người với người)Section 5　どんな人？ (Là người như thế nào)",
+    "language": "ja-JP",
+    "data": [
+        {
+            "word": "名字",
+            "title": "みょうじ\nDANH TỰ\nHọ (tên)"
+        },
+        {
+            "word": "性別",
+            "title": "せいべつ\nTÍNH BIỆT\nGiới tính"
+        },
+        {
+            "word": "男性",
+            "title": "だんせい\nNAM TÍNH \nPhái nam, đàn ông"
+        },
+        {
+            "word": "女性",
+            "title": "じょせい\nNỮ TÍNH\nPhái nữ, phụ nữ"
+        },
+        {
+            "word": "年齢",
+            "title": "ねんれい\nNIÊN LINH\nTuổi, tuối tác"
+        },
+        {
+            "word": "高齢",
+            "title": "こうれい\nCAO LINH\nCao tuổi, nhiều tuổi"
+        },
+        {
+            "word": "高齢者",
+            "title": "こうれいしゃ\nCAO LINH GIẢ\nNgười cao tuổi"
+        },
+        {
+            "word": "高齢化",
+            "title": "こうれいか\nCAO LINH HOÁ\nGià hóa (dân số)"
+        },
+        {
+            "word": "（お）年寄り",
+            "title": "（お）としより\nNIÊN KÍ\nNgười già"
+        },
+        {
+            "word": "老人",
+            "title": "ろうじん\nLÃO NHÂN\nNgười già"
+        },
+        {
+            "word": "ボウリング",
+            "title": "\n\nMôn bowling"
+        },
+        {
+            "word": "乳児",
+            "title": "にゅうじ\nNHŨ NHI \nEm bé, trẻ (từ 0-1 tuổi)"
+        },
+        {
+            "word": "幼児",
+            "title": "ようじ\nẤU NHI \nTrẻ ấu nhi (trẻ từ 1-5 tuổi)"
+        },
+        {
+            "word": "児童",
+            "title": "じどう\nNHI ĐỒNG\nTrẻ (> 6 tuổi)"
+        },
+        {
+            "word": "出身",
+            "title": "しゅっしん\nXUẤT THÂN\nXuất thân, sinh ra"
+        },
+        {
+            "word": "出身地",
+            "title": "しゅっしんち\nXUẤT THÂN ĐỊA\nNơi xuất thân,nơi sinh ra"
+        },
+        {
+            "word": "出身大学",
+            "title": "しゅっしんだいがく\nXUẤT THÂN ĐẠI HỌC\nTrường đại học tốt nghiệp"
+        },
+        {
+            "word": "生まれ",
+            "title": "うまれ\nSINH\n(Sự) sinh ra, chào đời"
+        },
+        {
+            "word": "生まれる",
+            "title": "うまれる\nSINH\nSinh ra, chào đời"
+        },
+        {
+            "word": "育ち",
+            "title": "そだち\nDỤC\n(Sự) lớn lên, trưởng thành"
+        },
+        {
+            "word": "育つ",
+            "title": "そだつ\nDỤC\nLớn lên, trưởng thành"
+        },
+        {
+            "word": "～（を）育てる",
+            "title": "〜（を）そだてる\nDỤC\nNuôi dưỡng, nuôi dạy, nuôi lớn"
+        },
+        {
+            "word": "行儀",
+            "title": "ぎょうぎ\nHÀNH NGHI\nHành vi, cư xử"
+        },
+        {
+            "word": "マナー",
+            "title": "\n\nPhép lịch sự, ứng xử"
+        },
+        {
+            "word": "礼儀",
+            "title": "れいぎ\nLỄ NGHI\nLễ nghi"
+        },
+        {
+            "word": "個人",
+            "title": "こじん\nCÁ NHÂN\nCá nhân"
+        },
+        {
+            "word": "個人的（な）",
+            "title": "こじんてき（な）\nCÁ NHÂN ĐÍCH\nMang tính cá nhân"
+        },
+        {
+            "word": "個人情報",
+            "title": "こじんじょうほう\nCÁ NHÂN TÌNH BÁO\nThông tin các nhân"
+        },
+        {
+            "word": "アドレス",
+            "title": "\n\nĐịa chỉ e-mail"
+        },
+        {
+            "word": "メールアドレス",
+            "title": "\n\nĐịa chỉ mail"
+        },
+        {
+            "word": "本人",
+            "title": "ほんにん\nBẢN NHÂN\nBản thân, đúng người"
+        },
+        {
+            "word": "独身",
+            "title": "どくしん\nĐỘC THÂN\nĐộc thân"
+        },
+        {
+            "word": "既婚",
+            "title": "きこん\nKÍ HÔN\nĐã kết hôn"
+        },
+        {
+            "word": "主婦",
+            "title": "しゅふ\nCHỦ PHỤ\nNội trợ"
+        },
+        {
+            "word": "専業主婦",
+            "title": "せんぎょうしゅふ\nCHUYÊN NGHIỆP CHỦ PHỤ\nChuyên nội trợ"
+        },
+        {
+            "word": "フリーター",
+            "title": "\n\nNgười làm thêm tự do"
+        },
+        {
+            "word": "無職",
+            "title": "むしょく\nVÔ CHỨC\nSự không có việc làm"
+        }
+    ]
+}
