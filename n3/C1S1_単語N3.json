@@ -1,0 +1,130 @@
+{
+    "name": "CHAPTER 1　人と人との関係 (Quan hệ giữa người với người)Section 1　家族 (Gia đình)",
+    "language": "ja-JP",
+    "data": [
+        {
+            "word": "父親",
+            "title": "ちちおや\nPHỤ THÂN\nBố tôi, người bố"
+        },
+        {
+            "word": "母親",
+            "title": "ははおや\nMẪU THÂN\nMẹ tôi, người mẹ"
+        },
+        {
+            "word": "長女",
+            "title": "ちょうじょ\nTRƯỜNG NỮ\nTrưởng nữ, con gái cả, con gái đầu lòng"
+        },
+        {
+            "word": "長男",
+            "title": "ちょうなん\nTRƯỜNG NAM\nTrưởng nam, con trai cả, con trai đầu lòng"
+        },
+        {
+            "word": "次女",
+            "title": "じじょ\nTHỨ NỮ\nCon gái thứ hai"
+        },
+        {
+            "word": "二女",
+            "title": "じじょ\nNHỊ NỮ\nCon gái thứ hai"
+        },
+        {
+            "word": "次男",
+            "title": "じなん\nTHỨ NAM\nCon trai thứ hai"
+        },
+        {
+            "word": "二男",
+            "title": "じなん\nTHỨ NAM\nCon trai thứ hai"
+        },
+        {
+            "word": "三女",
+            "title": "さんじょ\nTAM NỮ\nCon gái thứ ba"
+        },
+        {
+            "word": "三男",
+            "title": "さんなん\nTAM NAM\nCon trai thứ ba"
+        },
+        {
+            "word": "末っ子",
+            "title": "すえっこ\nMẠT TỬ\nCon út"
+        },
+        {
+            "word": "一人っ子",
+            "title": "ひとりっこ\nNHẤT NHÂN TỬ\nCon một"
+        },
+        {
+            "word": "姉妹",
+            "title": "しまい\nTỶ MUỘI\nChị em gái"
+        },
+        {
+            "word": "一人娘",
+            "title": "ひとりむすめ\nNHẤT NHÂN NƯƠNG\nCon gái độc nhất,  con gái duy nhất"
+        },
+        {
+            "word": "一人息子",
+            "title": "ひとりむすこ\nNHẤT NHÂN  TỨC TỬ\nCon trai độc nhất"
+        },
+        {
+            "word": "親子",
+            "title": "おやこ\nTHÂN TỬ\nBố mẹ con cái"
+        },
+        {
+            "word": "夫婦",
+            "title": "ふうふ\nPHU PHỤ\nVợ chồng"
+        },
+        {
+            "word": "「ご」夫妻",
+            "title": "「ご」ふさい\nPHU THÊ\nVợ chồng bạn"
+        },
+        {
+            "word": "親類",
+            "title": "しんるい\nTHÂN LOẠI\nHọ hàng"
+        },
+        {
+            "word": "親戚",
+            "title": "しんせき\nTHÂN THÍCH \nHọ hàng"
+        },
+        {
+            "word": "先祖",
+            "title": "せんぞ\nTIÊN TỔ\nTổ tiên"
+        },
+        {
+            "word": "祖先",
+            "title": "そせん\nTỔ TIÊN \nÔng tổ, tổ tiên"
+        },
+        {
+            "word": "尊敬（する）",
+            "title": "そんけい\nTÔN KÍNH\nKính trọng"
+        },
+        {
+            "word": "おじ",
+            "title": "Chú, cậu, bác trai"
+        },
+        {
+            "word": "おば",
+            "title": "Cô, dì, bác gái"
+        },
+        {
+            "word": "いとこ",
+            "title": "Anh chị em họ"
+        },
+        {
+            "word": "おい",
+            "title": "Cháu trai"
+        },
+        {
+            "word": "めい",
+            "title": "Cháu gái"
+        },
+        {
+            "word": "連れる",
+            "title": "つれる\nLIÊN\nDẫn đi, dắt đi"
+        },
+        {
+            "word": "似る",
+            "title": "にる\nTỰ\nGiống 例：父に似ている"
+        },
+        {
+            "word": "そっくり（な）",
+            "title": "Giống hệt, giống như đúc 例：父親にそっくりだ。"
+        }
+    ]
+}
