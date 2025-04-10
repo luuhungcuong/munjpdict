@@ -1,7 +1,154 @@
 {
-    "name": "CHAPTER 1　人と人との関係 (Quan hệ giữa người với người)Section 1　家族 (Gia đình)",
+    "name": "CHAPTER 2　毎日の暮らし (Cuộc sống hàng ngày) Section 1　時の表現 (Cách nói về thời gian)",
     "language": "ja-JP",
     "data": [
-        
+        {
+            "word": "本日",
+            "title": "ほんじつ\nBẢN NHẬT\nHôm nay"
+        },
+        {
+            "word": "今日",
+            "title": "きょう\nKIM NHẬT\nHôm nay"
+        },
+        {
+            "word": "明日",
+            "title": "あす\nMINH NHẬT\nNgày mai"
+        },
+        {
+            "word": "前日",
+            "title": "ぜんじつ\nTIỀN NHẬT\nNgày hôm trước"
+        },
+        {
+            "word": "翌日",
+            "title": "よくじつ\nDỰC NHẬT\nNgày hôm sau"
+        },
+        {
+            "word": "翌週",
+            "title": "よくしゅう\nDỰC CHU\nTuần tới"
+        },
+        {
+            "word": "翌月",
+            "title": "よくげつ\nDỰC NGUYỆT\nTháng sau"
+        },
+        {
+            "word": "翌年",
+            "title": "よくとし\nDỰC NIÊN\nNăm sau đó"
+        },
+        {
+            "word": "しあさって",
+            "title": "Ngày kìa"
+        },
+        {
+            "word": "先おととい",
+            "title": "さきおととい\nTIÊN\nHôm kìa"
+        },
+        {
+            "word": "昨日",
+            "title": "さくじつ\nTẠC NHẬT\nHôm qua"
+        },
+        {
+            "word": "一昨日",
+            "title": "おととい/（いっさくじつ）\nNHẤT TẠC NHẬT\nHôm kia"
+        },
+        {
+            "word": "昨年",
+            "title": "さくねん\nTẠC NIÊN\nNăm ngoái"
+        },
+        {
+            "word": "一昨年",
+            "title": "おととし　/（いっさくねん）\nNHẤT TẠC NIÊN\nNăm kia"
+        },
+        {
+            "word": "先日",
+            "title": "せんじつ\nTIÊN NHẬT\nHôm nọ, hôm trước, vài ngày trước"
+        },
+        {
+            "word": "再来週",
+            "title": "さらいしゅう\nTÁI LAI CHU\nTuần tới nữa"
+        },
+        {
+            "word": "再来月",
+            "title": "さらいげつ\nTÁI LAI NGUYỆT\nTháng sau nữa"
+        },
+        {
+            "word": "再来年",
+            "title": "さらいねん\nTÁI LAI NIÊN\nNăm sau nữa"
+        },
+        {
+            "word": "先々週",
+            "title": "せんせんしゅう\nTIÊN CHU\nTuần trước nữa"
+        },
+        {
+            "word": "先々月",
+            "title": "せんせんげつ\nTIÊN NGUYỆT\nTháng trước nữa"
+        },
+        {
+            "word": "上旬",
+            "title": "じょうじゅん\nTHƯỢNG TUẦN\nThượng tuần, đầu tháng"
+        },
+        {
+            "word": "初旬",
+            "title": "しょじゅん\nSƠ TUẦN\nThượng tuần, đầu tháng"
+        },
+        {
+            "word": "中旬",
+            "title": "ちゅうじゅん\nTRUNG TUẦN\nTrung tuần, giữa tháng"
+        },
+        {
+            "word": "下旬",
+            "title": "げじゅん\nHẠ TUẦN\nHạ tuần, cuối tháng"
+        },
+        {
+            "word": "深夜",
+            "title": "しんや\nTHÂM DẠ\nĐêm khuya"
+        },
+        {
+            "word": "真夜中",
+            "title": "まよなか\nCHÂN DẠ TRUNG\nĐêm khuya"
+        },
+        {
+            "word": "深夜番組",
+            "title": "しんやばんぐみ\nTHÂM DẠ PHIÊN TỔ\nChương trình đêm khuya"
+        },
+        {
+            "word": "未来",
+            "title": "みらい\nVỊ LAI\nTương lai"
+        },
+        {
+            "word": "将来",
+            "title": "しょうらい\nTƯƠNG LAI\nTương lai (chỉ 1 việc trong tgian gần tới, dùng nói những việc mang tính cá nhân)"
+        },
+        {
+            "word": "数日",
+            "title": "すうじつ\nSỐ NHẬT\nMột số ngày, vài ngày"
+        },
+        {
+            "word": "数か月",
+            "title": "すうかげつ\nSỐ NGUYỆT\nVài tháng"
+        },
+        {
+            "word": "数年",
+            "title": "すうねん\nSỐ NIÊN\nVài năm"
+        },
+        {
+            "word": "数回",
+            "title": "すうかい\nSỐ HỒI\nVài lần"
+        },
+        {
+            "word": "以降",
+            "title": "いこう\nDĨ GIÁNG\nTừ sau"
+        },
+        {
+            "word": "以後",
+            "title": "いご\nDĨ HẬU\nTừ sau"
+        },
+        {
+            "word": "以来",
+            "title": "いらい\nDĨ LAI\nTừ đó đến nay"
+        },
+        {
+            "word": "以前",
+            "title": "いぜん\nDĨ TIỀN\nTừ đó trở về trước"
+        }
     ]
 }

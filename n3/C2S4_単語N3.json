@@ -1,0 +1,158 @@
+{
+    "name": "CHAPTER 2　毎日の暮らし (Cuộc sống hàng ngày) Section 4　料理の作り方 (Cách làm món ăn)",
+    "language": "ja-JP",
+    "data": [
+        {
+            "word": "刻む",
+            "title": "きざむ \nKHẮC\nKhắc, chạm trỗ, cắt tỉa"
+        },
+        {
+            "word": "（卵を）割る",
+            "title": "（たまごを)わる\nNOÃN CÁT\nĐập (trứng), làm bể"
+        },
+        {
+            "word": "剥く",
+            "title": "むく\nBÁC\nBóc, gọt"
+        },
+        {
+            "word": "加える",
+            "title": "くわえる \nGIA\nThêm"
+        },
+        {
+            "word": "少々",
+            "title": "しょうしょう \nTHIỂU\nMột chút, một ít"
+        },
+        {
+            "word": "揚げる",
+            "title": "あげる \nDƯƠNG\nRán, chiên"
+        },
+        {
+            "word": "煮る",
+            "title": "にる\nCHỬ\nNấu, ninh"
+        },
+        {
+            "word": "ゆでる",
+            "title": "Luộc"
+        },
+        {
+            "word": "蒸す",
+            "title": "むす \nCHƯNG\nHấp"
+        },
+        {
+            "word": "加熱（する）",
+            "title": "かねつ（する）\nGIA NHIỆT\nLàm nóng, đun nóng"
+        },
+        {
+            "word": "くるむ",
+            "title": "Quấn, cuộn"
+        },
+        {
+            "word": "包む",
+            "title": "つつむ\nBAO\nBọc"
+        },
+        {
+            "word": "にぎる",
+            "title": "Nắm"
+        },
+        {
+            "word": "おにぎり",
+            "title": "Cơm nắm"
+        },
+        {
+            "word": "おむすび",
+            "title": "Cơm nắm Musubi"
+        },
+        {
+            "word": "熱する",
+            "title": "ねっする \nNHIỆT\nLàm nóng, đun nóng"
+        },
+        {
+            "word": "焦げる",
+            "title": "こげる\nTIÊU\nCháy"
+        },
+        {
+            "word": "取り出す",
+            "title": "とりだす \nTHỦ XUẤT\nLấy ra"
+        },
+        {
+            "word": "塗る",
+            "title": "ぬる \nĐỒ\nPhết, bôi"
+        },
+        {
+            "word": "温める",
+            "title": "あたためる \nÔN\nLàm nóng, hâm nóng"
+        },
+        {
+            "word": "冷やす",
+            "title": "ひやす \nLÃNH\nĐể lạnh, để nguội"
+        },
+        {
+            "word": "ぬるい",
+            "title": "Ấm, âm ấm"
+        },
+        {
+            "word": "水分",
+            "title": "すいぶん \nTHUỶ PHÂN\nThành phần nước, nước"
+        },
+        {
+            "word": "～（を）沸かす",
+            "title": "～（を）わかす \nPHÍ\nĐun sôi"
+        },
+        {
+            "word": "～（が）沸く",
+            "title": "～（が）わく\nPHÍ\nSôi, (nước) sôi"
+        },
+        {
+            "word": "注ぐ",
+            "title": "そそぐ\nCHÚ\nRót"
+        },
+        {
+            "word": "味見（する）",
+            "title": "あじみ(する)\nVỊ KIẾN\nSự nếm thử"
+        },
+        {
+            "word": "手間",
+            "title": "てま\nTHỦ GIAN\nThời gian, công sức"
+        },
+        {
+            "word": "手軽（な）",
+            "title": "てがる \nTHỦ KHINH\nDễ dàng"
+        },
+        {
+            "word": "でき上がり",
+            "title": "できあがり \nTHƯỢNG\nXong, nấu xong"
+        },
+        {
+            "word": "でき上がる",
+            "title": "できあがる\nTHƯỢNG\nXong, nấu xong"
+        },
+        {
+            "word": "分ける",
+            "title": "わける\nPHÂN\nChia"
+        },
+        {
+            "word": "つまむ",
+            "title": "Gắp"
+        },
+        {
+            "word": "塩辛い",
+            "title": "しおからい \nDIÊM TÂN\nMặn"
+        },
+        {
+            "word": "しょっぱい",
+            "title": "Mặn"
+        },
+        {
+            "word": "すっぱい",
+            "title": "Chua"
+        },
+        {
+            "word": "冷凍（する）",
+            "title": "れいとう \nLÃNH ĐÔNG\nSự đông lạnh"
+        },
+        {
+            "word": "冷凍食品",
+            "title": "れいとう しょくひん\nLÃNH ĐÔNG THỰC PHẨM\nThực phẩm đông lạnh"
+        }
+    ]
+}

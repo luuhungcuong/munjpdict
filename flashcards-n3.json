@@ -43,9 +43,33 @@
     "title": "CHAPTER 1　人と人との関係 Section 5 どんな人？ (Là người như thế nào)"
   },
   {
-    "name": "CHAPTER 1　人と人との関係 Section 6 どんな人？ (Là người như thế nào)",
+    "name": "CHAPTER 2　毎日の暮らし (Cuộc sống hàng ngày) Section 1　時の表現 (Cách nói về thời gian)",
     "avatarUr": "https://static.independent.co.uk/2022/08/24/12/iStock-1146262403.jpg?quality=75&width=400&crop=3%3A2%2Csmart&auto=webp",
-    "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/munjpdict/refs/heads/main/n3/C1S6_単語N3.json",
-    "title": "CHAPTER 1　人と人との関係 Section 6 どんな人？ (Là người như thế nào)"
+    "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/munjpdict/refs/heads/main/n3/C2S1_単語N3.json",
+    "title": "CHAPTER 2　毎日の暮らし (Cuộc sống hàng ngày) Section 1　時の表現 (Cách nói về thời gian)"
+  },
+  {
+    "name": "CHAPTER 2　毎日の暮らし (Cuộc sống hàng ngày) S2 食生活 (Đời sống ẩm thực)",
+    "avatarUr": "https://static.independent.co.uk/2022/08/24/12/iStock-1146262403.jpg?quality=75&width=400&crop=3%3A2%2Csmart&auto=webp",
+    "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/munjpdict/refs/heads/main/n3/C2S2_単語N3.json",
+    "title": "CHAPTER 2　毎日の暮らし (Cuộc sống hàng ngày) S2 食生活 (Đời sống ẩm thực)"
+  },
+  {
+    "name": "CHAPTER 2　毎日の暮らし (Cuộc sống hàng ngày) Section 3　料理の道具と材料 (Dụng cụ và nguyên liệu nấu ăn)",
+    "avatarUr": "https://static.independent.co.uk/2022/08/24/12/iStock-1146262403.jpg?quality=75&width=400&crop=3%3A2%2Csmart&auto=webp",
+    "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/munjpdict/refs/heads/main/n3/C2S3_単語N3.json",
+    "title": "CHAPTER 2　毎日の暮らし (Cuộc sống hàng ngày) Section 3　料理の道具と材料 (Dụng cụ và nguyên liệu nấu ăn)"
+  },
+  {
+    "name": "CHAPTER 2　毎日の暮らし (Cuộc sống hàng ngày) Section 4　料理の作り方 (Cách làm món ăn)",
+    "avatarUr": "https://static.independent.co.uk/2022/08/24/12/iStock-1146262403.jpg?quality=75&width=400&crop=3%3A2%2Csmart&auto=webp",
+    "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/munjpdict/refs/heads/main/n3/C2S4_単語N3.json",
+    "title": "CHAPTER 2　毎日の暮らし (Cuộc sống hàng ngày) Section 4　料理の作り方 (Cách làm món ăn)"
+  },
+  {
+    "name": "CHAPTER 2　毎日の暮らし (Cuộc sống hàng ngày) Section 5　家事 (Việc nhà)",
+    "avatarUr": "https://static.independent.co.uk/2022/08/24/12/iStock-1146262403.jpg?quality=75&width=400&crop=3%3A2%2Csmart&auto=webp",
+    "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/munjpdict/refs/heads/main/n3/C2S5_単語N3.json",
+    "title": "CHAPTER 2　毎日の暮らし (Cuộc sống hàng ngày) Section 5　家事 (Việc nhà)"
   }
 ]

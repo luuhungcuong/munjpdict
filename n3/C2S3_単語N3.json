@@ -1,0 +1,142 @@
+{
+    "name": "CHAPTER 2　毎日の暮らし (Cuộc sống hàng ngày) Section 3　料理の道具と材料 (Dụng cụ và nguyên liệu nấu ăn)",
+    "language": "ja-JP",
+    "data": [
+        {
+            "word": "鍋",
+            "title": "なべ\nOA\nNồi"
+        },
+        {
+            "word": "フライパン",
+            "title": "Chảo"
+        },
+        {
+            "word": "包丁",
+            "title": "ほうちょう\nBAO ĐINH\nDao"
+        },
+        {
+            "word": "まな板",
+            "title": "まないた\nBẢN \nThớt"
+        },
+        {
+            "word": "おたま",
+            "title": "Muôi, vá"
+        },
+        {
+            "word": "しゃもじ",
+            "title": "Thìa xới cơm"
+        },
+        {
+            "word": "大さじ",
+            "title": "おおさじ\nĐẠI\nThìa to, muỗng to"
+        },
+        {
+            "word": "小さじ",
+            "title": "こさじ\nTIỂU\nThìa nhỏ, muỗng nhỏ"
+        },
+        {
+            "word": "カップ",
+            "title": "Cốc"
+        },
+        {
+            "word": "炊飯器",
+            "title": "すいはんき\nXUÝ PHẠN KHÍ\nNồi cơm điện"
+        },
+        {
+            "word": "炊く",
+            "title": "たく\nXUÝ \nNấu (cơm, thức ăn)"
+        },
+        {
+            "word": "流し台",
+            "title": "ながしだい\nLƯU ĐÀI\nBồn rửa"
+        },
+        {
+            "word": "電子レンジ",
+            "title": "でんしレンジ\nĐIỆN TỬ\nLò vi sóng"
+        },
+        {
+            "word": "ガスレンジ",
+            "title": "Lò ga, bếp ga"
+        },
+        {
+            "word": "調味料",
+            "title": "ちょうみりょう\nĐIỀU VỊ LIỆU\nGia vị, bột ngọt"
+        },
+        {
+            "word": "こしょう",
+            "title": "Tiêu, hạt tiêu"
+        },
+        {
+            "word": "酢",
+            "title": "す\nTẠC \nDấm ăn"
+        },
+        {
+            "word": "サラダ油",
+            "title": "サラダあぶら\nDU\nDầu ăn"
+        },
+        {
+            "word": "サラダオイル",
+            "title": "Dầu ăn"
+        },
+        {
+            "word": "食品",
+            "title": "しょくひん\nTHỰC PHẨM\nThực phẩm, đồ ăn"
+        },
+        {
+            "word": "食料品",
+            "title": "しょくりょうひん\nTHỰC LIỆU PHẨM\nThực phẩm, đồ ăn"
+        },
+        {
+            "word": "インスタント食品",
+            "title": "インスタントしょくひん\nTHỰC PHẨM \nĐồ ăn liền"
+        },
+        {
+            "word": "レトルト食品",
+            "title": "レトルトしょくひん\nTHỰC PHẨM\nĐồ hộp, thực phẩm đóng gói"
+        },
+        {
+            "word": "～（を）切らす",
+            "title": "〜をきらす\nTHIẾT\nDùng hết"
+        },
+        {
+            "word": "～（が）切れる",
+            "title": "〜がきれる\nTHIẾT\nHết"
+        },
+        {
+            "word": "くさる",
+            "title": "Hỏng, thiu"
+        },
+        {
+            "word": "くさい",
+            "title": "Hôi, thối"
+        },
+        {
+            "word": "アルミホイル",
+            "title": "Giấy bạc"
+        },
+        {
+            "word": "ラップ（する）",
+            "title": "Màng bọc thực phẩm, giấy bóng"
+        },
+        {
+            "word": "おしぼり",
+            "title": "Khăn ướt"
+        },
+        {
+            "word": "食器",
+            "title": "しょっき\nTHỰC KHÍ \nBát đĩa"
+        },
+        {
+            "word": "茶碗",
+            "title": "ちゃわん\nTRÀ OẢN\nBát, chén"
+        },
+        {
+            "word": "湯のみ",
+            "title": "ゆのみ\nTHANG\nCốc"
+        },
+        {
+            "word": "グラス",
+            "title": "Ly, tách"
+        }
+    ]
+}

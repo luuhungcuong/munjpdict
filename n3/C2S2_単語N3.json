@@ -1,7 +1,130 @@
 {
-    "name": "CHAPTER 1　人と人との関係 (Quan hệ giữa người với người)Section 1　家族 (Gia đình)",
+    "name": "CHAPTER 2　毎日の暮らし (Cuộc sống hàng ngày) S2 食生活 (Đời sống ẩm thực)",
     "language": "ja-JP",
     "data": [
-        
+        {
+            "word": "朝食",
+            "title": "ちょうしょく\nTRIỀU THỰC\nBữa sáng"
+        },
+        {
+            "word": "モーニング",
+            "title": "Sáng, buổi sáng"
+        },
+        {
+            "word": "昼食",
+            "title": "ちゅうしょく\nTRÚ THỰC\nBữa trưa"
+        },
+        {
+            "word": "ランチ",
+            "title": "Bữa trưa"
+        },
+        {
+            "word": "夕食",
+            "title": "ゆうしょく\nTỊCH THỰC\nBữa tối"
+        },
+        {
+            "word": "ディナー",
+            "title": "Bữa tối"
+        },
+        {
+            "word": "デザート",
+            "title": "Món tráng miệng"
+        },
+        {
+            "word": "おやつ",
+            "title": "Bữa ăn xế, bữa ăn phụ"
+        },
+        {
+            "word": "おかず",
+            "title": "Thức ăn"
+        },
+        {
+            "word": "「お」弁当",
+            "title": "「お」べんとう\nBIỆN ĐƯƠNG\nCơm hộp"
+        },
+        {
+            "word": "自炊（する）",
+            "title": "じすい\nTỰ XUÝ\nViệc tự nấu"
+        },
+        {
+            "word": "外食（する）",
+            "title": "がいしょく\nNGOẠI THỰC\nViệc ăn ngoài"
+        },
+        {
+            "word": "グルメ",
+            "title": "Sành ăn, người sành ăn"
+        },
+        {
+            "word": "おごる",
+            "title": "Đãi, chiêu đãi"
+        },
+        {
+            "word": "ごちそうする",
+            "title": "Đãi, chiêu đãi"
+        },
+        {
+            "word": "おごり",
+            "title": "Đãi, chiêu đãi"
+        },
+        {
+            "word": "食欲",
+            "title": "しょくよく\nTHỰC DỤC\n(Sự) thèm ăn, hứng ăn"
+        },
+        {
+            "word": "注文（する）",
+            "title": "ちゅうもんする\nCHÚ VĂN\nSự đặt hàng, gọi món"
+        },
+        {
+            "word": "乾杯（する）",
+            "title": "かんぱいする\nCAN BÔI\nSự cạn chén, nâng cốc, cụng ly"
+        },
+        {
+            "word": "かむ",
+            "title": "Nhai"
+        },
+        {
+            "word": "味わう",
+            "title": "あじわう\nVỊ \nThưởng thức, thử"
+        },
+        {
+            "word": "お代わり（する）",
+            "title": "おかわり（する）\nĐẠI\nSự ăn thêm, uống thêm"
+        },
+        {
+            "word": "～（を）残す",
+            "title": "〜（を）のこす\nTÀN\nĐể thừa, để lại"
+        },
+        {
+            "word": "～（が）残る",
+            "title": "〜（が）のこる\nTÀN\nCòn lại; sót lại; còn"
+        },
+        {
+            "word": "残り物",
+            "title": "のこりもの\nTÀN VẬT\nĐồ (ăn) thừa"
+        },
+        {
+            "word": "もったいない",
+            "title": "Lãng phí"
+        },
+        {
+            "word": "済ませる",
+            "title": "すませる\nTẾ\nDùng...cho đơn giản,...là xong"
+        },
+        {
+            "word": "済ます",
+            "title": "すます\nTẾ\nDùng...cho đơn giản,... là xong"
+        },
+        {
+            "word": "済む",
+            "title": "すむ\nTẾ\nXong, xong xuôi"
+        },
+        {
+            "word": "量",
+            "title": "りょう\nLƯỢNG\nLượng, số lượng"
+        },
+        {
+            "word": "バランス",
+            "title": "Cân bằng"
+        }
     ]
 }

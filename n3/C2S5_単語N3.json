@@ -1,0 +1,202 @@
+{
+    "name": "CHAPTER 2　毎日の暮らし (Cuộc sống hàng ngày) Section 5　家事 (Việc nhà)",
+    "language": "ja-JP",
+    "data": [
+        {
+            "word": "～（が）散らかる",
+            "title": "(〜が)ちらかる\nTẢN, TÁN\nBừa bộn"
+        },
+        {
+            "word": "～（を）散らかす",
+            "title": "(〜を)ちらかす\nTẢN, TÁN\nBày bừa, bày lung tung"
+        },
+        {
+            "word": "(〜を)片付ける",
+            "title": "(〜を)かたづける\nPHIẾN PHÓ\nDọn, dọn dẹp"
+        },
+        {
+            "word": "～（が）片付く",
+            "title": "(〜が)かたづく\nPHIẾN PHÓ\nGọn gàng, được dọn dẹp"
+        },
+        {
+            "word": "片付け",
+            "title": "かたづけ\nPHIẾN PHÓ\nDọn dẹp"
+        },
+        {
+            "word": "清潔（な）",
+            "title": "せいけつ \nTHANH KHIẾT\nSạch sẽ"
+        },
+        {
+            "word": "不潔（な）",
+            "title": "ふけつ（な）\nBẤT KHIẾT\nBẩn"
+        },
+        {
+            "word": "掃く",
+            "title": "はく\nTẢO\nQuét, quét dọn"
+        },
+        {
+            "word": "ほうき",
+            "title": "Chổi"
+        },
+        {
+            "word": "ちりとり",
+            "title": "Cái hốt rác"
+        },
+        {
+            "word": "掃除機",
+            "title": "そうじき\nTẢO TRỪ CƠ\nMáy hút bụi"
+        },
+        {
+            "word": "拭く",
+            "title": "ふく\nTHỨC\nLau"
+        },
+        {
+            "word": "ぞうきん",
+            "title": "Giẻ lau"
+        },
+        {
+            "word": "バケツ",
+            "title": "Xô"
+        },
+        {
+            "word": "しぼる",
+            "title": "Vắt"
+        },
+        {
+            "word": "～（を）こぼす",
+            "title": "Làm đổ"
+        },
+        {
+            "word": "～（が）こぼれる",
+            "title": "Bị đổ"
+        },
+        {
+            "word": "洗剤",
+            "title": "せんざい\nTẨY TẾ\nBột giặt, nước rửa"
+        },
+        {
+            "word": "かび",
+            "title": "Mốc"
+        },
+        {
+            "word": "ほこり",
+            "title": "Bụi"
+        },
+        {
+            "word": "磨く",
+            "title": "みがく\nMA\nCọ, đánh cọ"
+        },
+        {
+            "word": "ブラシ",
+            "title": "Bàn chải"
+        },
+        {
+            "word": "歯ブラシ",
+            "title": "はブラシ\nXỈ\nBàn chải đánh răng"
+        },
+        {
+            "word": "あわ",
+            "title": "Bọt"
+        },
+        {
+            "word": "臭う",
+            "title": "におう\nXÚ\nBị mùi, ám mùi, bốc mùi"
+        },
+        {
+            "word": "臭い",
+            "title": "におい\nXÚ\nÁm mùi, bốc mùi"
+        },
+        {
+            "word": "匂い",
+            "title": "におい\nMÙI\nThơm"
+        },
+        {
+            "word": "匂う",
+            "title": "におう\nMÙI\nMùi thơm, dùng cho mùi không khó chịu"
+        },
+        {
+            "word": "洗濯物",
+            "title": "せんたくもの\nTẨY TRẠC VẬT\nĐồ giặt"
+        },
+        {
+            "word": "汚れ",
+            "title": "よごれ\nÔ\nBẩn, vết bẩn"
+        },
+        {
+            "word": "汚れる",
+            "title": "よごれる\nÔ\nBị bẩn"
+        },
+        {
+            "word": "干す",
+            "title": "ほす\nCAN\nPhơi, hong"
+        },
+        {
+            "word": "乾燥（する）",
+            "title": "かんそう\nCAN TÁO\nSự sấy khô"
+        },
+        {
+            "word": "乾燥機",
+            "title": "かんそうき\nCAN TÁO CƠ\nMáy sấy"
+        },
+        {
+            "word": "たたむ",
+            "title": "Gấp"
+        },
+        {
+            "word": "畳",
+            "title": "たたみ\nĐIỆP\nCái chiếu"
+        },
+        {
+            "word": "アイロン",
+            "title": "Bàn là, bàn ủi"
+        },
+        {
+            "word": "敷く",
+            "title": "しく\nPHU\nTrải"
+        },
+        {
+            "word": "育児",
+            "title": "いくじ\nDỤC NHI\nNuôi con"
+        },
+        {
+            "word": "子育て",
+            "title": "こそだて\nTỬ DỤC\nNuôi con"
+        },
+        {
+            "word": "（人を）起こす",
+            "title": "(ひとを)おこす\nKHỞI\nĐánh thức"
+        },
+        {
+            "word": "糸",
+            "title": "いと\nMỊCH\nSợi chỉ"
+        },
+        {
+            "word": "針",
+            "title": "はり\nCHÂM\nKim"
+        },
+        {
+            "word": "生ごみ",
+            "title": "なまごみ\nSINH\nRác hữu cơ"
+        },
+        {
+            "word": "燃えるごみ",
+            "title": "もえるごみ\nNHIÊN\nRác cháy được"
+        },
+        {
+            "word": "燃えないごみ",
+            "title": "もえないごみ\nNHIÊN\nRác không cháy được"
+        },
+        {
+            "word": "空き缶",
+            "title": "あきかん\nKHÔNG PHẪU\nVỏ lon"
+        },
+        {
+            "word": "空き瓶",
+            "title": "あきびん\nKHÔNG BÌNH\nVỏ chai"
+        },
+        {
+            "word": "（ごみを）出す",
+            "title": "(ごみを)だす\nXUẤT\nVứt (rác)"
+        }
+    ]
+}
